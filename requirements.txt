@@ -1,0 +1,15 @@
+django==5.1.8
+djangorestframework==3.15.2
+django-cors-headers==4.7.0
+django-filter==24.3
+pillow==11.2.1
+python-dotenv==1.1.0
+whitenoise==6.9.0
+gunicorn==23.0.0
+psycopg2-binary==2.9.10
+PyJWT[crypto]==2.10.1
+cryptography==44.0.3
+requests==2.32.3
+pdfplumber==0.11.6
+pandas==2.2.3
+dj-database-url==2.3.0
