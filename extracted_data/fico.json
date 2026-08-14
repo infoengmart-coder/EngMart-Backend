@@ -1,0 +1,2583 @@
+{
+  "brand": "FICO Hi-Tech",
+  "products": [
+    {
+      "name": "Distributor",
+      "category": "general",
+      "series": "",
+      "description": "Distributor",
+      "variants": [
+        {
+          "cat_no": "Contact",
+          "description": "Contact :042-35183793, 0321 -9483127, 0300 -",
+          "price": 7888280.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Karachi.",
+      "category": "general",
+      "series": "",
+      "description": "Karachi.",
+      "variants": [
+        {
+          "cat_no": "Contact",
+          "description": "Contact : 0300 -7888277, 0300 -7888278, 0321 -",
+          "price": 9483127.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Company Outlet: Farooq and Co, Brandth Road Lahore.",
+      "category": "general",
+      "series": "",
+      "description": "Company Outlet: Farooq and Co, Brandth Road Lahore.",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 042-37667354, 0321 -9483127, 0300 -",
+          "price": 7888280.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Product Catalogue",
+      "category": "general",
+      "series": "",
+      "description": "Product Catalogue",
+      "variants": [
+        {
+          "cat_no": "W.E.F",
+          "description": "W.E.F 01.",
+          "price": 7.202,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Ratio Class VA P-Turn Price Rs CT Picture",
+      "category": "general",
+      "series": "",
+      "description": "Ratio Class VA P-Turn Price Rs CT Picture",
+      "variants": [
+        {
+          "cat_no": "30/5A",
+          "description": "30/5A 1 2.5 1",
+          "price": 600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60/5A",
+          "description": "60/5A 1 2.5 1 600 30/5A 0.5 - 1",
+          "price": 1100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60/5A",
+          "description": "60/5A 0.5 1.0 1",
+          "price": 1100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A 0.5 1.5 1",
+          "price": 1100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30/5A",
+          "description": "30/5A 1 2.5 4",
+          "price": 530.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "50/5A",
+          "description": "50/5A 1 2.5 2",
+          "price": 530.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60/5A",
+          "description": "60/5A 1 2.5 2 530 30/5A 0.5 - 1",
+          "price": 1150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A 1 2.5 1 530 60/5A 0.5 0.5 1",
+          "price": 1150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "150/5A",
+          "description": "150/5A 1 2.5 1 530 100/5A 0.5 1 1",
+          "price": 1200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 1 2.5 1 530 150/5A - 200/5A 0.5 2.5 1",
+          "price": 1250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A 1 2.5 1 630 300/5A 0.5 2.5 1",
+          "price": 1300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A 0.5 2.5 1",
+          "price": 1300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30/5A",
+          "description": "30/5A 1 2.5 4",
+          "price": 550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60/5A",
+          "description": "60/5A 1 2.5 2 550 100/5A 0.5 1 1",
+          "price": 1250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "75/5A",
+          "description": "75/5A 1 2.5 2 550 200/5A 0.5 1.5 1",
+          "price": 1350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A 1 2.5 1 550 300/5A 0.5 2.75 1",
+          "price": 1400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "150/5A",
+          "description": "150/5A 1 2.5 1 550 400/5A 0.5 5 1",
+          "price": 1470.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 1 2.5 1 590 600/5A 0.5 7.5 1",
+          "price": 1570.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "250/5A",
+          "description": "250/5A 1 2.5 1 590 800/5A 0.5 10 1",
+          "price": 1600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A 1 2.5 1",
+          "price": 630.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A 1 2.5 1",
+          "price": 670.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 0.5 1.5 1",
+          "price": 1750.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A 0.5 2.75 1",
+          "price": 1900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30/5A",
+          "description": "30/5A 1 5 4 830 400/5A 0.5 5 1",
+          "price": 2050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "50/5A",
+          "description": "50/5A 1 5 2 830 600/5A 0.5 7.5 1",
+          "price": 2100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60/5A",
+          "description": "60/5A 1 5 2 830 800/5A 0.5 10 1",
+          "price": 2300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A 1 5 1 830 1000/5A 0.5 9.0 1",
+          "price": 2350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "150/5A",
+          "description": "150/5A 1 5 1 830 1200/5A 0.5 12.5 1",
+          "price": 2450.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 1 5 1",
+          "price": 900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A 1 5 1",
+          "price": 930.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 0.5 10 1",
+          "price": 2500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5A",
+          "description": "1200/5A 0.5 15 1",
+          "price": 2900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30/5A",
+          "description": "30/5A 1 5 4 850 1600/5A 0.5 20 1",
+          "price": 3250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "50/5A",
+          "description": "50/5A 1 5 2 850 2000/5A 0.5 20 1",
+          "price": 3600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60/5A",
+          "description": "60/5A 1 5 2 850 2500/5A 0.5 20 1",
+          "price": 4600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A 1 5 1",
+          "price": 850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "150/5A",
+          "description": "150/5A 1 5 1",
+          "price": 910.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 1 5 1",
+          "price": 910.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "250/5A",
+          "description": "250/5A 1 5 1",
+          "price": 910.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A 1 5 1",
+          "price": 980.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30/1A",
+          "description": "30/1A 1 5 1",
+          "price": 1300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A 1 10 1 1260 60/1A 1 5 1",
+          "price": 1300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A 1 10 1",
+          "price": 1360.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 1 10 1",
+          "price": 1400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5A",
+          "description": "1200/5A 1 10 1 1500 300/1A 1 5 1",
+          "price": 1350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/1A",
+          "description": "400/1A 1 5 1",
+          "price": 1500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/1A",
+          "description": "600/1A 1 5 1",
+          "price": 1750.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A 1 10 1",
+          "price": 1450.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 1 10 1",
+          "price": 1500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5A",
+          "description": "1200/5A 1 10 1 1700 800/1A 0.5/1 10 1",
+          "price": 1850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1600/5A",
+          "description": "1600/5A 1 10 1 2000 1000/1A 0.5/1 10 1",
+          "price": 2000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/1A",
+          "description": "1200/1A 0.5/1 10 1",
+          "price": 2200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 1 10 1",
+          "price": 1870.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5A",
+          "description": "1200/5A 1 10 1",
+          "price": 1990.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1600/5A",
+          "description": "1600/5A 1 10 1",
+          "price": 2300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5A",
+          "description": "2000/5A 1 10 1",
+          "price": 2550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2500/5A",
+          "description": "2500/5A 1 10 1",
+          "price": 2850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A 1 10 1",
+          "price": 3700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3200/5A",
+          "description": "3200/5A 1 10 1",
+          "price": 3700.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "SALES TAX WILL BE CHARGED EXTRA",
+      "category": "general",
+      "series": "",
+      "description": "SALES TAX WILL BE CHARGED EXTRA",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "info@cognitivesolutions.com.pk,",
+          "description": "info@cognitivesolutions.com.pk, sales@cognitivesolutions.com.pkMax Bar Size 100x20Type: ELC -",
+          "price": 80.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Max",
+          "description": "Max Bar Size 80x10mm   Type: ELC -",
+          "price": 60.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: ELC -",
+          "price": 60.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: ELC -",
+          "price": 40.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Highly compact design",
+      "category": "general",
+      "series": "",
+      "description": "Highly compact design",
+      "variants": [
+        {
+          "cat_no": "Type:",
+          "description": "Type: ILC -",
+          "price": 40.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: ILC -",
+          "price": 80.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30/5A",
+          "description": "30/5A 1 15 4 1050 30/5A 1 10 4",
+          "price": 900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "50/5A",
+          "description": "50/5A 1 15 2 1050 50/5A 1 10 2",
+          "price": 900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60/5A",
+          "description": "60/5A 1 15 2 1050 60/5A 1 10 2",
+          "price": 900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A 1 15 1 1050 100/5A 1 10 1",
+          "price": 900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "150/5A",
+          "description": "150/5A 1 15 1 1100 150/5A 1 10 1",
+          "price": 900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 1 15 1 1150 200/5A 1 10 1",
+          "price": 950.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "250/5A",
+          "description": "250/5A 1 15 1 1200 250/5A 1 10 1",
+          "price": 1050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A 1 15 1 1250 300/5A 1 10 1",
+          "price": 1100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A 1 15 1 1250 400/5A 1 10 1",
+          "price": 1200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "500/5A",
+          "description": "500/5A 1 15 1 1400 500/5A 1 10 1",
+          "price": 1250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A 1 15 1 1700 600/5A 1 10 1",
+          "price": 1350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A 1 15 1 1600 400/5A 1 10 1",
+          "price": 1200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "500/5A",
+          "description": "500/5A 1 15 1 1700 500/5A 1 10 1",
+          "price": 1350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A 1 15 1 1750 600/5A 1 10 1",
+          "price": 1500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A 1 15 1 2100 800/5A 1 10 1",
+          "price": 1600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 1 15 1 2250 1000/5A 1 10 1",
+          "price": 1900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5A",
+          "description": "1200/5A 1 15 1 2350 1200/5A 1 10 1",
+          "price": 2250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A 1 15 1 1850 600/5A 1 10 1",
+          "price": 1550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A 1 15 1 2250 800/5A 1 10 1",
+          "price": 1700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 1 15 1 2400 1000/5A 1 10 1",
+          "price": 1850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5A",
+          "description": "1200/5A 1 15 1 2600 1200/5A 1 10 1",
+          "price": 2250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1600/5A",
+          "description": "1600/5A 1 15 1 2950 1600/5A 1 10 1",
+          "price": 2450.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5A",
+          "description": "2000/5A 1 15 1 3350 2000/5A 1 10 1",
+          "price": 3100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5A",
+          "description": "1200/5A 1 15 1 3350 1200/5A 1 10 1",
+          "price": 3100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1600/5A",
+          "description": "1600/5A 1 15 1 3550 1600/5A 1 10 1",
+          "price": 3300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5A",
+          "description": "2000/5A 1 15 1 3750 2000/5A 1 10 1",
+          "price": 3550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2500/5A",
+          "description": "2500/5A 1 15 1 4500 2500/5A 1 10 1",
+          "price": 4100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A 1 15 1 4800 3000/5A 1 10 1",
+          "price": 4200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3200/5A",
+          "description": "3200/5A 1 15 1 5250 3200/5A 1 10 1",
+          "price": 4850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3500/5A",
+          "description": "3500/5A 1 15 1 5800 3500/5A 1 10 1",
+          "price": 5400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A 1 15 1 6350 4000/5A 1 10 1",
+          "price": 5900.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "1 YEAR - WARRANTY PERIOD  (ONLY MANUFACTURING FAULT)",
+      "category": "general",
+      "series": "",
+      "description": "1 YEAR - WARRANTY PERIOD  (ONLY MANUFACTURING FAULT)",
+      "variants": [
+        {
+          "cat_no": "SALES",
+          "description": "SALES TAX WILL BE CHARGED EXTRAType: SLC -",
+          "price": 30.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: SLC -",
+          "price": 50.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Window",
+          "description": "Window Size 50mmType: SLC - 40 Type: RLC -",
+          "price": 50.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Window",
+          "description": "Window Size",
+          "price": 50.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: RLC -",
+          "price": 65.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "- HAVING OPTION OF SEALING WITH CRYSTAL COVERING.",
+      "category": "general",
+      "series": "",
+      "description": "- HAVING OPTION OF SEALING WITH CRYSTAL COVERING.",
+      "variants": [
+        {
+          "cat_no": "Type:",
+          "description": "Type: RLC -",
+          "price": 30.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: RLC -",
+          "price": 80.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: SLC -",
+          "price": 100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Ration Class VA P-Turn Price Rs Ration Class VA P-Turn Price RsCT Picture",
+      "category": "general",
+      "series": "",
+      "description": "Ration Class VA P-Turn Price Rs Ration Class VA P-Turn Price RsCT Picture",
+      "variants": [
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A 1 15 1 6050 100/5A - 1.5 1",
+          "price": 4600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A 1 15 1 7150 150/5A - 1.5 1",
+          "price": 4650.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000/5A",
+          "description": "5000/5A 1 15 1 8500 200/5A - 1.5 1",
+          "price": 4750.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "6000/5A",
+          "description": "6000/5A 1 15 1 9800 250/5A - 1.5 1",
+          "price": 4800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A - 2.5 1",
+          "price": 4850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A 2.5 3.75 1",
+          "price": 4950.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A 1 15 1",
+          "price": 7550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A 1 15 1",
+          "price": 9050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000/5A",
+          "description": "5000/5A 1 15 1 10000 250/5A - 1.5 1",
+          "price": 6300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "6000/5A",
+          "description": "6000/5A 1 15 1 10500 300/5A - 2.5 1",
+          "price": 6400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "8000/5",
+          "description": "8000/5 1 15 1 12000 400/5A 1.5 2.5 1",
+          "price": 6450.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A 2.5 5 1",
+          "price": 6600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5AA",
+          "description": "800/5AA 3.75 5 1",
+          "price": 6700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A 1 15 1 9100 1000/5A 5 10 1",
+          "price": 6850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A 1 15 1",
+          "price": 10000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000/5A",
+          "description": "5000/5A 1 15 1",
+          "price": 10500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "6000/5A",
+          "description": "6000/5A 1 15 1 12000 250/5A - 1.5 1",
+          "price": 7150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "8000/5",
+          "description": "8000/5 1 15 1 12900 300/5A - 1.5 1",
+          "price": 7250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A - 2.5 1",
+          "price": 7400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A 1.5 2.5 1",
+          "price": 7550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A 1 15 1 10000 800/5A 3.75 5 1",
+          "price": 7700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A 1 15 1 10500 1000/5A 7.5 7.5 1",
+          "price": 7800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000/5A",
+          "description": "5000/5A 1 15 1",
+          "price": 12000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "6000/5A",
+          "description": "6000/5A 1 15 1",
+          "price": 12900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "8000/5",
+          "description": "8000/5 1 15 1 13600 600/5A - 2.5 1",
+          "price": 9050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A 2.5 5 1",
+          "price": 9350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 5 7.5 1",
+          "price": 9550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A 1 15 1 10500 1200/5A 5 10 1",
+          "price": 9800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A 1 15 1 12000 1600/5A 5 10 1",
+          "price": 10150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000/5A",
+          "description": "5000/5A 1 15 1",
+          "price": 12900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "6000/5A",
+          "description": "6000/5A 1 15 1",
+          "price": 13600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "8000/5",
+          "description": "8000/5 1 15 1 15000 1000/5A 5 10 1",
+          "price": 15400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5A",
+          "description": "2000/5A 7.5 10 1",
+          "price": 16350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2500/5A",
+          "description": "2500/5A 15 20 1",
+          "price": 17050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "SECONDARY",
+          "description": "SECONDARY TERMINALS PROTECTED THROUGH CRYSTAL COVER 3000/5A 20 25 1",
+          "price": 17600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A 20 25 1",
+          "price": 18700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000/5A",
+          "description": "5000/5A 20 25 1",
+          "price": 19900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "6000/5A",
+          "description": "6000/5A 20 25 1",
+          "price": 21000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "cl.",
+          "description": "cl. 0.5 cl. 1 cl. 5P",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "A/5",
+          "description": "A/5 VA VA VA 1000/5A 5 10 1",
+          "price": 17050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5",
+          "description": "400/5 5 12 5 1,510       2000/5A 7.5 10 1",
+          "price": 18150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "500/5",
+          "description": "500/5 10 20 5 1,580       2500/5A 15 20 1",
+          "price": 19050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5",
+          "description": "600/5 10 20 8 1,720       3000/5A 20 25 1",
+          "price": 19500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5",
+          "description": "800/5 10 20 8 1,790       4000/5A 20 25 1",
+          "price": 20700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5",
+          "description": "1000/5 15 30 8 2,060       5000/5A 20 25 1",
+          "price": 22200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5",
+          "description": "1200/5 18 36 8 2,200       6000/5A 20 25 1",
+          "price": 23250.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1600/5",
+          "description": "1600/5 20 40 9",
+          "price": 2480.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5",
+          "description": "2000/5 25 50 9",
+          "price": 2960.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "cl.",
+          "description": "cl. 0.5 cl. 1 cl. 5P",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "400/5 8 16 4 1,860        STARTING FROM 5/5 WITH 0.5 CL",
+      "category": "general",
+      "series": "",
+      "description": "400/5 8 16 4 1,860        STARTING FROM 5/5 WITH 0.5 CL",
+      "variants": [
+        {
+          "cat_no": "600/5",
+          "description": "600/5 15 30 7 2,060       5/5A to 0. to 0.5 10 na",
+          "price": 3200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5",
+          "description": "800/5 15 30 7 2,270       100/5A 0. to 0.5 10 na",
+          "price": 3600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5",
+          "description": "1000/5 20 40 10 2,470       150/5A 0. to 0.5 10 na",
+          "price": 3750.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5",
+          "description": "1200/5 30 60 10 2,680       200/5A 0. to 0.5 10 na",
+          "price": 3900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1600/5",
+          "description": "1600/5 40 80 10 2,960       300/5A 0. to 0.5 10 na",
+          "price": 4100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5",
+          "description": "2000/5 50 100 10",
+          "price": 3500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2500/5",
+          "description": "2500/5 60 120 8",
+          "price": 3990.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "cl.",
+          "description": "cl. 0.5 cl. 1 cl. 5P",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "A/5 VA VA VA",
+      "category": "general",
+      "series": "",
+      "description": "A/5 VA VA VA",
+      "variants": [
+        {
+          "cat_no": "600/5",
+          "description": "600/5 15 30 3",
+          "price": 2750.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5",
+          "description": "800/5 15 30 3",
+          "price": 2890.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5",
+          "description": "1000/5 20 40 5",
+          "price": 3090.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200/5",
+          "description": "1200/5 20 40 5",
+          "price": 3370.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1500/5",
+          "description": "1500/5 40 80 6",
+          "price": 3640.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5",
+          "description": "2000/5 50 80 4",
+          "price": 4190.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "2500/5 60 120 4 4,810     SALES TAX WILL BE CHARGED EXTRA",
+      "category": "general",
+      "series": "",
+      "description": "2500/5 60 120 4 4,810     SALES TAX WILL BE CHARGED EXTRA",
+      "variants": [
+        {
+          "cat_no": "3000/5",
+          "description": "3000/5 60 120 4",
+          "price": 5360.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4500/5",
+          "description": "4500/5 80 160 2",
+          "price": 6530.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Price Rs",
+      "category": "general",
+      "series": "",
+      "description": "Price Rs",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "CurrentBurden",
+      "category": "general",
+      "series": "",
+      "description": "CurrentBurden",
+      "variants": [
+        {
+          "cat_no": "Price",
+          "description": "Price RsCT PictureType: SCLC -",
+          "price": 816.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 80X",
+          "price": 160.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: SCLC -",
+          "price": 820.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 80X200Type: SCLC -",
+          "price": 812.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 120X80Type: SCLC -",
+          "price": 88.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 80X80INNER WINDOW SIZE - 20X",
+          "price": 30.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 50X80Type: SCLC - 58Type: SCLC -",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: SDH -",
+          "price": 265.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 265X110Type: SDH -",
+          "price": 150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 150X",
+          "price": 110.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: SDH -",
+          "price": 180.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 185X55Type: SDH -",
+          "price": 130.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Type:",
+          "description": "Type: SDH -",
+          "price": 220.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Ratio Class VA pt Price Rs CT Picture",
+      "category": "general",
+      "series": "",
+      "description": "Ratio Class VA pt Price Rs CT Picture",
+      "variants": [
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A",
+          "price": 9800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 4500 200/5A",
+          "price": 9800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A",
+          "price": 10700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A",
+          "price": 10700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100",
+          "description": "100 TO 300/5A",
+          "price": 11600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A",
+          "price": 12500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A",
+          "price": 13400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A",
+          "price": 13850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A 3650 1000/5A",
+          "price": 14300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5A",
+          "description": "2000/5A",
+          "price": 15150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A",
+          "price": 16050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "KE",
+          "description": "KE APPROVED MODEL4000/5A",
+          "price": 17850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000",
+          "description": "5000 TO 6000/5A",
+          "price": 19650.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Ration Class Price Rs CT Picture",
+      "category": "general",
+      "series": "",
+      "description": "Ration Class Price Rs CT Picture",
+      "variants": [
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A",
+          "price": 14300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200/5A",
+          "description": "200/5A 2600 2000/5A",
+          "price": 15150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A",
+          "price": 16050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4000/5A",
+          "description": "4000/5A",
+          "price": 17850.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "400/5A 28005000 TO",
+      "category": "general",
+      "series": "",
+      "description": "400/5A 28005000 TO",
+      "variants": [
+        {
+          "cat_no": "6000/5A0.5",
+          "description": "6000/5A0.5 15 1",
+          "price": 19650.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600/5A",
+          "description": "600/5A",
+          "price": 3000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A",
+          "price": 3300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A",
+          "price": 4100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000/5A",
+          "description": "1000/5A",
+          "price": 14300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000/5A",
+          "description": "2000/5A",
+          "price": 15150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3000/5A",
+          "description": "3000/5A",
+          "price": 16050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2400/5A",
+          "description": "2400/5A 7050 4000/5A",
+          "price": 17850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5000",
+          "description": "5000 TO 6000/5A",
+          "price": 19650.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "MLC (RESIN CAST)",
+      "category": "general",
+      "series": "",
+      "description": "MLC (RESIN CAST)",
+      "variants": [
+        {
+          "cat_no": "100/5A",
+          "description": "100/5A WSB-30",
+          "price": 4950.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "WSB-504600INNER WINDOW SIZE - 30MM",
+      "category": "general",
+      "series": "",
+      "description": "WSB-504600INNER WINDOW SIZE - 30MM",
+      "variants": [
+        {
+          "cat_no": "0.5",
+          "description": "0.5 15",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300/5A",
+          "description": "300/5A",
+          "price": 4150.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400/5A",
+          "description": "400/5A WSB-65 3740Type: MLC",
+          "price": 60.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "INNER WINDOW SIZE - 60MM",
+      "category": "general",
+      "series": "",
+      "description": "INNER WINDOW SIZE - 60MM",
+      "variants": [
+        {
+          "cat_no": "0.5",
+          "description": "0.5 15",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "600/5A",
+      "category": "general",
+      "series": "",
+      "description": "600/5A",
+      "variants": [
+        {
+          "cat_no": "WSB-",
+          "description": "WSB-",
+          "price": 753300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800/5A",
+          "description": "800/5A 3300Type: MLC 50X",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE -50X",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "0.5",
+          "description": "0.5 15",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "1200/5A",
+      "category": "general",
+      "series": "",
+      "description": "1200/5A",
+      "variants": [
+        {
+          "cat_no": "SLC",
+          "description": "SLC 125-k6000Type: MLC 75X",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "100/5A",
+      "category": "general",
+      "series": "",
+      "description": "100/5A",
+      "variants": [
+        {
+          "cat_no": "SLC-402900INNER",
+          "description": "SLC-402900INNER WINDOW SIZE - 75X",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "0.5",
+          "description": "0.5",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "300/5A",
+      "category": "general",
+      "series": "",
+      "description": "300/5A",
+      "variants": [
+        {
+          "cat_no": "SLC",
+          "description": "SLC",
+          "price": 652600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "info@cognitivesolutions.com.pk,",
+          "description": "info@cognitivesolutions.com.pk, sales@cognitivesolutions.com.pk",
+          "price": 15.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "0.5",
+          "description": "0.5 15 1Type: MLC 100X",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "INNER",
+          "description": "INNER WINDOW SIZE - 100X",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "PUSH BUTTON",
+      "category": "general",
+      "series": "",
+      "description": "PUSH BUTTON",
+      "variants": [
+        {
+          "cat_no": "FPB-",
+          "description": "FPB-",
+          "price": 22.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "DESCRIPTION PRICE Rs",
+      "category": "general",
+      "series": "",
+      "description": "DESCRIPTION PRICE Rs",
+      "variants": [
+        {
+          "cat_no": "FPB-22",
+          "description": "FPB-22 - FLUSH  TYPE PUSH BUTTON - RED 22MM",
+          "price": 95.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPB-22",
+          "description": "FPB-22 - FLUSH  TYPE PUSH BUTTON - GREEN 22MM",
+          "price": 95.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPB-22",
+          "description": "FPB-22 - FLUSH  TYPE PUSH BUTTON - GREEN 22MM",
+          "price": 110.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBG-B-NO",
+          "description": "FPBG-B-NO - FLUSH  TYPE PUSH BUTTON  WITH BASE- GREEN 22MM",
+          "price": 95.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBG-B-NOC",
+          "description": "FPBG-B-NOC - FLUSH  TYPE PUSH BUTTON  WITH BASE- GREEN 22MM",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBR-B-NC",
+          "description": "FPBR-B-NC - FLUSH  TYPE PUSH BUTTON  WITH BASE- RED 22MM",
+          "price": 95.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBR-B-NOC",
+          "description": "FPBR-B-NOC - FLUSH  TYPE PUSH BUTTON  WITH BASE- RED 22MM",
+          "price": 125.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBGS-NO/NC",
+          "description": "FPBGS-NO/NC - FLUSH  TYPE PUSH BUTTON WITH BASE & METAL CASING - GREEN 22MM",
+          "price": 115.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBRS-NO/NC",
+          "description": "FPBRS-NO/NC - FLUSH  TYPE PUSH BUTTON WITH BASE & METAL CASING - RED 22MM",
+          "price": 115.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBRS-NOC",
+          "description": "FPBRS-NOC - FLUSH  TYPE PUSH BUTTON WITH BASE & METAL CASING - GREEN 22MM",
+          "price": 135.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBGS-NOC",
+          "description": "FPBGS-NOC - FLUSH  TYPE PUSH BUTTON WITH BASE & METAL CASING - RED 22MM",
+          "price": 135.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPBGR-NOC",
+          "description": "FPBGR-NOC - FLUSH  TYPE PUSH BUTTON  WITH BASE - 1 NO + 1NC",
+          "price": 270.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPB-LH",
+          "description": "FPB-LH - LONG HANDLE REMOVABLE PUSH BUTTON 1 NO + 1NC",
+          "price": 185.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FPB-KL",
+          "description": "FPB-KL - KEY LOCK REMOVABLE PUSH BUTTON 1 NO + 1NC",
+          "price": 290.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FMHB-TR",
+          "description": "FMHB-TR - MUSHROOM HEAD BUTTON (40mm dia),TWIST RELEASE 1 NO + 1NC",
+          "price": 180.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FMHB-KL",
+          "description": "FMHB-KL - MUSHROOM HEAD BUTTON (40mm dia), KEY LOCK 1 NO + 1NC",
+          "price": 290.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "1 NC OR 1 NO1 NO + 1NC",
+      "category": "general",
+      "series": "",
+      "description": "1 NC OR 1 NO1 NO + 1NC",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Industrial automation & control",
+      "category": "general",
+      "series": "",
+      "description": "Industrial automation & control",
+      "variants": [
+        {
+          "cat_no": "FIL-",
+          "description": "FIL-",
+          "price": 22.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FAM-96A - ANALOGUE AMPERE METER SIZE: 96 X 96 MM:",
+      "category": "general",
+      "series": "",
+      "description": "FAM-96A - ANALOGUE AMPERE METER SIZE: 96 X 96 MM:",
+      "variants": [
+        {
+          "cat_no": "CT",
+          "description": "CT OPERATED: 30/5, 60/5, 100/5, 300/5, 1000/5, 2500/5, 4000/",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FAM-72A ANALOGUE AMPERE METER SIZE: 72 X 72 MM:",
+      "category": "general",
+      "series": "",
+      "description": "FAM-72A ANALOGUE AMPERE METER SIZE: 72 X 72 MM:",
+      "variants": [
+        {
+          "cat_no": "CT",
+          "description": "CT OPERATED:  100/5, 300/5, 1000/5, 2500/5, 4000/",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FAM-48A - ANALOGUE AMPERE METER SIZE: 48 X 48 MM:",
+      "category": "general",
+      "series": "",
+      "description": "FAM-48A - ANALOGUE AMPERE METER SIZE: 48 X 48 MM:",
+      "variants": [
+        {
+          "cat_no": "CT",
+          "description": "CT OPERATED: 100/5, 300/5, 1000/5, 2500/5, 4000/",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FS26-20 - AMMETER SELECTOR",
+      "category": "general",
+      "series": "",
+      "description": "FS26-20 - AMMETER SELECTOR",
+      "variants": [
+        {
+          "cat_no": "-POSITION",
+          "description": "-POSITION O-R-S-T",
+          "price": 935.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FS26-20 VOLTMETER SELECTOR SWITCH",
+      "category": "general",
+      "series": "",
+      "description": "FS26-20 VOLTMETER SELECTOR SWITCH",
+      "variants": [
+        {
+          "cat_no": "-",
+          "description": "- 7 POSITION  TR-ST-RS-0-RN-SN-TN",
+          "price": 935.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FS26-20 VOLTMETER SELECTOR SWITCH",
+      "category": "general",
+      "series": "",
+      "description": "FS26-20 VOLTMETER SELECTOR SWITCH",
+      "variants": [
+        {
+          "cat_no": "-",
+          "description": "- 4 POSITION 0-TR-RS-ST",
+          "price": 750.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "(OFF",
+          "description": "(OFF - STAR - DELTA)",
+          "price": 1180.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "1 YEAR - WARRANTY PERIOD  (ONLY MANUFACTURING FAULT)",
+      "category": "general",
+      "series": "",
+      "description": "1 YEAR - WARRANTY PERIOD  (ONLY MANUFACTURING FAULT)",
+      "variants": [
+        {
+          "cat_no": "SALES",
+          "description": "SALES TAX WILL BE CHARGED EXTRA",
+          "price": 750.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Industrial automation & control",
+      "category": "general",
+      "series": "",
+      "description": "Industrial automation & control",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "info@cognitivesolutions.com.pk,",
+          "description": "info@cognitivesolutions.com.pk, sales@cognitivesolutions.com.pk",
+          "price": 1510.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FDM 96B-V - 96 X 48 MM                       4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "category": "general",
+      "series": "",
+      "description": "FDM 96B-V - 96 X 48 MM                       4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "variants": [
+        {
+          "cat_no": "CONSUMPTION",
+          "description": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZFS26-16 16A 3-POLE 1-0-",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "category": "general",
+      "series": "",
+      "description": "4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "variants": [
+        {
+          "cat_no": "CONSUMPTION",
+          "description": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZFS26-32 32A 3-POLE 1-0-",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FS26-32",
+          "description": "FS26-32 32A 4-POLE 1-0-",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FS26-63",
+          "description": "FS26-63 63A 3-POLE 1-0-",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FS26-63",
+          "description": "FS26-63 63A 4-POLE 1-0-",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FS26-32",
+          "description": "FS26-32 32A 3-POSITION 0-1-2-",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "category": "general",
+      "series": "",
+      "description": "4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "variants": [
+        {
+          "cat_no": "CONSUMPTION",
+          "description": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZFS26-16 32A 4-POSITION 0-1-2-3-",
+          "price": 4.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+      "category": "general",
+      "series": "",
+      "description": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CONSUMPTION",
+          "description": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+          "price": 15002110.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "category": "general",
+      "series": "",
+      "description": "4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "variants": [
+        {
+          "cat_no": "CONSUMPTION",
+          "description": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+          "price": 1510.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FDM 96 3V - 96 X 96 MM                       4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "category": "general",
+      "series": "",
+      "description": "FDM 96 3V - 96 X 96 MM                       4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER",
+      "variants": [
+        {
+          "cat_no": "CONSUMPTION",
+          "description": "CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+          "price": 3780.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Price Rs",
+      "category": "general",
+      "series": "",
+      "description": "Price Rs",
+      "variants": [
+        {
+          "cat_no": "FDM-80A",
+          "description": "FDM-80A - 80 X 80 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+          "price": 890.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FDM-60A",
+          "description": "FDM-60A - 60 X 60 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+          "price": 890.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FDM-80V",
+          "description": "FDM-80V - 80 X 80 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+          "price": 540.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FDM-60A",
+          "description": "FDM-60A - 60 X 60 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+          "price": 540.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FDM-DRT DIGITAL DIN RAIL TYPE",
+      "category": "general",
+      "series": "",
+      "description": "FDM-DRT DIGITAL DIN RAIL TYPE",
+      "variants": [
+        {
+          "cat_no": "54",
+          "description": "54 X 80 X 64 MM",
+          "price": 1900.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "4VA OPERATING FREQUENCY 45 - 65 HZ1690DESCRIPTION",
+      "category": "general",
+      "series": "",
+      "description": "4VA OPERATING FREQUENCY 45 - 65 HZ1690DESCRIPTION",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Current Transducer for durability. Aux.",
+      "category": "general",
+      "series": "",
+      "description": "Current Transducer for durability. Aux.",
+      "variants": [
+        {
+          "cat_no": "Class:1.0/0.5(Optional)",
+          "description": "Class:1.0/0.5(Optional)",
+          "price": 5150.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "SALES TAX WILL BE CHARGED EXTRA",
+      "category": "general",
+      "series": "",
+      "description": "SALES TAX WILL BE CHARGED EXTRA",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Industrial automation & control",
+      "category": "general",
+      "series": "",
+      "description": "Industrial automation & control",
+      "variants": [
+        {
+          "cat_no": "54",
+          "description": "54 X 80 X 64 MM Rs",
+          "price": 1600.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "200K40K",
+      "category": "general",
+      "series": "",
+      "description": "200K40K",
+      "variants": [
+        {
+          "cat_no": "Contact:",
+          "description": "Contact: 0321-9483127, 042-",
+          "price": 35183793.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Rating Type Poles Price",
+      "category": "general",
+      "series": "",
+      "description": "Rating Type Poles Price",
+      "variants": [
+        {
+          "cat_no": "30",
+          "description": "30 Amp Main Switch 3",
+          "price": 2930.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60",
+          "description": "60 Amp Main Switch 3",
+          "price": 3860.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100",
+          "description": "100 Amp (TPN) Main Switch 3",
+          "price": 9360.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100",
+          "description": "100 Amp Turn HRC Main Switch 4",
+          "price": 14040.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200",
+          "description": "200 Amp Turn HRC Main Switch 4",
+          "price": 19890.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300",
+          "description": "300 Amp Turn HRC Main Switch 4",
+          "price": 22230.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400",
+          "description": "400 Amp Turn HRC Main Switch 4",
+          "price": 37440.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "500",
+          "description": "500 Amp Turn HRC Main Switch 4",
+          "price": 41886.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600",
+          "description": "600 Amp Turn HRC Main Switch 4",
+          "price": 50900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "43",
+          "description": "43 Amp Change Over (Wall Mounted) 2",
+          "price": 1700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "63",
+          "description": "63 Amp Change Over (Wall Mounted) 2",
+          "price": 2870.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30",
+          "description": "30 Amp Change Over  (Wall Mounted) 4",
+          "price": 4680.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "60",
+          "description": "60 Amp Change Over  (Wall Mounted) 4",
+          "price": 6560.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "100",
+          "description": "100 Amp Change Over  (Wall Mounted) 4",
+          "price": 10300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "200",
+          "description": "200 Amp Change Over  (Wall Mounted) 4",
+          "price": 20240.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "300",
+          "description": "300 Amp Change Over  (Wall Mounted) 4",
+          "price": 23400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "400",
+          "description": "400 Amp Change Over  (Wall Mounted) 4",
+          "price": 39550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "500",
+          "description": "500 Amp Change Over  (Wall Mounted) 4",
+          "price": 45400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600",
+          "description": "600 Amp Change Over  (Wall Mounted) 4",
+          "price": 70200.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800",
+          "description": "800 Amp Change Over  (Wall Mounted) 4",
+          "price": 118400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000",
+          "description": "1000 Amp Change Over  (Wall Mounted) 4",
+          "price": 141800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "500",
+          "description": "500 Amp Change Over  (Floor Mounted) 4",
+          "price": 118400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600",
+          "description": "600 Amp Change Over  (Floor Mounted) 4",
+          "price": 155410.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "800",
+          "description": "800 Amp Change Over  (Floor Mounted) 4",
+          "price": 207210.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1000",
+          "description": "1000 Amp Change Over  (Floor Mounted) 4",
+          "price": 224700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1200",
+          "description": "1200 Amp Change Over  (Floor Mounted) 4",
+          "price": 281620.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1600",
+          "description": "1600 Amp Change Over  (Floor Mounted) 4",
+          "price": 322920.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "2000",
+          "description": "2000 Amp Change Over  (Floor Mounted) 4",
+          "price": 387770.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    }
+  ]
+}

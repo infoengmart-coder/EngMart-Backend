@@ -1,0 +1,301 @@
+{
+  "brand": "PCE",
+  "products": [
+    {
+      "name": "Price List of Industrial Plugs & Sockets",
+      "category": "general",
+      "series": "",
+      "description": "Price List of Industrial Plugs & Sockets",
+      "variants": [
+        {
+          "cat_no": "Catalogue",
+          "description": "Catalogue Ref. Page No. 137  w.e.f. 08-Oct,",
+          "price": 2021.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Product  Cat No  Description  List Price",
+      "category": "general",
+      "series": "",
+      "description": "Product  Cat No  Description  List Price",
+      "variants": [
+        {
+          "cat_no": "Wall",
+          "description": "Wall Sockets  113-6 16 Amp 3 Pole Wall Socket IP44",
+          "price": 1020.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "115-6",
+          "description": "115-6 16 Amp 5 Pole Wall Socket IP44",
+          "price": 1215.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "123-6",
+          "description": "123-6 32 Amp 3 Pole Wall Socket IP44",
+          "price": 1400.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "125-6",
+          "description": "125-6 32 Amp 5 Pole Wall Socket IP44",
+          "price": 1720.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "133-6",
+          "description": "133-6 63 Amp 3 Pole Wall Socket IP67",
+          "price": 4800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "135-6",
+          "description": "135-6 63 Amp 5 Pole Wall Socket IP67",
+          "price": 5280.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "145-6",
+          "description": "145-6 125 Amp 5 Pole Wall Socket IP67",
+          "price": 13350.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Flanged",
+          "description": "Flanged  Sockets  413-6 16 Amp 3 Pole Flanged Socket IP44",
+          "price": 975.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "415-6",
+          "description": "415-6 16 Amp 5 Pole Flanged Socket IP44",
+          "price": 1100.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "423-6",
+          "description": "423-6 32 Amp 3 Pole Flanged Socket IP44",
+          "price": 1330.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "425-6",
+          "description": "425-6 32 Amp 5 Pole Flanged Socket IP44",
+          "price": 1570.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "433-6",
+          "description": "433-6 63 Amp 3 Pole Flanged Socket  IP67",
+          "price": 3500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "435-6",
+          "description": "435-6 63 Amp 5 Pole Flanged Socket IP67",
+          "price": 4230.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "445-6",
+          "description": "445-6 125 Amp 5 Pole Flanged Socket IP67",
+          "price": 12760.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Connectors",
+          "description": "Connectors  213-6 16 Amp 3 Pole Connectors IP44",
+          "price": 1220.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "215-6",
+          "description": "215-6 16 Amp 5 Pole Connectors IP44",
+          "price": 1320.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "223-6",
+          "description": "223-6 32 Amp 3 Po le Connectors IP44",
+          "price": 1600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "225-6",
+          "description": "225-6 32 Amp 5 Pole Connectors IP44",
+          "price": 1800.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "233-6",
+          "description": "233-6 63 Amp 3 Pole Connectors IP67",
+          "price": 5440.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "235-6",
+          "description": "235-6 63 Amp 5 Pole Connectors IP67",
+          "price": 6640.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "245-6",
+          "description": "245-6 125 Amp 5 Pole Connectors IP67",
+          "price": 8580.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Switched",
+          "description": "Switched Interlocked Soc kets 7513 -6 16 Amp 3 Pole Safety Socket IP44",
+          "price": 12130.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "7515",
+          "description": "7515 -6 16 Amp 5 Pole Safety Socket IP44",
+          "price": 13850.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "7523",
+          "description": "7523 -6 32 Amp 3 Pole Safety Socket IP44",
+          "price": 19450.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "7525",
+          "description": "7525 -6 32 Amp 5 Pole Safety Socket IP44",
+          "price": 22540.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "75332",
+          "description": "75332 -6 63 Amp 3 Pole Safety So cket IP67",
+          "price": 32700.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "75352",
+          "description": "75352 -6 63 Amp 5 Pole Safety Socket IP67",
+          "price": 34300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Plugs",
+          "description": "Plugs  013-6 16 Amp 3 Pole Plug IP44",
+          "price": 640.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "015-6",
+          "description": "015-6 16 Amp 5 Pole Plug IP44",
+          "price": 830.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "023-6",
+          "description": "023-6 32 Amp 3 Pole Plug IP44",
+          "price": 1020.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "025-6",
+          "description": "025-6 32 Amp 5 Pole Plug IP44",
+          "price": 1120.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "033-6",
+          "description": "033-6 63 Amp 3 Pole Plug IP67",
+          "price": 3290.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "035-6",
+          "description": "035-6 63 Amp 5 Pole Plug IP67",
+          "price": 3460.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "045-6",
+          "description": "045-6 125 Amp 5 Pole Plug IP67",
+          "price": 11600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Mini",
+          "description": "Mini Flanged Sockets  1020 -5S 13 Amp 3 Pin Flanged Socket Flat Pin IP44",
+          "price": 490.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Schuko",
+          "description": "Schuko Socket/Plug  1050 -0B 16 Amp 3 Pin Schuko Socket, Blue IP54",
+          "price": 485.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "1050",
+          "description": "1050 -0WS  16 Amp 3 Pin Schuko Socket, White IP54",
+          "price": 485.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "02958",
+          "description": "02958 -WE 16 Amp 3 Pin Schuko Plug, White IP20",
+          "price": 435.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "02974",
+          "description": "02974 -BK 16 Amp 3 Pin Schuko Plug, Black IP20",
+          "price": 370.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    }
+  ]
+}

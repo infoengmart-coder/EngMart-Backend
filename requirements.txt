@@ -13,3 +13,5 @@ requests==2.32.3
 pdfplumber==0.11.6
 pandas==2.2.3
 dj-database-url==2.3.0
+djangorestframework-simplejwt==5.5.1
+redis>=5.0

@@ -1,0 +1,1488 @@
+{
+  "source_pdf": "Siemens Components Price List1.pdf",
+  "rows": [
+    {
+      "page": 1,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WT8121-5UN30-0AA2",
+      "description": "Circuit Breaker ACB - fixed-mounted circuit breaker 3-pole, size 1 In=1250A to 500V, 50/60Hz AC Icu=66kA at 500V with mechanical lockout device with tripped signaling switch with tripped indicators rated short-time current strength ICW 66kA/S, 3- pole Overcurrent release ETU35WT LSI Setting range according to FS with display Motorized/manual operating mechanism with memory with electrical and mechanical activation Motor and electr. calling for 220...240 V AC, 220...250 V DC Activation solenoid 220...250 V DC With 1st auxiliary release Undervoltage release \"R\", F3 220...240 V AC, 220...250 V DC instantaneous With 2nd auxiliary release Shunt release \"F\", F2 220...240 V AC, 220...250 V DC switch position-depending Auxiliary current switch 2 NC+2 NO With door sealing frame",
+      "price_pkr": 808096.95,
+      "specs": {
+        "s_no": 1,
+        "rating": "1250A",
+        "breaking_capacity": "66kA",
+        "series": "3WT8"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WT8161-5UN30-0AA2",
+      "description": "Circuit Breaker ACB - fixed-mounted circuit breaker 3-pole, size 1 In=1600A to 500V, 50/60Hz AC Icu=66kA at 500V with mechanical lockout device with tripped signaling switch with tripped indicators Overcurrent release ETU35WT LSI Setting range according to FS with display Motorized/manual operating mechanism with memory with electrical and mechanical activation Motor and electr. calling for 220...240 V AC, 220...250 V DC Activation solenoid 220...250 V DC With 1st auxiliary release Undervoltage release \"R\", F3 220...240 V AC, 220...250 V DC instantaneous With 2nd auxiliary release Shunt release \"F\", F2 220...240 V AC, 220...250 V DC switch position-depending Auxiliary current switch 2 NC+2 NO With door sealing frame",
+      "price_pkr": 839379.88,
+      "specs": {
+        "s_no": 2,
+        "rating": "1600A",
+        "breaking_capacity": "66kA",
+        "series": "3WT8"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WT8202-5UN30-0AA2",
+      "description": "Circuit Breaker ACB - fixed-mounted circuit breaker 3-pole, size 2 In=2000A to 500V, 50/60Hz AC Icu=66kA at 500V with mechanical lockout device with tripped signaling switch with tripped indicators Overcurrent release ETU35WT LSI Setting range according to FS with display Motorized/manual operating mechanism with memory with electrical and mechanical activation Motor and electr. calling for 220...240 V AC, 220...250 V DC Activation solenoid 220...250 V DC With 1st auxiliary release Undervoltage release \"R\", F3 220...240 V AC, 220...250 V DC instantaneous With 2nd auxiliary release Shunt release \"F\", F2 220...240 V AC, 220...250 V DC switch position-depending Auxiliary current switch 2 NC+2 NO With door sealing frame",
+      "price_pkr": 1109880.34,
+      "specs": {
+        "s_no": 3,
+        "rating": "2000A",
+        "breaking_capacity": "66kA",
+        "series": "3WT8"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WT8252-5UN30-0AA2",
+      "description": "Circuit Breaker ACB - fixed-mounted circuit breaker 3-pole, size 2 In=2500A to 500V, 50/60Hz AC Icu=66kA at 500V with mechanical lockout device with tripped signaling switch with tripped indicators Overcurrent release ETU35WT LSI Setting range according to FS with display Motorized/manual operating mechanism with memory with electrical and mechanical activation Motor and electr. calling for 220...240 V AC, 220...250 V DC Activation solenoid 220...250 V DC With 1st auxiliary release Undervoltage release \"R\", F3 220...240 V AC, 220...250 V DC instantaneous With 2nd auxiliary release Shunt release \"F\", F2 220...240 V AC, 220...250 V DC switch position-depending Auxiliary current switch 2 NC+2 NO With door sealing frame",
+      "price_pkr": 1367498.51,
+      "specs": {
+        "s_no": 4,
+        "rating": "2500A",
+        "breaking_capacity": "66kA",
+        "series": "3WT8"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WT8322-5UN30-0AA2",
+      "description": "Circuit Breaker ACB - fixed-mounted circuit breaker 3-pole, size 2 In=3200A to 500V, 50/60Hz AC Icu=66kA at 500V with mechanical lockout device with tripped signaling switch with tripped indicators Overcurrent release ETU35WT LSI Setting range according to FS with display Motorized/manual operating mechanism with memory with electrical and mechanical activation Motor and electr. calling for 220...240 V AC, 220...250 V DC Activation solenoid 220...250 V DC With 1st auxiliary release Undervoltage release \"R\", F3 220...240 V AC, 220...250 V DC instantaneous With 2nd auxiliary release Shunt release \"F\", F2 220...240 V AC, 220...250 V DC switch position-depending Auxiliary current switch 2 NC+2 NO With door sealing frame",
+      "price_pkr": 1670882.36,
+      "specs": {
+        "s_no": 5,
+        "rating": "3200A",
+        "breaking_capacity": "66kA",
+        "series": "3WT8"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WA1240-3AB01-4NQ8",
+      "description": "Circuit Breaker ACB - Fixed-mounted circuit breaker IEC 60947-2, frame size 2, 3- poles, In=4000A up to 690V AC 50/60Hz, breaking capacity S Icu=66/50kA at 500/690V, Trip unit ETU300 LSI optimized for standard applica- tions, without display Protection LT, ST, INST, N-protection required an external N-sensor, incl. trip alarm switch (1xCO), rear connection vertical, without Com & metering function with manual and motorized operating mechanism (M) 208-240 V AC / 220-250 V DC, Storage status and ready-to- close signaling switches, Auxiliary switches 2NO+2NC, Closing coil (CC) 5% OP 208-240 V AC / 220-250 V DC, for momentary duty, without Remote trip alarm reset coil (RR), Undervoltage release (UVR) instantaneous (0,08 s) and short-delay (0,2 s), 208-240 V AC / 220 250 V DC, Shunt trip (ST) 5% OP 208- 240 V AC / 220-250 V DC, for momentary duty,",
+      "price_pkr": 2040218.02,
+      "specs": {
+        "s_no": 6,
+        "rating": "4000A",
+        "k_rating": "66 / 50 A",
+        "series": "3WA1"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WA1225-5AB02-4NQ8",
+      "description": "Circuit Breaker ACB - Fixed-mounted circuit breaker IEC 60947-2, frame size 2, 3- poles, In=2500A up to 690V AC 50/60Hz, breaking capacity H Icu=100/85kA at 500/690V, Trip unit ETU300 LSI optimized for standard applica- tions, without display Protection LT, ST, INST, N-protection required an external N-sensor, incl. trip alarm switch (1xCO), rear connection horizontal, without Com & metering function with manual and motorized operating mechanism (M) 208-240 V AC / 220-250 V DC, Storage status and ready-to- close signaling switches, Auxiliary switches 2NO+2NC, Closing coil (CC) 5% OP 208-240 V AC / 220-250 V DC, for momentary duty, without Remote trip alarm reset coil (RR), Undervoltage release (UVR) instantaneous (0,08 s) and short-delay (0,2 s), 208-240 V AC / 220-250 V DC, Shunt trip (ST) 5% OP 208-240 V AC / 220-250 V DC, for momentary duty,",
+      "price_pkr": 1500558.52,
+      "specs": {
+        "s_no": 7,
+        "rating": "2500A",
+        "k_rating": "50 / 60 A",
+        "series": "3WA1"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WA1232-5AB02-4KN5",
+      "description": "Circuit Breaker ACB - Fixed-mounted circuit breaker IEC 60947-2, frame size 2, 3- poles, In=3200A up to 690V AC 50/60Hz, breaking capacity H Icu=100/85kA at 500/690V, Trip unit ETU300 LSI optimized for standard applica- tions, without display Protection LT, ST, INST, N-protection required an external N-sensor, incl. trip alarm switch (1xCO), rear connection horizontal, without Com & metering function with manual and motorized operating mechanism (M) 208-240 V AC / 220-250 V DC, Storage status and ready-to- close signaling switches, Auxiliary switches 2NO+2NC, Closing coil (CC) 5% OP 24-30 V DC, for momentary duty, without Remote trip alarm reset coil (RR), Undervoltage release (UVR) instantaneous (0,08 s) and short-delay (0,2 s), 48 V DC, Shunt trip (ST) 5% OP 24-30 V DC, for momentary duty,",
+      "price_pkr": 1718202.25,
+      "specs": {
+        "s_no": 8,
+        "rating": "3200A",
+        "k_rating": "50 / 60 A",
+        "series": "3WA1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "Circuit Breaker ACB",
+      "model": "3WA1340-5AB02-4KN5",
+      "description": "Circuit Breaker ACB - Fixed-mounted circuit breaker IEC 60947-2, frame size 3, 3- poles, In=4000A up to 690V AC 50/60Hz, breaking capacity H Icu=100/85kA at 500/690V, Trip unit ETU300 LSI optimized for standard applica- tions, without display Protection LT, ST, INST, N-protection required an external N-sensor, incl. trip alarm switch (1xCO), rear connection horizontal, without Com & metering function with manual and motorized operating mechanism (M) 208-240 V AC / 220-250 V DC, Storage status and ready-to- close signaling switches, Auxiliary switches 2NO+2NC, Closing coil (CC) 5% OP 24-30 V DC, for momentary duty, without Remote trip alarm reset coil (RR), Undervoltage release (UVR) instantaneous (0,08 s) and short-delay (0,2 s), 48 V DC, Shunt trip (ST) 5% OP 24-30 V DC, for momentary duty,",
+      "price_pkr": 2917342.79,
+      "specs": {
+        "s_no": 9,
+        "rating": "4000A",
+        "k_rating": "50 / 60 A",
+        "series": "3WA1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1032-2ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 100 breaking capacity class B Icu=16kA @ 415V 3-pole, line protection TM210, FTFM, In=32A overload protection Ir=32A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 24076.25,
+      "specs": {
+        "s_no": 10,
+        "rating": "32A",
+        "breaking_capacity": "16kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1063-2ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 100 breaking capacity class B Icu=16kA @ 415V 3-pole, line protection TM210, FTFM, In=63A overload protection Ir=63A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 24076.25,
+      "specs": {
+        "s_no": 11,
+        "rating": "63A",
+        "breaking_capacity": "16kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1080-2ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 100 breaking capacity class B Icu=16kA @ 415V 3-pole, line protection TM210, FTFM, In=80A overload protection Ir=80A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 26375.17,
+      "specs": {
+        "s_no": 12,
+        "rating": "80A",
+        "breaking_capacity": "16kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1010-2ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 100 breaking capacity class B Icu=16kA @ 415V 3-pole, line protection TM210, FTFM, In=100A overload protection Ir=100A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 30598.34,
+      "specs": {
+        "s_no": 13,
+        "rating": "100A",
+        "breaking_capacity": "16kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1116-3ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM210, FTFM, In=160A overload protection Ir=160A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 61330.83,
+      "specs": {
+        "s_no": 14,
+        "rating": "160A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1220-4ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 250 breaking capacity class S Icu=36kA @ 415V 3-pole, line protection TM210, FTFM, In=200A overload protection Ir=200A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 83612.35,
+      "specs": {
+        "s_no": 15,
+        "rating": "200A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1225-4ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 250 breaking capacity class S Icu=36kA @ 415V 3-pole, line protection TM210, FTFM, In=250A overload protection Ir=250A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 93723.91,
+      "specs": {
+        "s_no": 16,
+        "rating": "250A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1110-3EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM220, ATFM, In=100A overload protection Ir=70A...100A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 33544.85,
+      "specs": {
+        "s_no": 17,
+        "rating": "100A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1163-3EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM220, ATFM, In=63A overload protection Ir=44A...63A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 26254.91,
+      "specs": {
+        "s_no": 18,
+        "rating": "63A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1180-3EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM220, ATFM, In=80A overload protection Ir=56A...80A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 28812.86,
+      "specs": {
+        "s_no": 19,
+        "rating": "80A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1112-3EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM220, ATFM, In=125A overload protection Ir=88A...125A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 54031.63,
+      "specs": {
+        "s_no": 20,
+        "rating": "125A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1116-3EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM220, ATFM, In=160A overload protection Ir=112A...160A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 62741.64,
+      "specs": {
+        "s_no": 21,
+        "rating": "160A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1220-4EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 250 breaking capacity class S Icu=36kA @ 415V 3-pole, line protection TM220, ATFM, In=200A overload protection Ir=140A...200A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 85656.86,
+      "specs": {
+        "s_no": 22,
+        "rating": "200A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1225-4EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 250 breaking capacity class S Icu=36kA @ 415V 3-pole, line protection TM220, ATFM, In=250A overload protection Ir=175A...250A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 95648.16,
+      "specs": {
+        "s_no": 23,
+        "rating": "250A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1340-4EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 400 breaking capacity class N Icu=36kA @ 415V 3-pole, line protection TM220, ATFM, In=400A overload protection Ir=280A...400A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 131885.11,
+      "specs": {
+        "s_no": 24,
+        "rating": "400A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1340-5EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 400 breaking capacity class S Icu=55kA @ 415V 3-pole, line protection TM220, ATFM, In=400A overload protection Ir=280A...400A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 144688.77,
+      "specs": {
+        "s_no": 25,
+        "rating": "400A",
+        "breaking_capacity": "55kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1463-4EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 630 breaking capacity class N Icu=36kA @ 415V 3-pole, line protection TM220, ATFM, In=630A overload protection Ir=440A...630A short- circuit protection Ii=8 x In nut keeper kit",
+      "price_pkr": 185662.33,
+      "specs": {
+        "s_no": 26,
+        "rating": "630A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1463-5EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 630 breaking capacity class S Icu=55kA @ 415V 3-pole, line protection TM220, ATFM, In=630A overload protection Ir=440A...630A short- circuit protection Ii=8 x In nut keeper kit",
+      "price_pkr": 207430.41,
+      "specs": {
+        "s_no": 27,
+        "rating": "630A",
+        "breaking_capacity": "55kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2016-1AP01",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 9 A, 4 kW / 400 V, 3-pole, 230 V AC, 50/60 Hz, auxiliary contacts: 1 NO, screw terminal, size: S00",
+      "price_pkr": 6332.45,
+      "specs": {
+        "s_no": 28,
+        "rating": "9A",
+        "power": "4kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2017-1AP01",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 12 A, 5.5 kW / 400 V, 3- pole, 230 V AC, 50/60 Hz, auxiliary contacts: 1 NO, screw terminal, size: S00",
+      "price_pkr": 7808.01,
+      "specs": {
+        "s_no": 29,
+        "rating": "12A",
+        "power": "5.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2026-1AP00",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 25 A, 11 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 15273.73,
+      "specs": {
+        "s_no": 30,
+        "rating": "25A",
+        "power": "11kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2027-1AP00",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 32 A, 15 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 21943.85,
+      "specs": {
+        "s_no": 31,
+        "rating": "32A",
+        "power": "15kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2035-1AP00",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 41 A, 18.5 kW / 400 V, 3- pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 25949.62,
+      "specs": {
+        "s_no": 32,
+        "rating": "41A",
+        "power": "18.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2036-1AP00",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 51 A, 22 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 32915.77,
+      "specs": {
+        "s_no": 33,
+        "rating": "51A",
+        "power": "22kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2037-1AP00",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 65 A, 30 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 46408.64,
+      "specs": {
+        "s_no": 34,
+        "rating": "65A",
+        "power": "30kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2038-1AP00",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3, 80 A, 37 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 51746.59,
+      "specs": {
+        "s_no": 35,
+        "rating": "80A",
+        "power": "37kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT1054-6AP36",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3 115 A, 55 kW / 400 V, AC (50- 60 Hz) / DC Uc: 220-240 V 3-pole, auxiliary contacts 2 NO + 2 NC drive: conventional main circuit: busbar control and auxiliary circuit: screw terminal",
+      "price_pkr": 94894.18,
+      "specs": {
+        "s_no": 36,
+        "rating": "115A",
+        "power": "55kW",
+        "series": "3RT1"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT1055-6AP36",
+      "description": "POWER CONTACTOR - power contactor, AC-3e/AC-3 150 A, 75 kW / 400 V AC (50- 60 Hz) / DC Uc: 220-240 V 3-pole, auxiliary contacts 2 NO + 2 NC drive: conventional main circuit: busbar control and auxiliary circuit: screw terminal",
+      "price_pkr": 115949.92,
+      "specs": {
+        "s_no": 37,
+        "rating": "150A",
+        "power": "75kW",
+        "series": "3RT1"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2122-1AB00",
+      "description": "CONTACTOR RELAY - Contactor relay, 2 NO + 2 NC, 24 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 38,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2122-1AF00",
+      "description": "CONTACTOR RELAY - Contactor relay, 2 NO + 2 NC, 110 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 39,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2122-1AP00",
+      "description": "CONTACTOR RELAY - Contactor relay, 2 NO + 2 NC, 230 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 40,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2122-1BB40",
+      "description": "CONTACTOR RELAY - Contactor relay, 2 NO + 2 NC, 24 V DC, Size S00, screw terminal",
+      "price_pkr": 8955.16,
+      "specs": {
+        "s_no": 41,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2131-1AB00",
+      "description": "CONTACTOR RELAY - Contactor relay, 3 NO + 1 NC, 24 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 42,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2131-1AF00",
+      "description": "CONTACTOR RELAY - Contactor relay, 3 NO + 1 NC, 110 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 43,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2131-1AP00",
+      "description": "CONTACTOR RELAY - Contactor relay, 3 NO + 1 NC, 230 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 44,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2131-1BB40",
+      "description": "CONTACTOR RELAY - Contactor relay, 3 NO + 1 NC, 24 V DC, Size S00, screw terminal",
+      "price_pkr": 8955.16,
+      "specs": {
+        "s_no": 45,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RH1921-1DA11",
+      "description": "AUXILIARY SWITCH - first lateral auxiliary switch 1 NO, 1 NC, screw terminal, for contactors 3RT1",
+      "price_pkr": 2701.35,
+      "specs": {
+        "s_no": 46,
+        "series": "3RH1"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2140-1AB00",
+      "description": "CONTACTOR RELAY - Contactor relay, 4 NO, 24 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 47,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2140-1AF00",
+      "description": "CONTACTOR RELAY - Contactor relay, 4 NO, 110 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 48,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2140-1AP00",
+      "description": "CONTACTOR RELAY - Contactor relay, 4 NO, 230 V AC, 50 / 60 Hz, Size S00, screw terminal",
+      "price_pkr": 7738.63,
+      "specs": {
+        "s_no": 49,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "CONTACTOR RELAY",
+      "model": "3RH2140-1BB40",
+      "description": "CONTACTOR RELAY - Contactor relay, 4 NO, 24 V DC, Size S00, screw terminal",
+      "price_pkr": 8955.16,
+      "specs": {
+        "s_no": 50,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2016-1AP01",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 9 A, 4 kW / 400 V, 3-pole, 230 V AC, 50/60 Hz, auxiliary contacts: 1 NO, screw terminal, size: S00",
+      "price_pkr": 7146.55,
+      "specs": {
+        "s_no": 51,
+        "rating": "9A",
+        "power": "4kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2016-1BB41",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 9 A, 4 kW / 400 V, 3-pole, 24 V DC, auxiliary contacts: 1 NO, screw terminal, size: S00",
+      "price_pkr": 8349.21,
+      "specs": {
+        "s_no": 52,
+        "rating": "9A",
+        "power": "4kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2016-1BB42",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 9 A, 4 kW / 400 V, 3-pole, 24 V DC, auxiliary contacts: 1 NC, screw terminal, size: S00",
+      "price_pkr": 8349.21,
+      "specs": {
+        "s_no": 53,
+        "rating": "9A",
+        "power": "4kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2024-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 12 A, 5.5 kW / 400 V, 3- pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 8446.35,
+      "specs": {
+        "s_no": 54,
+        "rating": "12A",
+        "power": "5.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2024-1BB40",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 12 A, 5.5 kW / 400 V, 3- pole, 24 V DC, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 16545.77,
+      "specs": {
+        "s_no": 55,
+        "rating": "12A",
+        "power": "5.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2025-1AB00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 17 A, 7.5 kW / 400 V, 3- pole, 24 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 11203.2,
+      "specs": {
+        "s_no": 56,
+        "rating": "17A",
+        "power": "7.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2025-1AF00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 17 A, 7.5 kW / 400 V, 3- pole, 110 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 11203.2,
+      "specs": {
+        "s_no": 57,
+        "rating": "17A",
+        "power": "7.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2025-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 17 A, 7.5 kW / 400 V, 3- pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 11203.2,
+      "specs": {
+        "s_no": 58,
+        "rating": "17A",
+        "power": "7.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2025-1BB40",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 17 A, 7.5 kW / 400 V, 3- pole, 24 V DC, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 20028.85,
+      "specs": {
+        "s_no": 59,
+        "rating": "17A",
+        "power": "7.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2026-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 25 A, 11 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 14949.94,
+      "specs": {
+        "s_no": 60,
+        "rating": "25A",
+        "power": "11kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2026-1BB40",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 25 A, 11 kW / 400 V, 3-pole, 24 V DC, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 23803.34,
+      "specs": {
+        "s_no": 61,
+        "rating": "25A",
+        "power": "11kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2027-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 32 A, 15 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 21481.29,
+      "specs": {
+        "s_no": 62,
+        "rating": "32A",
+        "power": "15kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2027-1BB40",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 32 A, 15 kW / 400 V, 3-pole, 24 V DC, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 32365.32,
+      "specs": {
+        "s_no": 63,
+        "rating": "32A",
+        "power": "15kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2028-1BB40",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 38 A, 18.5 kW / 400 V, 3- pole, 24 V DC, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 35413.59,
+      "specs": {
+        "s_no": 64,
+        "rating": "38A",
+        "power": "18.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2028-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 38 A, 18.5 kW / 400 V, 3- pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 24094.75,
+      "specs": {
+        "s_no": 65,
+        "rating": "38A",
+        "power": "18.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2028-1AB00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 38 A, 18.5 kW / 400 V, 3- pole, 24 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S0",
+      "price_pkr": 24094.75,
+      "specs": {
+        "s_no": 66,
+        "rating": "38A",
+        "power": "18.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2035-1AB00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 41 A, 18.5 kW / 400 V, 3- pole, 24 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 25399.17,
+      "specs": {
+        "s_no": 67,
+        "rating": "41A",
+        "power": "18.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2035-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 41 A, 18.5 kW / 400 V, 3- pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 25399.17,
+      "specs": {
+        "s_no": 68,
+        "rating": "41A",
+        "power": "18.5kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2036-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 51 A, 22 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 32175.67,
+      "specs": {
+        "s_no": 69,
+        "rating": "51A",
+        "power": "22kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2037-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 65 A, 30 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S2",
+      "price_pkr": 45428.02,
+      "specs": {
+        "s_no": 70,
+        "rating": "65A",
+        "power": "30kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2045-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 80 A, 37 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S3",
+      "price_pkr": 55451.69,
+      "specs": {
+        "s_no": 71,
+        "rating": "80A",
+        "power": "37kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2046-1AP00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 95 A, 45 kW / 400 V, 3-pole, 230 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S3",
+      "price_pkr": 69462.64,
+      "specs": {
+        "s_no": 72,
+        "rating": "95A",
+        "power": "45kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT2046-1AB00",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3, 95 A, 45 kW / 400 V, 3-pole, 24 V AC, 50 Hz, auxiliary contacts: 1 NO + 1 NC, screw terminal, size: S3",
+      "price_pkr": 69462.64,
+      "specs": {
+        "s_no": 73,
+        "rating": "95A",
+        "power": "45kW",
+        "series": "3RT2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT1054-6AB36",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3 115 A, 55 kW / 400 V, AC (50- 60 Hz) / DC Uc: 23-26 V 3-pole, auxiliary contacts 2 NO + 2 NC drive: conventional main circuit: busbar control and auxiliary circuit: screw terminal",
+      "price_pkr": 92886.67,
+      "specs": {
+        "s_no": 74,
+        "rating": "115A",
+        "power": "55kW",
+        "series": "3RT1"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT1054-6AP36",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3 115 A, 55 kW / 400 V, AC (50- 60 Hz) / DC Uc: 220-240 V 3-pole, auxiliary contacts 2 NO + 2 NC drive: conventional main circuit: busbar control and auxiliary circuit: screw terminal",
+      "price_pkr": 92886.67,
+      "specs": {
+        "s_no": 75,
+        "rating": "115A",
+        "power": "55kW",
+        "series": "3RT1"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "Timing Relay",
+      "model": "3RP2576-1NM20",
+      "description": "Timing Relay - Timing relay, electronic with star-delta (wye-delta) function 1 NO delayed 1 NO instantaneous 1 time range, 3...60 s 200-240 V AC and 380-440 V AC with LED, Screw terminal",
+      "price_pkr": 19459.9,
+      "specs": {
+        "s_no": 76,
+        "series": "3RP2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT1065-6AP36",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3 265 A, 132 kW / 400 V AC (50-60 Hz) / DC Uc: 220-240 V 3-pole, auxiliary contacts 2 NO + 2 NC drive: conventional main circuit: busbar control and auxiliary circuit: screw terminal",
+      "price_pkr": 227866.31,
+      "specs": {
+        "s_no": 77,
+        "rating": "265a",
+        "rating_note": "as printed in Rating column",
+        "power": "132kW",
+        "series": "3RT1"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT1066-6AP36",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3 300 A, 160 kW / 400 V, AC (50-60 Hz) / DC Uc: 220-240 V 3-pole, auxiliary contacts 2 NO + 2 NC drive: conventional main circuit: busbar control and auxiliary circuit: screw terminal",
+      "price_pkr": 274307.33,
+      "specs": {
+        "s_no": 78,
+        "rating": "300A",
+        "power": "160kW",
+        "series": "3RT1"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "POWER CONTACTOR",
+      "model": "3RT1075-6AP36",
+      "description": "POWER CONTACTOR - Power contactor, AC-3e/AC-3 400 A, 200 kW / 400 V AC (50-60 Hz) / DC Uc: 220-240 V 3-pole, auxiliary contacts 2 NO + 2 NC drive: conventional main circuit: busbar control and auxiliary circuit: screw terminal",
+      "price_pkr": 343973.49,
+      "specs": {
+        "s_no": 79,
+        "rating": "400A",
+        "power": "200kW",
+        "series": "3RT1"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-0GA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.45...0.63 A N-release 8.2 A screw terminal Standard switching capacity",
+      "price_pkr": 12193.08,
+      "specs": {
+        "s_no": 80,
+        "release_range": "0.45...0.63A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-0JA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.7...1 A N-release 13 A screw terminal Standard switching capacity",
+      "price_pkr": 10981.17,
+      "specs": {
+        "s_no": 81,
+        "release_range": "0.7...1A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-0KA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.9...1.25 A N-release 16 A screw terminal Standard switching capacity",
+      "price_pkr": 11619.51,
+      "specs": {
+        "s_no": 82,
+        "release_range": "0.9...1.25A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-0AA10",
+      "description": "MCB - CIRCUIT-BREAKER SZ S00, FOR MOTOR PROTECTION, CLASS 10, A-RELEASE 0.11...0.16A, N-RELEASE2.1A SCREW CONNECTION, STANDARD SW. CAPACITY",
+      "price_pkr": 11619.51,
+      "specs": {
+        "s_no": 83,
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1BA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.14...0.2 A N-release 2.6 A screw terminal Standard switching capacity",
+      "price_pkr": 12137.57,
+      "specs": {
+        "s_no": 84,
+        "release_range": "0.14...0.2A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1CA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.18...0.25 A N-release 3.3 A screw terminal Standard switching capacity",
+      "price_pkr": 12137.57,
+      "specs": {
+        "s_no": 85,
+        "release_range": "0.18...0.25A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1DA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.22...0.32 A N-release 4.2 A screw terminal Standard switching capacity",
+      "price_pkr": 12137.57,
+      "specs": {
+        "s_no": 86,
+        "release_range": "0.22...0.32A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1EA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.28...0.4 A N-release 5.2 A screw terminal Standard switching capacity",
+      "price_pkr": 12137.57,
+      "specs": {
+        "s_no": 87,
+        "release_range": "0.28...0.4A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1FA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.35...0.5 A N-release 6.5 A screw terminal Standard switching capacity",
+      "price_pkr": 12137.57,
+      "specs": {
+        "s_no": 88,
+        "release_range": "0.35...0.5A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1GA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.45...0.63 A N-release 8.2 A screw terminal Standard switching capacity",
+      "price_pkr": 12137.57,
+      "specs": {
+        "s_no": 89,
+        "release_range": "0.45...0.63A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1JA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.7...1 A N-release 13 A screw terminal Standard switching capacity",
+      "price_pkr": 13557.63,
+      "specs": {
+        "s_no": 90,
+        "release_range": "0.7...1A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2011-1KA10",
+      "description": "MCB - Circuit breaker size S00 for motor protection, CLASS 10 A- release 0.9...1.25 A N-release 16 A screw terminal Standard switching capacity",
+      "price_pkr": 13557.63,
+      "specs": {
+        "s_no": 91,
+        "release_range": "0.9...1.25A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2021-4AA10",
+      "description": "MCB - Circuit breaker size S0 for motor protection, CLASS 10 A- release 10...16 A N-release 208 A screw terminal Standard switching capacity",
+      "price_pkr": 14755.66,
+      "specs": {
+        "s_no": 92,
+        "release_range": "10...16A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2021-4DA10",
+      "description": "MCB - Circuit breaker size S0 for motor protection, CLASS 10 A- release 18...25 A N-release 325 A Screw terminal Standard switching capacity",
+      "price_pkr": 17947.33,
+      "specs": {
+        "s_no": 93,
+        "release_range": "18...25A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2031-4EA10",
+      "description": "MCB - Circuit breaker size S2 for motor protection, CLASS 10 A- release 22...32 A N-release 416 A screw terminal Standard switching capacity",
+      "price_pkr": 34729.0,
+      "specs": {
+        "s_no": 94,
+        "release_range": "22...32A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3RV2031-4BA10",
+      "description": "MCB - Circuit breaker size S2 for motor protection, CLASS 10 A- release 14...20 A N-release 260 A screw terminal Standard switching capacity",
+      "price_pkr": 32152.55,
+      "specs": {
+        "s_no": 95,
+        "release_range": "14...20A",
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "MOLDED PLASTIC ENCLOSURE",
+      "model": "3RV1923-1CA00",
+      "description": "MOLDED PLASTIC ENCLOSURE - Molded-plastic enclosure for surface mounting Degree of protection IP55 with N and PE terminal Can be locked in O position 54 mm with metric cable gland No UL/CSA approval",
+      "price_pkr": 4223.17,
+      "specs": {
+        "s_no": 96,
+        "series": "3RV1"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RH2911-1HA11",
+      "description": "AUXILIARY SWITCH - Auxiliary switch, on the front, 1 NO + 1 NC, .1/.2, .3/.4, --/-- , --/--, current path: 1 NC, 1 NO, --, --, screw terminal, for contactors 3RT2 and contactor relays 3RH2",
+      "price_pkr": 2095.4,
+      "specs": {
+        "s_no": 97,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RH2911-1HA12",
+      "description": "AUXILIARY SWITCH - Auxiliary switch, on the front, 1 NO + 2 NC, .1/.2, .1/.2, .3/.4, --/--, current path: 1 NC, 1 NC, 1 NO, --, screw terminal, for contactors 3RT2 and contactor relays 3RH2",
+      "price_pkr": 2849.37,
+      "specs": {
+        "s_no": 98,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RH2911-1HA22",
+      "description": "AUXILIARY SWITCH - Auxiliary switch, on the front, 2 NO + 2 NC, .1/.2, .1/.2, .3/.4, .3/.4, current path: 1 NC, 1 NC, 1 NO, 1 NO, screw terminal, for contactors 3RT2 and contactor relays 3RH2",
+      "price_pkr": 3501.58,
+      "specs": {
+        "s_no": 99,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RH2911-1HA13",
+      "description": "AUXILIARY SWITCH - Auxiliary switch, on the front, 1 NO + 3 NC, .1/.2, .1/.2, .1/.2, .3/.4, current path: 1 NC, 1 NC, 1 NC, 1 NO, screw terminal, for contactors 3RT2 and contactor relays 3RH2",
+      "price_pkr": 3501.58,
+      "specs": {
+        "s_no": 100,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RH2911-1HA31",
+      "description": "AUXILIARY SWITCH - Auxiliary switch, on the front, 3 NO + 1 NC, .1/.2, .3/.4, .3/.4, .3/.4, current path: 1 NC, 1 NO, 1 NO, 1 NO screw terminal, for contactors 3RT2 and contactor relays 3RH2",
+      "price_pkr": 3501.58,
+      "specs": {
+        "s_no": 101,
+        "series": "3RH2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RV2901-1A",
+      "description": "AUXILIARY SWITCH - Auxiliary switch can be mounted on the side 1 NO+1 NC screw terminal for circuit breaker 3RV2",
+      "price_pkr": 2405.31,
+      "specs": {
+        "s_no": 102,
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "AUXILIARY SWITCH",
+      "model": "3RV2901-1E",
+      "description": "AUXILIARY SWITCH - Auxiliary switch transverse 1 NO+1 NC screw terminal for circuit breaker 3RV2",
+      "price_pkr": 2405.31,
+      "specs": {
+        "s_no": 103,
+        "series": "3RV2"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "POWER MONITORING DEVICE",
+      "model": "7KM3220-0BA01-1DA0",
+      "description": "POWER MONITORING DEVICE - SENTRON PAC3220 LCD 96X96 mm Power Monitoring Device Controll panel instrument for electrical values protocol: Modbus TCP with graphics display U rated input: 690/400V 45-65Hz IE rated input: X/1A oder X/5A AC Power supply: 100 ... 250 V +-10 % AC/DC screw connections",
+      "price_pkr": 102595.81,
+      "specs": {
+        "s_no": 104,
+        "series": "7KM3"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "Siemens",
+      "section": "POWER MONITORING DEVICE",
+      "model": "7KM4212-0BA00-3AA0",
+      "description": "POWER MONITORING DEVICE - SENTRON, measuring device, 7KM PAC4200, LCD, L-L: 690 V, L-N: 400 V, 5 A, 3-phase, Modbus TCP, optional Modbus RTU / PROFINET / PROFIBUS / DI/DO, apparent/active/reactive energy / cos phi, harmonics: 2.- 64., THD, class 0.2 acc. to IEC61557-12 or cl. 0.2S acc. to IEC62053-22, wide-range pwr sup. unit AC/DC, screw terminals",
+      "price_pkr": 241058.52,
+      "specs": {
+        "s_no": 105,
+        "series": "7KM4"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1063-2ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 100 breaking capacity class B Icu=16kA @ 415V 3-pole, line protection TM210, FTFM, In=63A overload protection Ir=63A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 24515.68,
+      "specs": {
+        "s_no": 106,
+        "rating": "63A",
+        "breaking_capacity": "16kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1110-3EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM220, ATFM, In=100A overload protection Ir=70A...100A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 33766.88,
+      "specs": {
+        "s_no": 107,
+        "rating": "100A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1116-3ED32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 160 breaking capacity class N Icu=25kA @ 415V 3-pole, line protection TM210, FTFM, In=160A overload protection Ir=160A, not adjustable short-circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 62445.6,
+      "specs": {
+        "s_no": 108,
+        "rating": "160A",
+        "breaking_capacity": "25kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1340-4EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 400 breaking capacity class N Icu=36kA @ 415V 3-pole, line protection TM220, ATFM, In=400A overload protection Ir=280A...400A short- circuit protection Ii=10 x In nut keeper kit",
+      "price_pkr": 132292.16,
+      "specs": {
+        "s_no": 109,
+        "rating": "400A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "Siemens",
+      "section": "MCB",
+      "model": "3VM1463-4EE32-0AA0",
+      "description": "MCB - circuit breaker 3VM1 IEC frame 630 breaking capacity class N Icu=36kA @ 415V 3-pole, line protection TM220, ATFM, In=630A overload protection Ir=440A...630A short- circuit protection Ii=8 x In nut keeper kit",
+      "price_pkr": 185949.12,
+      "specs": {
+        "s_no": 110,
+        "rating": "630A",
+        "breaking_capacity": "36kA",
+        "series": "3VM1"
+      }
+    }
+  ],
+  "skipped": [],
+  "stats": {
+    "pages": 8,
+    "rows": 110,
+    "priced": 110,
+    "skipped": 0
+  }
+}

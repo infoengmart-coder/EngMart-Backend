@@ -1,0 +1,987 @@
+{
+  "brand": "CHINT",
+  "products": [
+    {
+      "name": "NXB-63 Miniature Circuit Breaker",
+      "category": "mcb",
+      "series": "NXB-63",
+      "description": "CHINT NXB-63 series MCB, 6kA breaking capacity, C curve, 1P to 4P",
+      "variants": [
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C6 6kA",
+          "price": 604.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "6A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C10 6kA",
+          "price": 420.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "10A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C16 6kA",
+          "price": 420.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "16A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C20 6kA",
+          "price": 420.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "20A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C25 6kA",
+          "price": 420.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "25A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C32 6kA",
+          "price": 440.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "32A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C40 6kA",
+          "price": 460.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "40A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C50 6kA",
+          "price": 480.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "50A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C63 6kA",
+          "price": 500.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "63A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C80 6kA",
+          "price": 1106.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "80A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C100 6kA",
+          "price": 1106.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "100A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C6 6kA",
+          "price": 1200.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "6A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C10 6kA",
+          "price": 1000.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "10A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C16 6kA",
+          "price": 830.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "16A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C20 6kA",
+          "price": 860.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "20A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C25 6kA",
+          "price": 720.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "25A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C32 6kA",
+          "price": 936.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "32A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C40 6kA",
+          "price": 780.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "40A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C50 6kA",
+          "price": 915.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "50A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C63 6kA",
+          "price": 1035.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "63A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 1P C80  6kA",
+          "price": 2197.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "1P",
+            "rating": "80A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 2P C100 6kA",
+          "price": 2197.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "2P",
+            "rating": "100A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C6 6kA",
+          "price": 1645.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "6A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C10 6kA",
+          "price": 1185.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "10A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C16 6kA",
+          "price": 1195.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "16A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C20 6kA",
+          "price": 1155.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "20A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C25 6kA",
+          "price": 1072.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "25A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C32 6kA",
+          "price": 1232.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "32A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C40 6kA",
+          "price": 1160.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "40A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C50 6kA",
+          "price": 1400.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "50A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C63 6kA",
+          "price": 1500.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "63A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C80 6kA",
+          "price": 3239.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "80A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXB-63 3P C100 6kA",
+          "price": 3239.0,
+          "price_on_request": false,
+          "specs": {
+            "poles": "3P",
+            "rating": "100A",
+            "curve": "C",
+            "breaking_capacity": "6kA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "NXM Series MCCB 3-Pole",
+      "category": "mccb",
+      "series": "NXM",
+      "description": "CHINT NXM series Molded Case Circuit Breaker, 3-Pole",
+      "variants": [
+        {
+          "cat_no": "",
+          "description": "NXM-125S/3300 100A (3P)",
+          "price": 6700.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "100A",
+            "poles": "3P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-125S/3300 125A (3P)",
+          "price": 6718.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "125A",
+            "poles": "3P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-160S/3300 160A (3P)",
+          "price": 8918.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "160A",
+            "poles": "3P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-250S/3300 250A (3P)",
+          "price": 11600.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "250A",
+            "poles": "3P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-400S/3300 400A (3P)",
+          "price": 27100.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "400A",
+            "poles": "3P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-630S/3300 630A (3P)",
+          "price": 27215.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "630A",
+            "poles": "3P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-800S/3300 800A (3P)",
+          "price": 39884.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "800A",
+            "poles": "3P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-1000S/3300 1000A",
+          "price": 57073.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "1000A",
+            "poles": "3P"
+          }
+        }
+      ]
+    },
+    {
+      "name": "NXM Series MCCB 4-Pole",
+      "category": "mccb",
+      "series": "NXM",
+      "description": "CHINT NXM series Molded Case Circuit Breaker, 4-Pole",
+      "variants": [
+        {
+          "cat_no": "",
+          "description": "NXM-125S/4300B 32A (4P)",
+          "price": 10432.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "32A",
+            "poles": "4P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-125S/4300B 63A (4P)",
+          "price": 10432.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "63A",
+            "poles": "4P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-125S/4300B 100A (4P)",
+          "price": 5868.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "100A",
+            "poles": "4P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-125S/4300B 125A (4P)",
+          "price": 8378.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "125A",
+            "poles": "4P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-160S/4300B 160A (4P)",
+          "price": 9394.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "160A",
+            "poles": "4P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-250S/4300B 250A (4P)",
+          "price": 14686.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "250A",
+            "poles": "4P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-400S/4300B 400A (4P)",
+          "price": 28122.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "400A",
+            "poles": "4P"
+          }
+        },
+        {
+          "cat_no": "",
+          "description": "NXM-800S/4300B 630A (4P)",
+          "price": 65930.0,
+          "price_on_request": false,
+          "specs": {
+            "rating": "630A",
+            "poles": "4P"
+          }
+        }
+      ]
+    },
+    {
+      "name": "NXC/NC1 Magnetic Contactor",
+      "category": "contactors",
+      "series": "NXC/NC1",
+      "description": "CHINT magnetic contactors, 3-Pole and 4-Pole",
+      "variants": [
+        {
+          "cat_no": "NXC-09",
+          "description": "NXC-09 230V 50/60Hz",
+          "price": 1686.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-12",
+          "description": "NXC-12 230V 50/60Hz",
+          "price": 1686.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-18",
+          "description": "NXC-18 230V 50/60Hz",
+          "price": 2000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-25",
+          "description": "NXC-25 230V 50/60Hz",
+          "price": 2696.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-32",
+          "description": "NXC-32 230V 50/60Hz",
+          "price": 3636.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-40",
+          "description": "NXC-40 230V 50/60Hz",
+          "price": 6770.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-65",
+          "description": "NXC-65 230V 50/60Hz",
+          "price": 8352.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-100",
+          "description": "NXC-100 230V 50/60Hz",
+          "price": 13612.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-09",
+          "description": "NXC-09 380V 50/60Hz",
+          "price": 1686.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-12",
+          "description": "NXC-12 380V 50/60Hz",
+          "price": 1685.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-18",
+          "description": "NXC-18 380V 50/60Hz",
+          "price": 2000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-25",
+          "description": "NXC-25 380V 50/60Hz",
+          "price": 2696.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-32",
+          "description": "NXC-32 380V 50/60Hz",
+          "price": 3636.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-40",
+          "description": "NXC-40 380V 50/60Hz",
+          "price": 6198.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-85",
+          "description": "NXC-85 380V 50/60HZ",
+          "price": 10294.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-100",
+          "description": "NXC-100 380V 50/60Hz",
+          "price": 14190.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-120",
+          "description": "NXC-120 380V 50/60Hz",
+          "price": null,
+          "price_on_request": true,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-160",
+          "description": "NXC-160 380V 50/60Hz",
+          "price": 27452.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXC-185",
+          "description": "NXC-185 380V 50/60Hz",
+          "price": 27856.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "NXR/NR2 Thermal Overload Relay",
+      "category": "protection-relays",
+      "series": "NXR/NR2",
+      "description": "CHINT thermal overload relays",
+      "variants": [
+        {
+          "cat_no": "NXR-25",
+          "description": "NXR-25 0.63-1.0A",
+          "price": 1673.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "NXR-25 1.0-1.6A",
+          "price": 1600.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "UL,VDE, PCT)NXR-25 1.6-2.5A",
+          "price": 1672.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "99 NXR-25 2.5-4A",
+          "price": 1500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "100 NXR-25 4-6A",
+          "price": 1500.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "101 NXR-25 7-10A",
+          "price": 1648.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "102 NXR-25 9-13A",
+          "price": 1300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "103 NXR-25 12-18A",
+          "price": 1378.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-25",
+          "description": "104 NXR-25 17-25A",
+          "price": 1378.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-38",
+          "description": "105 NXR-38 23A-32A",
+          "price": 1762.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-100",
+          "description": "106 NXR-100 63A-80A",
+          "price": 3900.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NXR-100",
+          "description": "107 NXR-100 80A-100A",
+          "price": 3900.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "NL1-63 / NXBLE RCCB",
+      "category": "rccb",
+      "series": "NL1-63",
+      "description": "CHINT Residual Current Circuit Breakers",
+      "variants": [
+        {
+          "cat_no": "",
+          "description": "1P,2P,3PNXBLE-63 1P+N C16 30mA 6kA",
+          "price": 1428.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "57 NXBLE-63 1P+N C20 30mA 6kA",
+          "price": 1548.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "58 NXBLE-63 1P+N C25 30mA 6kA",
+          "price": 1438.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "59 NXBLE-63 1P+N C32 30mA 6kA",
+          "price": 1548.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "60 NXBLE-63 1P+N C40 30mA 6kA",
+          "price": 1428.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "61 NXBLE-63 1P+N C63 30mA 6kA",
+          "price": 1428.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "62 NXBLE-63 1P+N C16 300mA 6kA",
+          "price": 1426.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "63 NXBLE-63 1P+N C32 300mA 6kA",
+          "price": 1426.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "64 NXBLE-63 1P+N C63 300mA 6kA",
+          "price": 1426.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "65 NXBLE-63 2P C16 30mA 6kA",
+          "price": 2216.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "66 NXBLE-63 2P C20 30mA 6kA",
+          "price": 2278.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "67 NXBLE-63 2P C32 30mA 6kA",
+          "price": 2222.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "68 NXBLE-63 2P C40 30mA 6kA",
+          "price": 2000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "69 NXBLE-63 2P C63 30mA 6kA",
+          "price": 2378.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "70 NXBLE-63 3P+N C16 30mA 6kA",
+          "price": 3748.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "71 NXBLE-63 3P+N C20 30mA 6kA",
+          "price": 3914.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "72 NXBLE-63 3P+N C25 30mA 6kA",
+          "price": 3608.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "73 NXBLE-63 3P+N C32 30mA 6kA",
+          "price": 4050.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "74 NXBLE-63 3P+N C40 30mA 6kA",
+          "price": 3608.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "75 NXBLE-63 3P+N C63 30mA 6kA",
+          "price": 3724.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "76 NXBLE-63 3P+N C16 300mA 6kA",
+          "price": 3592.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "77 NXBLE-63 3P+N C32 300mA 6kA",
+          "price": 3592.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "",
+          "description": "78 NXBLE-63 3P+N C63 300mA 6kA",
+          "price": 4380.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    }
+  ]
+}

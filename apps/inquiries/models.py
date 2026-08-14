@@ -32,6 +32,15 @@ class Inquiry(models.Model):
         blank=True,
         help_text='Internal notes (not visible to customer)',
     )
+    # Kept SEPARATE from `notes` on purpose: notes are private working remarks,
+    # this is the message the customer actually receives and can read in their
+    # account. Merging the two would publish the shop's internal comments.
+    admin_reply = models.TextField(
+        blank=True,
+        default='',
+        help_text='Reply sent to the customer (visible to them)',
+    )
+    replied_at = models.DateTimeField(null=True, blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 

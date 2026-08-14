@@ -1,0 +1,617 @@
+{
+  "source_pdf": "PCE - Industrial Price List June 2020.pdf",
+  "rows": [
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Wall Sockets",
+      "model": "113-6",
+      "description": "Wall Sockets - 16 Amp 3 Pole Wall Socket IP44",
+      "price_pkr": 1020,
+      "specs": {
+        "series": "Wall Sockets",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Wall Sockets",
+      "model": "115-6",
+      "description": "Wall Sockets - 16 Amp 5 Pole Wall Socket IP44",
+      "price_pkr": 1215,
+      "specs": {
+        "series": "Wall Sockets",
+        "rating": "16A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Wall Sockets",
+      "model": "123-6",
+      "description": "Wall Sockets - 32 Amp 3 Pole Wall Socket IP44",
+      "price_pkr": 1400,
+      "specs": {
+        "series": "Wall Sockets",
+        "rating": "32A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Wall Sockets",
+      "model": "125-6",
+      "description": "Wall Sockets - 32 Amp 5 Pole Wall Socket IP44",
+      "price_pkr": 1720,
+      "specs": {
+        "series": "Wall Sockets",
+        "rating": "32A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Wall Sockets",
+      "model": "133-6",
+      "description": "Wall Sockets - 63 Amp 3 Pole Wall Socket IP67",
+      "price_pkr": 4800,
+      "specs": {
+        "series": "Wall Sockets",
+        "rating": "63A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Wall Sockets",
+      "model": "135-6",
+      "description": "Wall Sockets - 63 Amp 5 Pole Wall Socket IP67",
+      "price_pkr": 5280,
+      "specs": {
+        "series": "Wall Sockets",
+        "rating": "63A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Wall Sockets",
+      "model": "145-6",
+      "description": "Wall Sockets - 125 Amp 5 Pole Wall Socket IP67",
+      "price_pkr": 13350,
+      "specs": {
+        "series": "Wall Sockets",
+        "rating": "125A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Flanged Sockets",
+      "model": "413-6",
+      "description": "Flanged Sockets - 16 Amp 3 Pole Flanged Socket IP44",
+      "price_pkr": 975,
+      "specs": {
+        "series": "Flanged Sockets",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Flanged Sockets",
+      "model": "415-6",
+      "description": "Flanged Sockets - 16 Amp 5 Pole Flanged Socket IP44",
+      "price_pkr": 1100,
+      "specs": {
+        "series": "Flanged Sockets",
+        "rating": "16A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Flanged Sockets",
+      "model": "423-6",
+      "description": "Flanged Sockets - 32 Amp 3 Pole Flanged Socket IP44",
+      "price_pkr": 1330,
+      "specs": {
+        "series": "Flanged Sockets",
+        "rating": "32A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Flanged Sockets",
+      "model": "425-6",
+      "description": "Flanged Sockets - 32 Amp 5 Pole Flanged Socket IP44",
+      "price_pkr": 1570,
+      "specs": {
+        "series": "Flanged Sockets",
+        "rating": "32A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Flanged Sockets",
+      "model": "433-6",
+      "description": "Flanged Sockets - 63 Amp 3 Pole Flanged Socket IP67",
+      "price_pkr": 3500,
+      "specs": {
+        "series": "Flanged Sockets",
+        "rating": "63A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Flanged Sockets",
+      "model": "435-6",
+      "description": "Flanged Sockets - 63 Amp 5 Pole Flanged Socket IP67",
+      "price_pkr": 4230,
+      "specs": {
+        "series": "Flanged Sockets",
+        "rating": "63A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Flanged Sockets",
+      "model": "445-6",
+      "description": "Flanged Sockets - 125 Amp 5 Pole Flanged Socket IP67",
+      "price_pkr": 12760,
+      "specs": {
+        "series": "Flanged Sockets",
+        "rating": "125A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Connectors",
+      "model": "213-6",
+      "description": "Connectors - 16 Amp 3 Pole Connectors IP44",
+      "price_pkr": 1220,
+      "specs": {
+        "series": "Connectors",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Connectors",
+      "model": "215-6",
+      "description": "Connectors - 16 Amp 5 Pole Connectors IP44",
+      "price_pkr": 1320,
+      "specs": {
+        "series": "Connectors",
+        "rating": "16A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Connectors",
+      "model": "223-6",
+      "description": "Connectors - 32 Amp 3 Pole Connectors IP44",
+      "price_pkr": 1600,
+      "specs": {
+        "series": "Connectors",
+        "rating": "32A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Connectors",
+      "model": "225-6",
+      "description": "Connectors - 32 Amp 5 Pole Connectors IP44",
+      "price_pkr": 1800,
+      "specs": {
+        "series": "Connectors",
+        "rating": "32A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Connectors",
+      "model": "233-6",
+      "description": "Connectors - 63 Amp 3 Pole Connectors IP67",
+      "price_pkr": 5440,
+      "specs": {
+        "series": "Connectors",
+        "rating": "63A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Connectors",
+      "model": "235-6",
+      "description": "Connectors - 63 Amp 5 Pole Connectors IP67",
+      "price_pkr": 6640,
+      "specs": {
+        "series": "Connectors",
+        "rating": "63A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Connectors",
+      "model": "245-6",
+      "description": "Connectors - 125 Amp 5 Pole Connectors IP67",
+      "price_pkr": 8580,
+      "specs": {
+        "series": "Connectors",
+        "rating": "125A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Switched Interlocked Sockets",
+      "model": "7513-6",
+      "description": "Switched Interlocked Sockets - 16 Amp 3 Pole Safety Socket IP44",
+      "price_pkr": 12130,
+      "specs": {
+        "series": "Switched Interlocked Sockets",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Switched Interlocked Sockets",
+      "model": "7515-6",
+      "description": "Switched Interlocked Sockets - 16 Amp 5 Pole Safety Socket IP44",
+      "price_pkr": 13850,
+      "specs": {
+        "series": "Switched Interlocked Sockets",
+        "rating": "16A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Switched Interlocked Sockets",
+      "model": "7523-6",
+      "description": "Switched Interlocked Sockets - 32 Amp 3 Pole Safety Socket IP44",
+      "price_pkr": 19450,
+      "specs": {
+        "series": "Switched Interlocked Sockets",
+        "rating": "32A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Switched Interlocked Sockets",
+      "model": "7525-6",
+      "description": "Switched Interlocked Sockets - 32 Amp 5 Pole Safety Socket IP44",
+      "price_pkr": 22540,
+      "specs": {
+        "series": "Switched Interlocked Sockets",
+        "rating": "32A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Switched Interlocked Sockets",
+      "model": "75332-6",
+      "description": "Switched Interlocked Sockets - 63 Amp 3 Pole Safety Socket IP67",
+      "price_pkr": 32700,
+      "specs": {
+        "series": "Switched Interlocked Sockets",
+        "rating": "63A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Switched Interlocked Sockets",
+      "model": "75352-6",
+      "description": "Switched Interlocked Sockets - 63 Amp 5 Pole Safety Socket IP67",
+      "price_pkr": 34300,
+      "specs": {
+        "series": "Switched Interlocked Sockets",
+        "rating": "63A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Switched Interlocked Sockets",
+      "model": "9755100",
+      "description": "Switched Interlocked Sockets - 125Amp 5 Pole Safety Socket IP67",
+      "price_pkr": null,
+      "specs": {
+        "series": "Switched Interlocked Sockets",
+        "rating": "125A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67",
+        "note": "PDF shows 'POR' (price on request) instead of a price"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Plugs",
+      "model": "013-6",
+      "description": "Plugs - 16 Amp 3 Pole Plug IP44",
+      "price_pkr": 640,
+      "specs": {
+        "series": "Plugs",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Plugs",
+      "model": "015-6",
+      "description": "Plugs - 16 Amp 5 Pole Plug IP44",
+      "price_pkr": 830,
+      "specs": {
+        "series": "Plugs",
+        "rating": "16A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Plugs",
+      "model": "023-6",
+      "description": "Plugs - 32 Amp 3 Pole Plug IP44",
+      "price_pkr": 1020,
+      "specs": {
+        "series": "Plugs",
+        "rating": "32A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Plugs",
+      "model": "025-6",
+      "description": "Plugs - 32 Amp 5 Pole Plug IP44",
+      "price_pkr": 1120,
+      "specs": {
+        "series": "Plugs",
+        "rating": "32A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Plugs",
+      "model": "033-6",
+      "description": "Plugs - 63 Amp 3 Pole Plug IP67",
+      "price_pkr": 3290,
+      "specs": {
+        "series": "Plugs",
+        "rating": "63A",
+        "poles": "3P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Plugs",
+      "model": "035-6",
+      "description": "Plugs - 63 Amp 5 Pole Plug IP67",
+      "price_pkr": 3460,
+      "specs": {
+        "series": "Plugs",
+        "rating": "63A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Plugs",
+      "model": "045-6",
+      "description": "Plugs - 125 Amp 5 Pole Plug IP67",
+      "price_pkr": 11600,
+      "specs": {
+        "series": "Plugs",
+        "rating": "125A",
+        "poles": "5P",
+        "pin_type": "Pole",
+        "ip_rating": "IP67"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Mini Flanged Sockets",
+      "model": "1020-5S",
+      "description": "Mini Flanged Sockets - 13 Amp 3 Pin Flanged Socket Flat Pin IP44",
+      "price_pkr": 490,
+      "specs": {
+        "series": "Mini Flanged Sockets",
+        "rating": "13A",
+        "poles": "3P",
+        "pin_type": "Pin",
+        "ip_rating": "IP44"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Schuko Socket/Plug",
+      "model": "1050-0B",
+      "description": "Schuko Socket/Plug - 16 Amp 3 Pin Schuko Socket, Blue IP54",
+      "price_pkr": 485,
+      "specs": {
+        "series": "Schuko Socket/Plug",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pin",
+        "ip_rating": "IP54",
+        "color": "Blue"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Schuko Socket/Plug",
+      "model": "1050-0WS",
+      "description": "Schuko Socket/Plug - 16 Amp 3 Pin Schuko Socket, White IP54",
+      "price_pkr": 485,
+      "specs": {
+        "series": "Schuko Socket/Plug",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pin",
+        "ip_rating": "IP54",
+        "color": "White"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Schuko Socket/Plug",
+      "model": "02958-WE",
+      "description": "Schuko Socket/Plug - 16 Amp 3 Pin Schuko Plug, White IP20",
+      "price_pkr": 435,
+      "specs": {
+        "series": "Schuko Socket/Plug",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pin",
+        "ip_rating": "IP20",
+        "color": "White"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "PCE",
+      "section": "Schuko Socket/Plug",
+      "model": "02974-BK",
+      "description": "Schuko Socket/Plug - 16 Amp 3 Pin Schuko Plug, Black IP20",
+      "price_pkr": 370,
+      "specs": {
+        "series": "Schuko Socket/Plug",
+        "rating": "16A",
+        "poles": "3P",
+        "pin_type": "Pin",
+        "ip_rating": "IP20",
+        "color": "Black"
+      }
+    }
+  ],
+  "skipped": [],
+  "stats": {
+    "pages": 1,
+    "rows": 40,
+    "priced": 39,
+    "skipped": 0
+  }
+}

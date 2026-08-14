@@ -1,0 +1,6222 @@
+{
+  "source_pdf": "Price List AVS ABB OCTOBER 2019.pdf",
+  "rows": [
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 201",
+      "description": "Miniature Circuit Breaker 6KA SH 201 1 Pole / 6KA - 1A~4A",
+      "price_pkr": 2100,
+      "specs": {
+        "rating": "1A~4A",
+        "poles": "1P",
+        "breaking_capacity": "6KA",
+        "series": "SH 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 201",
+      "description": "Miniature Circuit Breaker 6KA SH 201 1 Pole / 6KA - 6A~10A",
+      "price_pkr": 975,
+      "specs": {
+        "rating": "6A~10A",
+        "poles": "1P",
+        "breaking_capacity": "6KA",
+        "series": "SH 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 201",
+      "description": "Miniature Circuit Breaker 6KA SH 201 1 Pole / 6KA - 16A~32A",
+      "price_pkr": 900,
+      "specs": {
+        "rating": "16A~32A",
+        "poles": "1P",
+        "breaking_capacity": "6KA",
+        "series": "SH 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 201",
+      "description": "Miniature Circuit Breaker 6KA SH 201 1 Pole / 6KA - 40A",
+      "price_pkr": 950,
+      "specs": {
+        "rating": "40A",
+        "poles": "1P",
+        "breaking_capacity": "6KA",
+        "series": "SH 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 202",
+      "description": "Miniature Circuit Breaker 6KA SH 202 2 Pole / 6KA - 1A~4A",
+      "price_pkr": 5900,
+      "specs": {
+        "rating": "1A~4A",
+        "poles": "2P",
+        "breaking_capacity": "6KA",
+        "series": "SH 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 202",
+      "description": "Miniature Circuit Breaker 6KA SH 202 2 Pole / 6KA - 6A~10A",
+      "price_pkr": 3500,
+      "specs": {
+        "rating": "6A~10A",
+        "poles": "2P",
+        "breaking_capacity": "6KA",
+        "series": "SH 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 202",
+      "description": "Miniature Circuit Breaker 6KA SH 202 2 Pole / 6KA - 16A~25A",
+      "price_pkr": 3100,
+      "specs": {
+        "rating": "16A~25A",
+        "poles": "2P",
+        "breaking_capacity": "6KA",
+        "series": "SH 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 202",
+      "description": "Miniature Circuit Breaker 6KA SH 202 2 Pole / 6KA - 32A~40A",
+      "price_pkr": 3100,
+      "specs": {
+        "rating": "32A~40A",
+        "poles": "2P",
+        "breaking_capacity": "6KA",
+        "series": "SH 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 203",
+      "description": "Miniature Circuit Breaker 6KA SH 203 3 Pole / 6KA - 1A~4A",
+      "price_pkr": 11500,
+      "specs": {
+        "rating": "1A~4A",
+        "poles": "3P",
+        "breaking_capacity": "6KA",
+        "series": "SH 203",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 203",
+      "description": "Miniature Circuit Breaker 6KA SH 203 3 Pole / 6KA - 6A~10A",
+      "price_pkr": 5400,
+      "specs": {
+        "rating": "6A~10A",
+        "poles": "3P",
+        "breaking_capacity": "6KA",
+        "series": "SH 203",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 203",
+      "description": "Miniature Circuit Breaker 6KA SH 203 3 Pole / 6KA - 16A~25A",
+      "price_pkr": 4900,
+      "specs": {
+        "rating": "16A~25A",
+        "poles": "3P",
+        "breaking_capacity": "6KA",
+        "series": "SH 203",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 203",
+      "description": "Miniature Circuit Breaker 6KA SH 203 3 Pole / 6KA - 32A~40A",
+      "price_pkr": 4900,
+      "specs": {
+        "rating": "32A~40A",
+        "poles": "3P",
+        "breaking_capacity": "6KA",
+        "series": "SH 203",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 204",
+      "description": "Miniature Circuit Breaker 6KA SH 204 4 Pole / 6KA - 1A~6A",
+      "price_pkr": null,
+      "specs": {
+        "rating": "1A~6A",
+        "poles": "4P",
+        "breaking_capacity": "6KA",
+        "series": "SH 204",
+        "made_in": "Germany",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 204",
+      "description": "Miniature Circuit Breaker 6KA SH 204 4 Pole / 6KA - 10A~25A",
+      "price_pkr": 10500,
+      "specs": {
+        "rating": "10A~25A",
+        "poles": "4P",
+        "breaking_capacity": "6KA",
+        "series": "SH 204",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 6KA",
+      "model": "SH 204",
+      "description": "Miniature Circuit Breaker 6KA SH 204 4 Pole / 6KA - 32A~40A",
+      "price_pkr": 10500,
+      "specs": {
+        "rating": "32A~40A",
+        "poles": "4P",
+        "breaking_capacity": "6KA",
+        "series": "SH 204",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 201",
+      "description": "Miniature Circuit Breaker 10KA S 201 1 Pole / 10KA - 1A ~ 4A",
+      "price_pkr": 3600,
+      "specs": {
+        "rating": "1A ~ 4A",
+        "poles": "1P",
+        "breaking_capacity": "10KA",
+        "series": "S 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 201",
+      "description": "Miniature Circuit Breaker 10KA S 201 1 Pole / 10KA - 6A~10A",
+      "price_pkr": 1700,
+      "specs": {
+        "rating": "6A~10A",
+        "poles": "1P",
+        "breaking_capacity": "10KA",
+        "series": "S 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 201",
+      "description": "Miniature Circuit Breaker 10KA S 201 1 Pole / 10KA - 16A~40A",
+      "price_pkr": 1500,
+      "specs": {
+        "rating": "16A~40A",
+        "poles": "1P",
+        "breaking_capacity": "10KA",
+        "series": "S 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 201",
+      "description": "Miniature Circuit Breaker 10KA S 201 1 Pole / 10KA - 50A, 63A",
+      "price_pkr": 1700,
+      "specs": {
+        "rating": "50A, 63A",
+        "poles": "1P",
+        "breaking_capacity": "10KA",
+        "series": "S 201",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 202",
+      "description": "Miniature Circuit Breaker 10KA S 202 2 Pole / 10KA - 1A ~ 4A",
+      "price_pkr": 12000,
+      "specs": {
+        "rating": "1A ~ 4A",
+        "poles": "2P",
+        "breaking_capacity": "10KA",
+        "series": "S 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 202",
+      "description": "Miniature Circuit Breaker 10KA S 202 2 Pole / 10KA - 6A~10A",
+      "price_pkr": 5500,
+      "specs": {
+        "rating": "6A~10A",
+        "poles": "2P",
+        "breaking_capacity": "10KA",
+        "series": "S 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 202",
+      "description": "Miniature Circuit Breaker 10KA S 202 2 Pole / 10KA - 16A~40A",
+      "price_pkr": 4500,
+      "specs": {
+        "rating": "16A~40A",
+        "poles": "2P",
+        "breaking_capacity": "10KA",
+        "series": "S 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 202",
+      "description": "Miniature Circuit Breaker 10KA S 202 2 Pole / 10KA - 50A, 63A",
+      "price_pkr": 5500,
+      "specs": {
+        "rating": "50A, 63A",
+        "poles": "2P",
+        "breaking_capacity": "10KA",
+        "series": "S 202",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 203",
+      "description": "Miniature Circuit Breaker 10KA S 203 3 Pole / 10KA - 1A ~ 4A",
+      "price_pkr": null,
+      "specs": {
+        "rating": "1A ~ 4A",
+        "poles": "3P",
+        "breaking_capacity": "10KA",
+        "series": "S 203",
+        "made_in": "Germany",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 203",
+      "description": "Miniature Circuit Breaker 10KA S 203 3 Pole / 10KA - 6A~10A",
+      "price_pkr": 8500,
+      "specs": {
+        "rating": "6A~10A",
+        "poles": "3P",
+        "breaking_capacity": "10KA",
+        "series": "S 203",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 203",
+      "description": "Miniature Circuit Breaker 10KA S 203 3 Pole / 10KA - 16A~40A",
+      "price_pkr": 7000,
+      "specs": {
+        "rating": "16A~40A",
+        "poles": "3P",
+        "breaking_capacity": "10KA",
+        "series": "S 203",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 203",
+      "description": "Miniature Circuit Breaker 10KA S 203 3 Pole / 10KA - 50A, 63A",
+      "price_pkr": 8000,
+      "specs": {
+        "rating": "50A, 63A",
+        "poles": "3P",
+        "breaking_capacity": "10KA",
+        "series": "S 203",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 204",
+      "description": "Miniature Circuit Breaker 10KA S 204 4 Pole / 10KA - 1A ~ 4A",
+      "price_pkr": null,
+      "specs": {
+        "rating": "1A ~ 4A",
+        "poles": "4P",
+        "breaking_capacity": "10KA",
+        "series": "S 204",
+        "made_in": "Germany",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 204",
+      "description": "Miniature Circuit Breaker 10KA S 204 4 Pole / 10KA - 6A~10A",
+      "price_pkr": 13500,
+      "specs": {
+        "rating": "6A~10A",
+        "poles": "4P",
+        "breaking_capacity": "10KA",
+        "series": "S 204",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 204",
+      "description": "Miniature Circuit Breaker 10KA S 204 4 Pole / 10KA - 16A, 40A",
+      "price_pkr": 11000,
+      "specs": {
+        "rating": "16A, 40A",
+        "poles": "4P",
+        "breaking_capacity": "10KA",
+        "series": "S 204",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "ABB",
+      "section": "Miniature Circuit Breakers 10KA",
+      "model": "S 204",
+      "description": "Miniature Circuit Breaker 10KA S 204 4 Pole / 10KA - 50A, 63A",
+      "price_pkr": 12000,
+      "specs": {
+        "rating": "50A, 63A",
+        "poles": "4P",
+        "breaking_capacity": "10KA",
+        "series": "S 204",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH202-025",
+      "description": "Residual Current Circuit Breaker FH202-025 2 Pole 25A 30mA",
+      "price_pkr": 9000,
+      "specs": {
+        "poles": "2P",
+        "current_sensitivity": "30mA",
+        "series": "FH202",
+        "made_in": "Italy",
+        "rating": "25A",
+        "note": "AMPERE cell blank in PDF; 25A per model suffix -025"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH202-025",
+      "description": "Residual Current Circuit Breaker FH202-025 2 Pole 25A 300mA",
+      "price_pkr": 9000,
+      "specs": {
+        "poles": "2P",
+        "current_sensitivity": "300mA",
+        "series": "FH202",
+        "made_in": "Italy",
+        "rating": "25A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH202-040",
+      "description": "Residual Current Circuit Breaker FH202-040 2 Pole 40A 30mA",
+      "price_pkr": 10000,
+      "specs": {
+        "poles": "2P",
+        "current_sensitivity": "30mA",
+        "series": "FH202",
+        "made_in": "Italy",
+        "rating": "40A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH202-040",
+      "description": "Residual Current Circuit Breaker FH202-040 2 Pole 40A 300mA",
+      "price_pkr": 10000,
+      "specs": {
+        "poles": "2P",
+        "current_sensitivity": "300mA",
+        "series": "FH202",
+        "made_in": "Italy",
+        "rating": "40A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH202-063",
+      "description": "Residual Current Circuit Breaker FH202-063 2 Pole 63A 30mA",
+      "price_pkr": 10000,
+      "specs": {
+        "poles": "2P",
+        "current_sensitivity": "30mA",
+        "series": "FH202",
+        "made_in": "Italy",
+        "rating": "63A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH202-063",
+      "description": "Residual Current Circuit Breaker FH202-063 2 Pole 63A 300mA",
+      "price_pkr": 11500,
+      "specs": {
+        "poles": "2P",
+        "current_sensitivity": "300mA",
+        "series": "FH202",
+        "made_in": "Italy",
+        "rating": "63A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH204-025",
+      "description": "Residual Current Circuit Breaker FH204-025 4 Pole 25A 30mA",
+      "price_pkr": 12500,
+      "specs": {
+        "poles": "4P",
+        "current_sensitivity": "30mA",
+        "series": "FH204",
+        "made_in": "Italy",
+        "rating": "25A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH204-025",
+      "description": "Residual Current Circuit Breaker FH204-025 4 Pole 25A 300mA",
+      "price_pkr": 12500,
+      "specs": {
+        "poles": "4P",
+        "current_sensitivity": "300mA",
+        "series": "FH204",
+        "made_in": "Italy",
+        "rating": "25A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH204-040",
+      "description": "Residual Current Circuit Breaker FH204-040 4 Pole 40A 30mA",
+      "price_pkr": 13500,
+      "specs": {
+        "poles": "4P",
+        "current_sensitivity": "30mA",
+        "series": "FH204",
+        "made_in": "Italy",
+        "rating": "40A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH204-040",
+      "description": "Residual Current Circuit Breaker FH204-040 4 Pole 40A 300mA",
+      "price_pkr": 14000,
+      "specs": {
+        "poles": "4P",
+        "current_sensitivity": "300mA",
+        "series": "FH204",
+        "made_in": "Italy",
+        "rating": "40A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH204-063",
+      "description": "Residual Current Circuit Breaker FH204-063 4 Pole 63A 30mA",
+      "price_pkr": 12500,
+      "specs": {
+        "poles": "4P",
+        "current_sensitivity": "30mA",
+        "series": "FH204",
+        "made_in": "Italy",
+        "rating": "63A"
+      }
+    },
+    {
+      "page": 5,
+      "brand": "ABB",
+      "section": "Residual Current Circuit Breakers",
+      "model": "FH204-063",
+      "description": "Residual Current Circuit Breaker FH204-063 4 Pole 63A 300mA",
+      "price_pkr": 14500,
+      "specs": {
+        "poles": "4P",
+        "current_sensitivity": "300mA",
+        "series": "FH204",
+        "made_in": "Italy",
+        "rating": "63A"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A1A 125",
+      "description": "Sace Formula MCCB 3Pole Fixed A1A 125 ICU 18KA ICS 50% - 15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+      "price_pkr": 9800,
+      "specs": {
+        "rating": "15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+        "poles": "3P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A1A",
+        "made_in": "Italy",
+        "icu_marked": "(10kA)"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A1B 125",
+      "description": "Sace Formula MCCB 3Pole Fixed A1B 125 ICU 18KA ICS 50% - 15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+      "price_pkr": 10300,
+      "specs": {
+        "rating": "15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+        "poles": "3P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A1B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A1B 125",
+      "description": "Sace Formula MCCB 3Pole Fixed A1B 125 ICU 18KA ICS 50% - 125A",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "125A",
+        "poles": "3P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A1B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A2B 250",
+      "description": "Sace Formula MCCB 3Pole Fixed A2B 250 ICU 18KA ICS 50% - 150A",
+      "price_pkr": 22000,
+      "specs": {
+        "rating": "150A",
+        "poles": "3P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A2B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A2B 250",
+      "description": "Sace Formula MCCB 3Pole Fixed A2B 250 ICU 18KA ICS 50% - 200A, 250A, 225A",
+      "price_pkr": 24000,
+      "specs": {
+        "rating": "200A, 250A, 225A",
+        "poles": "3P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A2B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A1C 125",
+      "description": "Sace Formula MCCB 3Pole Fixed A1C 125 ICU 25KA ICS 50% - 15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+      "price_pkr": 14000,
+      "specs": {
+        "rating": "15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+        "poles": "3P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A1C 125",
+      "description": "Sace Formula MCCB 3Pole Fixed A1C 125 ICU 25KA ICS 50% - 125A",
+      "price_pkr": 22000,
+      "specs": {
+        "rating": "125A",
+        "poles": "3P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A2C 250",
+      "description": "Sace Formula MCCB 3Pole Fixed A2C 250 ICU 25KA ICS 50% - 160A",
+      "price_pkr": 24000,
+      "specs": {
+        "rating": "160A",
+        "poles": "3P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A2C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A2C 250",
+      "description": "Sace Formula MCCB 3Pole Fixed A2C 250 ICU 25KA ICS 50% - 200A, 250A",
+      "price_pkr": 31000,
+      "specs": {
+        "rating": "200A, 250A",
+        "poles": "3P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A2C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A1N 125",
+      "description": "Sace Formula MCCB 3Pole Fixed A1N 125 ICU 36KA ICS 50% - 15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+      "price_pkr": 14000,
+      "specs": {
+        "rating": "15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+        "poles": "3P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A1N 125",
+      "description": "Sace Formula MCCB 3Pole Fixed A1N 125 ICU 36KA ICS 50% - 125A",
+      "price_pkr": 25000,
+      "specs": {
+        "rating": "125A",
+        "poles": "3P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A2N 250",
+      "description": "Sace Formula MCCB 3Pole Fixed A2N 250 ICU 36KA ICS 50% - 160A",
+      "price_pkr": 27000,
+      "specs": {
+        "rating": "160A",
+        "poles": "3P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A2N 250",
+      "description": "Sace Formula MCCB 3Pole Fixed A2N 250 ICU 36KA ICS 50% - 200A, 250A",
+      "price_pkr": 39000,
+      "specs": {
+        "rating": "200A, 250A",
+        "poles": "3P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A3N 400",
+      "description": "Sace Formula MCCB 3Pole Fixed A3N 400 ICU 36KA ICS 50% - 320A, 400A",
+      "price_pkr": 68000,
+      "specs": {
+        "rating": "320A, 400A",
+        "poles": "3P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A3N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A3N 630",
+      "description": "Sace Formula MCCB 3Pole Fixed A3N 630 ICU 36KA ICS 50% - 630A",
+      "price_pkr": 95000,
+      "specs": {
+        "rating": "630A",
+        "poles": "3P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A3N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A3S 400",
+      "description": "Sace Formula MCCB 3Pole Fixed A3S 400 ICU 50KA ICS 50% - 320, 400A",
+      "price_pkr": null,
+      "specs": {
+        "rating": "320, 400A",
+        "poles": "3P",
+        "breaking_capacity": "50KA",
+        "ics": "50%",
+        "series": "Formula A3S",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 6,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 3Pole Fixed Type",
+      "model": "A3S 630",
+      "description": "Sace Formula MCCB 3Pole Fixed A3S 630 ICU 50KA ICS 50% - 630A",
+      "price_pkr": null,
+      "specs": {
+        "rating": "630A",
+        "poles": "3P",
+        "breaking_capacity": "50KA",
+        "ics": "50%",
+        "series": "Formula A3S",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A1B 125",
+      "description": "Sace Formula MCCB 4Pole Fixed A1B 125 ICU 18KA ICS 50% - 15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+        "poles": "4P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A1B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A1B 125",
+      "description": "Sace Formula MCCB 4Pole Fixed A1B 125 ICU 18KA ICS 50% - 125A",
+      "price_pkr": 25000,
+      "specs": {
+        "rating": "125A",
+        "poles": "4P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A1B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A2B 250",
+      "description": "Sace Formula MCCB 4Pole Fixed A2B 250 ICU 18KA ICS 50% - 150A",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "150A",
+        "poles": "4P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A2B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A2B 250",
+      "description": "Sace Formula MCCB 4Pole Fixed A2B 250 ICU 18KA ICS 50% - 200A, 250A, 225A",
+      "price_pkr": 42000,
+      "specs": {
+        "rating": "200A, 250A, 225A",
+        "poles": "4P",
+        "breaking_capacity": "18KA",
+        "ics": "50%",
+        "series": "Formula A2B",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A1C 125",
+      "description": "Sace Formula MCCB 4Pole Fixed A1C 125 ICU 25KA ICS 50% - 15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+      "price_pkr": 22000,
+      "specs": {
+        "rating": "15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+        "poles": "4P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A1C 125",
+      "description": "Sace Formula MCCB 4Pole Fixed A1C 125 ICU 25KA ICS 50% - 125A",
+      "price_pkr": 27000,
+      "specs": {
+        "rating": "125A",
+        "poles": "4P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A2C 250",
+      "description": "Sace Formula MCCB 4Pole Fixed A2C 250 ICU 25KA ICS 50% - 160A",
+      "price_pkr": 33000,
+      "specs": {
+        "rating": "160A",
+        "poles": "4P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A2C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A2C 250",
+      "description": "Sace Formula MCCB 4Pole Fixed A2C 250 ICU 25KA ICS 50% - 200A, 250A",
+      "price_pkr": 44000,
+      "specs": {
+        "rating": "200A, 250A",
+        "poles": "4P",
+        "breaking_capacity": "25KA",
+        "ics": "50%",
+        "series": "Formula A2C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A1N 125",
+      "description": "Sace Formula MCCB 4Pole Fixed A1N 125 ICU 36KA ICS 50% - 15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+      "price_pkr": 28000,
+      "specs": {
+        "rating": "15, 20, 25, 30, 40, 50, 60,70,80, 90, 100A",
+        "poles": "4P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A1N 125",
+      "description": "Sace Formula MCCB 4Pole Fixed A1N 125 ICU 36KA ICS 50% - 125A",
+      "price_pkr": 36000,
+      "specs": {
+        "rating": "125A",
+        "poles": "4P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A2N 250",
+      "description": "Sace Formula MCCB 4Pole Fixed A2N 250 ICU 36KA ICS 50% - 160A",
+      "price_pkr": 46000,
+      "specs": {
+        "rating": "160A",
+        "poles": "4P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A2N 250",
+      "description": "Sace Formula MCCB 4Pole Fixed A2N 250 ICU 36KA ICS 50% - 200A, 250A",
+      "price_pkr": 56000,
+      "specs": {
+        "rating": "200A, 250A",
+        "poles": "4P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A3N 400",
+      "description": "Sace Formula MCCB 4Pole Fixed A3N 400 ICU 36KA ICS 50% - 320A, 400A",
+      "price_pkr": 92000,
+      "specs": {
+        "rating": "320A, 400A",
+        "poles": "4P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A3N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A3N 630",
+      "description": "Sace Formula MCCB 4Pole Fixed A3N 630 ICU 36KA ICS 50% - 630A",
+      "price_pkr": 120000,
+      "specs": {
+        "rating": "630A",
+        "poles": "4P",
+        "breaking_capacity": "36KA",
+        "ics": "50%",
+        "series": "Formula A3N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A3S 400",
+      "description": "Sace Formula MCCB 4Pole Fixed A3S 400 ICU 50KA ICS 50% - 320, 400A",
+      "price_pkr": null,
+      "specs": {
+        "rating": "320, 400A",
+        "poles": "4P",
+        "breaking_capacity": "50KA",
+        "ics": "50%",
+        "series": "Formula A3S",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 7,
+      "brand": "ABB",
+      "section": "New Sace Formula Series MCCB 4Pole Fixed Type",
+      "model": "A3S 630",
+      "description": "Sace Formula MCCB 4Pole Fixed A3S 630 ICU 50KA ICS 50% - 630A",
+      "price_pkr": null,
+      "specs": {
+        "rating": "630A",
+        "poles": "4P",
+        "breaking_capacity": "50KA",
+        "ics": "50%",
+        "series": "Formula A3S",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Shunt Open/Close",
+      "description": "Sace Formula Accessory (A1~A2): Shunt Open/Close 220-250VAC/DC",
+      "price_pkr": 20000,
+      "specs": {
+        "for_model": "A1~A2",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Under Voltage Release",
+      "description": "Sace Formula Accessory (A1~A2): Under Voltage Release 220-250VAC/DC",
+      "price_pkr": 28000,
+      "specs": {
+        "for_model": "A1~A2",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Auxiliary Contact 1C/O+1Signal",
+      "description": "Sace Formula Accessory (A1~A2): Auxiliary Contact 1C/O+1Signal 220-250VAC/DC",
+      "price_pkr": 14000,
+      "specs": {
+        "for_model": "A1~A2",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Auxiliary Contact 2C/O+1Signal",
+      "description": "Sace Formula Accessory (A1~A2): Auxiliary Contact 2C/O+1Signal 220-250VAC/DC",
+      "price_pkr": 18000,
+      "specs": {
+        "for_model": "A1~A2",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Rotary Handle",
+      "description": "Sace Formula Accessory (A1~A2): Rotary Handle",
+      "price_pkr": 12000,
+      "specs": {
+        "for_model": "A1~A2",
+        "series": "Formula Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Shunt Open/Close",
+      "description": "Sace Formula Accessory (A3): Shunt Open/Close 220-250VAC/DC",
+      "price_pkr": 22000,
+      "specs": {
+        "for_model": "A3",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Under Voltage Release",
+      "description": "Sace Formula Accessory (A3): Under Voltage Release 220-250VAC/DC",
+      "price_pkr": 30000,
+      "specs": {
+        "for_model": "A3",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Auxiliary Contact 1C/O+1Signal",
+      "description": "Sace Formula Accessory (A3): Auxiliary Contact 1C/O+1Signal 220-250VAC/DC",
+      "price_pkr": 15000,
+      "specs": {
+        "for_model": "A3",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Auxiliary Contact 2C/O+1Signal",
+      "description": "Sace Formula Accessory (A3): Auxiliary Contact 2C/O+1Signal 220-250VAC/DC",
+      "price_pkr": 30000,
+      "specs": {
+        "for_model": "A3",
+        "series": "Formula Accessories",
+        "made_in": "Italy",
+        "voltage": "220-250VAC/DC"
+      }
+    },
+    {
+      "page": 8,
+      "brand": "ABB",
+      "section": "Accessories for Sace Formula",
+      "model": "Rotary Handle",
+      "description": "Sace Formula Accessory (A3): Rotary Handle",
+      "price_pkr": 17000,
+      "specs": {
+        "for_model": "A3",
+        "series": "Formula Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 25 A (adjustable 17 ~ 25A)",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "25A",
+        "poles": "3P",
+        "adjustable_range": "17 ~ 25A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 32 A (adjustable 22 ~ 32A)",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "32A",
+        "poles": "3P",
+        "adjustable_range": "22 ~ 32A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 40 A (adjustable 28 ~ 40A)",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "40A",
+        "poles": "3P",
+        "adjustable_range": "28 ~ 40A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 50 A (adjustable 35 ~ 50A)",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "50A",
+        "poles": "3P",
+        "adjustable_range": "35 ~ 50A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 63 A (adjustable 44 ~ 63A)",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "63A",
+        "poles": "3P",
+        "adjustable_range": "44 ~ 63A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 80 A (adjustable 56 ~ 80A)",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "80A",
+        "poles": "3P",
+        "adjustable_range": "56 ~ 80A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 100 A (adjustable 70 ~ 100A)",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "100A",
+        "poles": "3P",
+        "adjustable_range": "70 ~ 100A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 125 A (adjustable 87 ~ 125A)",
+      "price_pkr": 25000,
+      "specs": {
+        "rating": "125A",
+        "poles": "3P",
+        "adjustable_range": "87 ~ 125A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 9,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 3Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 160 A (adjustable 112 ~ 160A)",
+      "price_pkr": 29000,
+      "specs": {
+        "rating": "160A",
+        "poles": "3P",
+        "adjustable_range": "112 ~ 160A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 32 A (adjustable 22 ~ 32A)",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "32A",
+        "poles": "3P",
+        "adjustable_range": "22 ~ 32A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 40 A (adjustable 28 ~ 40A)",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "40A",
+        "poles": "3P",
+        "adjustable_range": "28 ~ 40A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 50 A (adjustable 35 ~ 50A)",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "50A",
+        "poles": "3P",
+        "adjustable_range": "35 ~ 50A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 63 A (adjustable 44 ~ 63A)",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "63A",
+        "poles": "3P",
+        "adjustable_range": "44 ~ 63A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 80 A (adjustable 56 ~ 80A)",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "80A",
+        "poles": "3P",
+        "adjustable_range": "56 ~ 80A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 100 A (adjustable 70 ~ 100A)",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "100A",
+        "poles": "3P",
+        "adjustable_range": "70 ~ 100A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 125 A (adjustable 87 ~ 125A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "125A",
+        "poles": "3P",
+        "adjustable_range": "87 ~ 125A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 3Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 160 A (adjustable 112 ~ 160A)",
+      "price_pkr": 36000,
+      "specs": {
+        "rating": "160A",
+        "poles": "3P",
+        "adjustable_range": "112 ~ 160A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT3N 250",
+      "description": "T MAX MCCB 3Pole XT3N 250 THERMAL ICU 36KA ICS 100% - 200 A (adjustable 140 ~ 200A)",
+      "price_pkr": 58000,
+      "specs": {
+        "rating": "200A",
+        "poles": "3P",
+        "adjustable_range": "140 ~ 200A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT3N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT3N 250",
+      "description": "T MAX MCCB 3Pole XT3N 250 THERMAL ICU 36KA ICS 75% - 250 A (adjustable 175 ~ 250A)",
+      "price_pkr": 58000,
+      "specs": {
+        "rating": "250A",
+        "poles": "3P",
+        "adjustable_range": "175 ~ 250A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "75%",
+        "series": "T MAX XT3N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT4N 250",
+      "description": "T MAX MCCB 3Pole XT4N 250 THERMAL ICU 36KA ICS 75% - 250 A (adjustable 175 ~ 250A)",
+      "price_pkr": 58000,
+      "specs": {
+        "rating": "250A",
+        "poles": "3P",
+        "adjustable_range": "175 ~ 250A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "75%",
+        "series": "T MAX XT4N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5N 400",
+      "description": "T MAX MCCB 3Pole T5N 400 ELECTRONIC ICU 36KA ICS 100% - 320 A (adjustable 128 ~ 320A)",
+      "price_pkr": 85000,
+      "specs": {
+        "rating": "320A",
+        "poles": "3P",
+        "adjustable_range": "128 ~ 320A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5N 400",
+      "description": "T MAX MCCB 3Pole T5N 400 ELECTRONIC ICU 36KA ICS 100% - 400 A (adjustable 160 ~ 400A)",
+      "price_pkr": 85000,
+      "specs": {
+        "rating": "400A",
+        "poles": "3P",
+        "adjustable_range": "160 ~ 400A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5N 630",
+      "description": "T MAX MCCB 3Pole T5N 630 ELECTRONIC ICU 36KA ICS 100% - 630 A (adjustable 250 ~ 630A)",
+      "price_pkr": 110000,
+      "specs": {
+        "rating": "630A",
+        "poles": "3P",
+        "adjustable_range": "250 ~ 630A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6N 800",
+      "description": "T MAX MCCB 3Pole T6N 800 ELECTRONIC ICU 36KA ICS 100% - 800 A (adjustable 320 ~ 800A)",
+      "price_pkr": 220000,
+      "specs": {
+        "rating": "800A",
+        "poles": "3P",
+        "adjustable_range": "320 ~ 800A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 10,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6N 1000",
+      "description": "T MAX MCCB 3Pole T6N 1000 ELECTRONIC ICU 36KA ICS 100% - 1000 A (adjustable 400 ~ 1000A)",
+      "price_pkr": 245000,
+      "specs": {
+        "rating": "1000A",
+        "poles": "3P",
+        "adjustable_range": "400 ~ 1000A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 16 A (adjustable 12.5 ~ 16A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "16A",
+        "poles": "3P",
+        "adjustable_range": "12.5 ~ 16A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 20 A (adjustable 16 ~ 20A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "20A",
+        "poles": "3P",
+        "adjustable_range": "16 ~ 20A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 25 A (adjustable 17 ~ 25A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "25A",
+        "poles": "3P",
+        "adjustable_range": "17 ~ 25A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 32 A (adjustable 22 ~ 32A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "32A",
+        "poles": "3P",
+        "adjustable_range": "22 ~ 32A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 40 A (adjustable 28 ~ 40A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "40A",
+        "poles": "3P",
+        "adjustable_range": "28 ~ 40A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 50 A (adjustable 35 ~ 50A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "50A",
+        "poles": "3P",
+        "adjustable_range": "35 ~ 50A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 63 A (adjustable 44 ~ 63A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "63A",
+        "poles": "3P",
+        "adjustable_range": "44 ~ 63A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 80 A (adjustable 56 ~ 80A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "80A",
+        "poles": "3P",
+        "adjustable_range": "56 ~ 80A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 100 A (adjustable 70 ~ 100A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "100A",
+        "poles": "3P",
+        "adjustable_range": "70 ~ 100A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 125 A (adjustable 87 ~ 125A)",
+      "price_pkr": 42000,
+      "specs": {
+        "rating": "125A",
+        "poles": "3P",
+        "adjustable_range": "87 ~ 125A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2S 160",
+      "description": "T MAX MCCB 3Pole XT2S 160 THERMAL ICU 50KA ICS 100% - 160 A (adjustable 112 ~ 160A)",
+      "price_pkr": 44000,
+      "specs": {
+        "rating": "160A",
+        "poles": "3P",
+        "adjustable_range": "112 ~ 160A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T4S 250",
+      "description": "T MAX MCCB 3Pole T4S 250 THERMAL ICU 50KA ICS 100% - 250 A (adjustable 175 ~ 250A)",
+      "price_pkr": 70000,
+      "specs": {
+        "rating": "250A",
+        "poles": "3P",
+        "adjustable_range": "175 ~ 250A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX T4S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5S 400",
+      "description": "T MAX MCCB 3Pole T5S 400 ELECTRONIC ICU 50KA ICS 100% - 320 A (adjustable 128 ~ 320A)",
+      "price_pkr": 110000,
+      "specs": {
+        "rating": "320A",
+        "poles": "3P",
+        "adjustable_range": "128 ~ 320A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5S 400",
+      "description": "T MAX MCCB 3Pole T5S 400 ELECTRONIC ICU 50KA ICS 100% - 400 A (adjustable 160 ~ 400A)",
+      "price_pkr": 110000,
+      "specs": {
+        "rating": "400A",
+        "poles": "3P",
+        "adjustable_range": "160 ~ 400A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5S 630",
+      "description": "T MAX MCCB 3Pole T5S 630 ELECTRONIC ICU 50KA ICS 100% - 630 A (adjustable 250 ~ 630A)",
+      "price_pkr": 135000,
+      "specs": {
+        "rating": "630A",
+        "poles": "3P",
+        "adjustable_range": "250 ~ 630A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6S 800",
+      "description": "T MAX MCCB 3Pole T6S 800 ELECTRONIC ICU 50KA ICS 100% - 800 A (adjustable 320 ~ 800A)",
+      "price_pkr": 245000,
+      "specs": {
+        "rating": "800A",
+        "poles": "3P",
+        "adjustable_range": "320 ~ 800A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6S 1000",
+      "description": "T MAX MCCB 3Pole T6S 1000 ELECTRONIC ICU 50KA ICS 100% - 1000 A (adjustable 400 ~ 1000A)",
+      "price_pkr": 270000,
+      "specs": {
+        "rating": "1000A",
+        "poles": "3P",
+        "adjustable_range": "400 ~ 1000A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7S 1250",
+      "description": "T MAX MCCB 3Pole T7S 1250 ELECTRONIC ICU 50KA ICS 100% - 1250 A (adjustable 500 ~ 1250A)",
+      "price_pkr": 294000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "3P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7S 1250 M",
+      "description": "T MAX MCCB 3Pole T7S 1250 M ELECTRONIC ICU 50KA ICS 100% - 1250 A (adjustable 500 ~ 1250A) for motorized",
+      "price_pkr": 304000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "3P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7S",
+        "made_in": "Italy",
+        "note": "for motorized"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7S 1600",
+      "description": "T MAX MCCB 3Pole T7S 1600 ELECTRONIC ICU 50KA ICS 100% - 1600 A (adjustable 640 ~ 1600A)",
+      "price_pkr": 340000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "3P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7S",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 11,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7S 1600 M",
+      "description": "T MAX MCCB 3Pole T7S 1600 M ELECTRONIC ICU 50KA ICS 100% - 1600 A (adjustable 640 ~ 1600A) for motorized",
+      "price_pkr": 360000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "3P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "50KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7S",
+        "made_in": "Italy",
+        "note": "for motorized"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 16 A (adjustable 12.5 ~ 16A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "16A",
+        "poles": "3P",
+        "adjustable_range": "12.5 ~ 16A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 20 A (adjustable 16 ~ 20A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "20A",
+        "poles": "3P",
+        "adjustable_range": "16 ~ 20A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 25 A (adjustable 17 ~ 25A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "25A",
+        "poles": "3P",
+        "adjustable_range": "17 ~ 25A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 32 A (adjustable 22 ~ 32A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "32A",
+        "poles": "3P",
+        "adjustable_range": "22 ~ 32A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 40 A (adjustable 28 ~ 40A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "40A",
+        "poles": "3P",
+        "adjustable_range": "28 ~ 40A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 50 A (adjustable 35 ~ 50A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "50A",
+        "poles": "3P",
+        "adjustable_range": "35 ~ 50A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 63 A (adjustable 44 ~ 63A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "63A",
+        "poles": "3P",
+        "adjustable_range": "44 ~ 63A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 80 A (adjustable 56 ~ 80A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "80A",
+        "poles": "3P",
+        "adjustable_range": "56 ~ 80A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 100 A (adjustable 70 ~ 100A)",
+      "price_pkr": 35000,
+      "specs": {
+        "rating": "100A",
+        "poles": "3P",
+        "adjustable_range": "70 ~ 100A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 125 A (adjustable 87 ~ 125A)",
+      "price_pkr": 43000,
+      "specs": {
+        "rating": "125A",
+        "poles": "3P",
+        "adjustable_range": "87 ~ 125A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 3Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 160 A (adjustable 112 ~ 160A)",
+      "price_pkr": 45000,
+      "specs": {
+        "rating": "160A",
+        "poles": "3P",
+        "adjustable_range": "112 ~ 160A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T4H 250",
+      "description": "T MAX MCCB 3Pole T4H 250 THERMAL ICU 70KA ICS 100% - 200 A (adjustable 140 ~ 200A)",
+      "price_pkr": 72000,
+      "specs": {
+        "rating": "200A",
+        "poles": "3P",
+        "adjustable_range": "140 ~ 200A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX T4H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T4H 250",
+      "description": "T MAX MCCB 3Pole T4H 250 THERMAL ICU 70KA ICS 100% - 250 A (adjustable 175 ~ 250A)",
+      "price_pkr": 72000,
+      "specs": {
+        "rating": "250A",
+        "poles": "3P",
+        "adjustable_range": "175 ~ 250A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX T4H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5H 400",
+      "description": "T MAX MCCB 3Pole T5H 400 ELECTRONIC ICU 70KA ICS 100% - 400 A (adjustable 160 ~ 400A)",
+      "price_pkr": 130000,
+      "specs": {
+        "rating": "400A",
+        "poles": "3P",
+        "adjustable_range": "160 ~ 400A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5H 630",
+      "description": "T MAX MCCB 3Pole T5H 630 ELECTRONIC ICU 70KA ICS 100% - 630 A (adjustable 250 ~ 630A)",
+      "price_pkr": 160000,
+      "specs": {
+        "rating": "630A",
+        "poles": "3P",
+        "adjustable_range": "250 ~ 630A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6H 800",
+      "description": "T MAX MCCB 3Pole T6H 800 ELECTRONIC ICU 70KA ICS 100% - 800 A (adjustable 320 ~ 800A)",
+      "price_pkr": 270000,
+      "specs": {
+        "rating": "800A",
+        "poles": "3P",
+        "adjustable_range": "320 ~ 800A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6H 1000",
+      "description": "T MAX MCCB 3Pole T6H 1000 ELECTRONIC ICU 70KA ICS 100% - 1000 A (adjustable 400 ~ 1000A)",
+      "price_pkr": 310000,
+      "specs": {
+        "rating": "1000A",
+        "poles": "3P",
+        "adjustable_range": "400 ~ 1000A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1250",
+      "description": "T MAX MCCB 3Pole T7H 1250 ELECTRONIC ICU 70KA ICS 100% - 1250 A (adjustable 500 ~ 1250A)",
+      "price_pkr": 330000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "3P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1250 M",
+      "description": "T MAX MCCB 3Pole T7H 1250 M ELECTRONIC ICU 70KA ICS 100% - 1250 A (adjustable 500 ~ 1250A) for motorized",
+      "price_pkr": 340000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "3P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy",
+        "note": "for motorized"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1600",
+      "description": "T MAX MCCB 3Pole T7H 1600 ELECTRONIC ICU 70KA ICS 100% - 1600 A (adjustable 640 ~ 1600A)",
+      "price_pkr": 385000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "3P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1600 M",
+      "description": "T MAX MCCB 3Pole T7H 1600 M ELECTRONIC ICU 70KA ICS 100% - 1600 A (adjustable 640 ~ 1600A) for motorized",
+      "price_pkr": 400000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "3P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy",
+        "note": "for motorized"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T8L 2000",
+      "description": "T MAX MCCB 3Pole T8L 2000 ELECTRONIC ICU 70KA ICS 100% - 2000 A (adjustable 800 ~ 2000A)",
+      "price_pkr": null,
+      "specs": {
+        "rating": "2000A",
+        "poles": "3P",
+        "adjustable_range": "800 ~ 2000A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T8L",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T8L 2500",
+      "description": "T MAX MCCB 3Pole T8L 2500 ELECTRONIC ICU 70KA ICS 100% - 2500 A (adjustable 1000 ~ 2500A)",
+      "price_pkr": null,
+      "specs": {
+        "rating": "2500A",
+        "poles": "3P",
+        "adjustable_range": "1000 ~ 2500A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T8L",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 12,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 3Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T8L 3200",
+      "description": "T MAX MCCB 3Pole T8L 3200 ELECTRONIC ICU 70KA ICS 100% - 3200 A (adjustable 1250 ~ 2000A)",
+      "price_pkr": null,
+      "specs": {
+        "rating": "3200A",
+        "poles": "3P",
+        "adjustable_range": "1250 ~ 2000A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T8L",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 25 A (adjustable 17 ~ 25A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "25A",
+        "poles": "4P",
+        "adjustable_range": "17 ~ 25A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 32 A (adjustable 22 ~ 32A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "32A",
+        "poles": "4P",
+        "adjustable_range": "22 ~ 32A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 40 A (adjustable 28 ~ 40A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "40A",
+        "poles": "4P",
+        "adjustable_range": "28 ~ 40A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 50 A (adjustable 35 ~ 50A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "50A",
+        "poles": "4P",
+        "adjustable_range": "35 ~ 50A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 63 A (adjustable 44 ~ 63A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "63A",
+        "poles": "4P",
+        "adjustable_range": "44 ~ 63A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 80 A (adjustable 56 ~ 80A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "80A",
+        "poles": "4P",
+        "adjustable_range": "56 ~ 80A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 100 A (adjustable 70 ~ 100A)",
+      "price_pkr": 30000,
+      "specs": {
+        "rating": "100A",
+        "poles": "4P",
+        "adjustable_range": "70 ~ 100A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 125 A (adjustable 87 ~ 125A)",
+      "price_pkr": 43000,
+      "specs": {
+        "rating": "125A",
+        "poles": "4P",
+        "adjustable_range": "87 ~ 125A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1C 160",
+      "description": "T MAX MCCB 4Pole XT1C 160 THERMAL ICU 25KA ICS 100% - 160 A (adjustable 112 ~ 160A)",
+      "price_pkr": 54000,
+      "specs": {
+        "rating": "160A",
+        "poles": "4P",
+        "adjustable_range": "112 ~ 160A",
+        "breaking_capacity": "25KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1C",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 32 A (adjustable 22 ~ 32A)",
+      "price_pkr": 37000,
+      "specs": {
+        "rating": "32A",
+        "poles": "4P",
+        "adjustable_range": "22 ~ 32A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 40 A (adjustable 28 ~ 40A)",
+      "price_pkr": 37000,
+      "specs": {
+        "rating": "40A",
+        "poles": "4P",
+        "adjustable_range": "28 ~ 40A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 50 A (adjustable 35 ~ 50A)",
+      "price_pkr": 37000,
+      "specs": {
+        "rating": "50A",
+        "poles": "4P",
+        "adjustable_range": "35 ~ 50A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 63 A (adjustable 44 ~ 63A)",
+      "price_pkr": 37000,
+      "specs": {
+        "rating": "63A",
+        "poles": "4P",
+        "adjustable_range": "44 ~ 63A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 80 A (adjustable 56 ~ 80A)",
+      "price_pkr": 37000,
+      "specs": {
+        "rating": "80A",
+        "poles": "4P",
+        "adjustable_range": "56 ~ 80A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 100 A (adjustable 70 ~ 100A)",
+      "price_pkr": 37000,
+      "specs": {
+        "rating": "100A",
+        "poles": "4P",
+        "adjustable_range": "70 ~ 100A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 125 A (adjustable 87 ~ 125A)",
+      "price_pkr": 45000,
+      "specs": {
+        "rating": "125A",
+        "poles": "4P",
+        "adjustable_range": "87 ~ 125A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT1N 160",
+      "description": "T MAX MCCB 4Pole XT1N 160 THERMAL ICU 36KA ICS 100% - 160 A (adjustable 112 ~ 160A)",
+      "price_pkr": 57000,
+      "specs": {
+        "rating": "160A",
+        "poles": "4P",
+        "adjustable_range": "112 ~ 160A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT1N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT4N 250",
+      "description": "T MAX MCCB 4Pole XT4N 250 THERMAL ICU 36KA ICS 100% - 200 A (adjustable 140 ~ 200A)",
+      "price_pkr": 92000,
+      "specs": {
+        "rating": "200A",
+        "poles": "4P",
+        "adjustable_range": "140 ~ 200A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT4N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T4N 250",
+      "description": "T MAX MCCB 4Pole T4N 250 THERMAL ICU 36KA ICS 100% - 250 A (adjustable 175 ~ 250A)",
+      "price_pkr": 92000,
+      "specs": {
+        "rating": "250A",
+        "poles": "4P",
+        "adjustable_range": "175 ~ 250A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX T4N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5N 400",
+      "description": "T MAX MCCB 4Pole T5N 400 ELECTRONIC ICU 36KA ICS 100% - 400 A (adjustable 160 ~ 400A)",
+      "price_pkr": 150000,
+      "specs": {
+        "rating": "400A",
+        "poles": "4P",
+        "adjustable_range": "160 ~ 400A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5N 630",
+      "description": "T MAX MCCB 4Pole T5N 630 ELECTRONIC ICU 36KA ICS 100% - 630 A (adjustable 250 ~ 630A)",
+      "price_pkr": 175000,
+      "specs": {
+        "rating": "630A",
+        "poles": "4P",
+        "adjustable_range": "250 ~ 630A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6N 800",
+      "description": "T MAX MCCB 4Pole T6N 800 ELECTRONIC ICU 36KA ICS 100% - 800 A (adjustable 320 ~ 800A)",
+      "price_pkr": 295000,
+      "specs": {
+        "rating": "800A",
+        "poles": "4P",
+        "adjustable_range": "320 ~ 800A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 13,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6N 1000",
+      "description": "T MAX MCCB 4Pole T6N 1000 ELECTRONIC ICU 36KA ICS 100% - 1000 A (adjustable 400 ~ 1000A)",
+      "price_pkr": 330000,
+      "specs": {
+        "rating": "1000A",
+        "poles": "4P",
+        "adjustable_range": "400 ~ 1000A",
+        "breaking_capacity": "36KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 32 A (adjustable 22 ~ 32A)",
+      "price_pkr": 68000,
+      "specs": {
+        "rating": "32A",
+        "poles": "4P",
+        "adjustable_range": "22 ~ 32A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 40 A (adjustable 28 ~ 40A)",
+      "price_pkr": 68000,
+      "specs": {
+        "rating": "40A",
+        "poles": "4P",
+        "adjustable_range": "28 ~ 40A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 50 A (adjustable 35 ~ 50A)",
+      "price_pkr": 68000,
+      "specs": {
+        "rating": "50A",
+        "poles": "4P",
+        "adjustable_range": "35 ~ 50A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 63 A (adjustable 44 ~ 63A)",
+      "price_pkr": 68000,
+      "specs": {
+        "rating": "63A",
+        "poles": "4P",
+        "adjustable_range": "44 ~ 63A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 80 A (adjustable 56 ~ 80A)",
+      "price_pkr": 68000,
+      "specs": {
+        "rating": "80A",
+        "poles": "4P",
+        "adjustable_range": "56 ~ 80A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 100 A (adjustable 70 ~ 100A)",
+      "price_pkr": 68000,
+      "specs": {
+        "rating": "100A",
+        "poles": "4P",
+        "adjustable_range": "70 ~ 100A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 125 A (adjustable 87 ~ 125A)",
+      "price_pkr": 72000,
+      "specs": {
+        "rating": "125A",
+        "poles": "4P",
+        "adjustable_range": "87 ~ 125A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT2H 160",
+      "description": "T MAX MCCB 4Pole XT2H 160 THERMAL ICU 70KA ICS 100% - 160 A (adjustable 112 ~ 160A)",
+      "price_pkr": 80000,
+      "specs": {
+        "rating": "160A",
+        "poles": "4P",
+        "adjustable_range": "112 ~ 160A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT4H 250",
+      "description": "T MAX MCCB 4Pole XT4H 250 THERMAL ICU 70KA ICS 100% - 200 A (adjustable 140 ~ 200A)",
+      "price_pkr": 115000,
+      "specs": {
+        "rating": "200A",
+        "poles": "4P",
+        "adjustable_range": "140 ~ 200A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "THERMAL",
+        "ics": "100%",
+        "series": "T MAX XT4H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "XT4H 250",
+      "description": "T MAX MCCB 4Pole XT4H 250 ELECTRONIC ICU 70KA ICS 100% - 250 A (adjustable 175 ~ 250A)",
+      "price_pkr": 115000,
+      "specs": {
+        "rating": "250A",
+        "poles": "4P",
+        "adjustable_range": "175 ~ 250A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX XT4H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5H 400",
+      "description": "T MAX MCCB 4Pole T5H 400 ELECTRONIC ICU 70KA ICS 100% - 400 A (adjustable 160 ~ 400A)",
+      "price_pkr": 175000,
+      "specs": {
+        "rating": "400A",
+        "poles": "4P",
+        "adjustable_range": "160 ~ 400A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T5H 630",
+      "description": "T MAX MCCB 4Pole T5H 630 ELECTRONIC ICU 70KA ICS 100% - 630 A (adjustable 250 ~ 630A)",
+      "price_pkr": 220000,
+      "specs": {
+        "rating": "630A",
+        "poles": "4P",
+        "adjustable_range": "250 ~ 630A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T5H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6H 800",
+      "description": "T MAX MCCB 4Pole T6H 800 ELECTRONIC ICU 70KA ICS 100% - 800 A (adjustable 320 ~ 800A)",
+      "price_pkr": 350000,
+      "specs": {
+        "rating": "800A",
+        "poles": "4P",
+        "adjustable_range": "320 ~ 800A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T6H 1000",
+      "description": "T MAX MCCB 4Pole T6H 1000 ELECTRONIC ICU 70KA ICS 100% - 1000 A (adjustable 400 ~ 1000A)",
+      "price_pkr": 400000,
+      "specs": {
+        "rating": "1000A",
+        "poles": "4P",
+        "adjustable_range": "400 ~ 1000A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T6H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1250",
+      "description": "T MAX MCCB 4Pole T7H 1250 ELECTRONIC ICU 70KA ICS 100% - 1250 A (adjustable 500 ~ 1250A)",
+      "price_pkr": 485000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "4P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1250 M",
+      "description": "T MAX MCCB 4Pole T7H 1250 M ELECTRONIC ICU 70KA ICS 100% - 1250 A (adjustable 500 ~ 1250A) for motorized",
+      "price_pkr": 525000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "4P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy",
+        "note": "for motorized"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1600",
+      "description": "T MAX MCCB 4Pole T7H 1600 ELECTRONIC ICU 70KA ICS 100% - 1600 A (adjustable 640 ~ 1600A)",
+      "price_pkr": 525000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "4P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 14,
+      "brand": "ABB",
+      "section": "T MAX Series MCCB 4Pole Thermo Magnetic and Electronic (Adjustable)",
+      "model": "T7H 1600 M",
+      "description": "T MAX MCCB 4Pole T7H 1600 M ELECTRONIC ICU 70KA ICS 100% - 1600 A (adjustable 640 ~ 1600A) for motorized",
+      "price_pkr": 550000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "4P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "70KA",
+        "trip_unit": "ELECTRONIC",
+        "ics": "100%",
+        "series": "T MAX T7H",
+        "made_in": "Italy",
+        "note": "for motorized"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Auxiliary Contacts 1Q 1SY - 250V AC/DC",
+      "description": "T MAX MCCB Accessory (XT1~T6): Auxiliary Contacts 1Q 1SY - 250V AC/DC",
+      "price_pkr": 8800,
+      "specs": {
+        "for_model": "XT1~T6",
+        "series": "T MAX Accessories",
+        "accessory_type": "Auxiliary Contacts",
+        "made_in": "Italy",
+        "voltage": "250V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Auxiliary Contacts 3Q 1SY - 250V AC/DC",
+      "description": "T MAX MCCB Accessory (XT1~T6): Auxiliary Contacts 3Q 1SY - 250V AC/DC",
+      "price_pkr": 18000,
+      "specs": {
+        "for_model": "XT1~T6",
+        "series": "T MAX Accessories",
+        "accessory_type": "Auxiliary Contacts",
+        "made_in": "Italy",
+        "voltage": "250V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Auxiliary Contacts 2Q 1SY - 400V AC",
+      "description": "T MAX MCCB Accessory (T7): Auxiliary Contacts 2Q 1SY - 400V AC",
+      "price_pkr": 16000,
+      "specs": {
+        "for_model": "T7",
+        "series": "T MAX Accessories",
+        "accessory_type": "Auxiliary Contacts",
+        "made_in": "Italy",
+        "voltage": "400V AC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Auxiliary Contact 2Q - 400V AC",
+      "description": "T MAX MCCB Accessory (T7M): Auxiliary Contact 2Q - 400V AC",
+      "price_pkr": 16000,
+      "specs": {
+        "for_model": "T7M",
+        "series": "T MAX Accessories",
+        "accessory_type": "Auxiliary Contacts",
+        "made_in": "Italy",
+        "voltage": "400V AC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Shunt Opening Release 220 - 240V AC/DC",
+      "description": "T MAX MCCB Accessory (XT1~XT3): Shunt Opening Release 220 - 240V AC/DC",
+      "price_pkr": 15000,
+      "specs": {
+        "for_model": "XT1~XT3",
+        "series": "T MAX Accessories",
+        "accessory_type": "Shunt Opening Release",
+        "made_in": "Italy",
+        "voltage": "220 - 240V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Shunt Opening Release 220 - 240V AC/DC",
+      "description": "T MAX MCCB Accessory (T4 ~ T6): Shunt Opening Release 220 - 240V AC/DC",
+      "price_pkr": 15000,
+      "specs": {
+        "for_model": "T4 ~ T6",
+        "series": "T MAX Accessories",
+        "accessory_type": "Shunt Opening Release",
+        "made_in": "Italy",
+        "voltage": "220 - 240V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Shunt Opening Release 220 - 240V AC/DC",
+      "description": "T MAX MCCB Accessory (T7 / T7M): Shunt Opening Release 220 - 240V AC/DC",
+      "price_pkr": 34000,
+      "specs": {
+        "for_model": "T7 / T7M",
+        "series": "T MAX Accessories",
+        "accessory_type": "Shunt Opening Release",
+        "made_in": "Italy",
+        "voltage": "220 - 240V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Under Voltage Release 220 - 240V AC/DC",
+      "description": "T MAX MCCB Accessory (XT1~XT3): Under Voltage Release 220 - 240V AC/DC",
+      "price_pkr": 21000,
+      "specs": {
+        "for_model": "XT1~XT3",
+        "series": "T MAX Accessories",
+        "accessory_type": "Under Voltage Release",
+        "made_in": "Italy",
+        "voltage": "220 - 240V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Under Voltage Release 220 - 240V AC/DC",
+      "description": "T MAX MCCB Accessory (T4 ~ T6): Under Voltage Release 220 - 240V AC/DC",
+      "price_pkr": 21000,
+      "specs": {
+        "for_model": "T4 ~ T6",
+        "series": "T MAX Accessories",
+        "accessory_type": "Under Voltage Release",
+        "made_in": "Italy",
+        "voltage": "220 - 240V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Under Voltage Release 220 - 240V AC/DC",
+      "description": "T MAX MCCB Accessory (T7 / T7M): Under Voltage Release 220 - 240V AC/DC",
+      "price_pkr": 38000,
+      "specs": {
+        "for_model": "T7 / T7M",
+        "series": "T MAX Accessories",
+        "accessory_type": "Under Voltage Release",
+        "made_in": "Italy",
+        "voltage": "220 - 240V AC/DC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Direct Action Motor Operator 220…240VAC (MOD)",
+      "description": "T MAX MCCB Accessory (XT1 / XT3): Direct Action Motor Operator 220…240VAC (MOD)",
+      "price_pkr": 75000,
+      "specs": {
+        "for_model": "XT1 / XT3",
+        "series": "T MAX Accessories",
+        "accessory_type": "Stored Energy Motor",
+        "made_in": "Italy",
+        "voltage": "220…240VAC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Stored Energy Motor Operator 220…240VAC (MOE)",
+      "description": "T MAX MCCB Accessory (XT2 / T4): Stored Energy Motor Operator 220…240VAC (MOE)",
+      "price_pkr": 160000,
+      "specs": {
+        "for_model": "XT2 / T4",
+        "series": "T MAX Accessories",
+        "accessory_type": "Stored Energy Motor",
+        "made_in": "Italy",
+        "voltage": "220…240VAC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Stored Energy Motor Operator 220…240VAC (T4-T5)",
+      "description": "T MAX MCCB Accessory (T4 - T5): Stored Energy Motor Operator 220…240VAC (T4-T5)",
+      "price_pkr": 185000,
+      "specs": {
+        "for_model": "T4 - T5",
+        "series": "T MAX Accessories",
+        "accessory_type": "Stored Energy Motor",
+        "made_in": "Italy",
+        "voltage": "220…240VAC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Stored Energy Motor Operator 220…240VAC (T6)",
+      "description": "T MAX MCCB Accessory (T6): Stored Energy Motor Operator 220…240VAC (T6)",
+      "price_pkr": 320000,
+      "specs": {
+        "for_model": "T6",
+        "series": "T MAX Accessories",
+        "accessory_type": "Stored Energy Motor",
+        "made_in": "Italy",
+        "voltage": "220…240VAC"
+      }
+    },
+    {
+      "page": 15,
+      "brand": "ABB",
+      "section": "Accessories for T MAX MCCBs",
+      "model": "Spring Charge Motor (T7M)",
+      "description": "T MAX MCCB Accessory (T7M): Spring Charge Motor (T7M)",
+      "price_pkr": 240000,
+      "specs": {
+        "for_model": "T7M",
+        "series": "T MAX Accessories",
+        "accessory_type": "Stored Energy Motor",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E1.2N 1250",
+      "description": "Air Circuit Breaker 3 Pole E1.2N 1250 ICU 50 KA ICS 100% - 1250 AMPS (adjustable 500 ~ 1250A)",
+      "price_pkr": 560000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "3P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "50KA",
+        "ics": "100%",
+        "series": "Emax E1.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E1.2N 1600",
+      "description": "Air Circuit Breaker 3 Pole E1.2N 1600 ICU 50 KA ICS 100% - 1600 AMPS (adjustable 640 ~ 1600A)",
+      "price_pkr": 600000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "3P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "50KA",
+        "ics": "100%",
+        "series": "Emax E1.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2N 1250",
+      "description": "Air Circuit Breaker 3 Pole E2.2N 1250 ICU 66 KA ICS 100% - 1250 AMPS (adjustable 500 ~ 1250A)",
+      "price_pkr": 590000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "3P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2N 1600",
+      "description": "Air Circuit Breaker 3 Pole E2.2N 1600 ICU 66 KA ICS 100% - 1600 AMPS (adjustable 640 ~ 1600A)",
+      "price_pkr": 650000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "3P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2N 2000",
+      "description": "Air Circuit Breaker 3 Pole E2.2N 2000 ICU 66 KA ICS 100% - 2000 AMPS (adjustable 800 ~ 2000A)",
+      "price_pkr": 735000,
+      "specs": {
+        "rating": "2000A",
+        "poles": "3P",
+        "adjustable_range": "800 ~ 2000A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2N 2500",
+      "description": "Air Circuit Breaker 3 Pole E2.2N 2500 ICU 66 KA ICS 100% - 2500 AMPS (adjustable 1000 ~ 2500A)",
+      "price_pkr": 935000,
+      "specs": {
+        "rating": "2500A",
+        "poles": "3P",
+        "adjustable_range": "1000 ~ 2500A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E4.2N 3200",
+      "description": "Air Circuit Breaker 3 Pole E4.2N 3200 ICU 66 KA ICS 100% - 3200 AMPS (adjustable 1280 ~ 3200A)",
+      "price_pkr": 1150000,
+      "specs": {
+        "rating": "3200A",
+        "poles": "3P",
+        "adjustable_range": "1280 ~ 3200A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E4.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E4.2N 4000",
+      "description": "Air Circuit Breaker 3 Pole E4.2N 4000 ICU 66 KA ICS 100% - 4000 AMPS (adjustable 1600 ~ 4000A)",
+      "price_pkr": 1600000,
+      "specs": {
+        "rating": "4000A",
+        "poles": "3P",
+        "adjustable_range": "1600 ~ 4000A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E4.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2H 1250",
+      "description": "Air Circuit Breaker 3 Pole E2.2H 1250 ICU 100 KA ICS 100% - 1250 AMPS (adjustable 500 ~ 1250A)",
+      "price_pkr": 695000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "3P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2H 1600",
+      "description": "Air Circuit Breaker 3 Pole E2.2H 1600 ICU 100 KA ICS 100% - 1600 AMPS (adjustable 640 ~ 1600A)",
+      "price_pkr": 770000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "3P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2H 2000",
+      "description": "Air Circuit Breaker 3 Pole E2.2H 2000 ICU 100 KA ICS 100% - 2000 AMPS (adjustable 800 ~ 2000A)",
+      "price_pkr": 930000,
+      "specs": {
+        "rating": "2000A",
+        "poles": "3P",
+        "adjustable_range": "800 ~ 2000A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E2.2H 2500",
+      "description": "Air Circuit Breaker 3 Pole E2.2H 2500 ICU 100 KA ICS 100% - 2500 AMPS (adjustable 1000 ~ 2500A)",
+      "price_pkr": 1100000,
+      "specs": {
+        "rating": "2500A",
+        "poles": "3P",
+        "adjustable_range": "1000 ~ 2500A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E4.2H 3200",
+      "description": "Air Circuit Breaker 3 Pole E4.2H 3200 ICU 100 KA ICS 100% - 3200 AMPS (adjustable 1280 ~ 3200A)",
+      "price_pkr": 1400000,
+      "specs": {
+        "rating": "3200A",
+        "poles": "3P",
+        "adjustable_range": "1280 ~ 3200A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E4.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E4.2H 4000",
+      "description": "Air Circuit Breaker 3 Pole E4.2H 4000 ICU 100 KA ICS 100% - 4000 AMPS (adjustable 1600 ~ 4000A)",
+      "price_pkr": 1800000,
+      "specs": {
+        "rating": "4000A",
+        "poles": "3P",
+        "adjustable_range": "1600 ~ 4000A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E4.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E6.2H 5000",
+      "description": "Air Circuit Breaker 3 Pole E6.2H 5000 ICU 100 KA ICS 100% - 5000 AMPS (adjustable 2000 ~ 5000A)",
+      "price_pkr": null,
+      "specs": {
+        "rating": "5000A",
+        "poles": "3P",
+        "adjustable_range": "2000 ~ 5000A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E6.2H",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 16,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 3 Pole Adjustable",
+      "model": "E6.2H 6300",
+      "description": "Air Circuit Breaker 3 Pole E6.2H 6300 ICU 100 KA ICS 100% - 6300 AMPS (adjustable 2820 ~ 6300A)",
+      "price_pkr": null,
+      "specs": {
+        "rating": "6300A",
+        "poles": "3P",
+        "adjustable_range": "2820 ~ 6300A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E6.2H",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2N 1600",
+      "description": "Air Circuit Breaker 4 Pole E2.2N 1600 ICU 66 KA ICS 100% - 1000 AMPS (adjustable 400 ~ 1000A)",
+      "price_pkr": 775000,
+      "specs": {
+        "rating": "1000A",
+        "poles": "4P",
+        "adjustable_range": "400 ~ 1000A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2N 1250",
+      "description": "Air Circuit Breaker 4 Pole E2.2N 1250 ICU 66 KA ICS 100% - 1250 AMPS (adjustable 500 ~ 1250A)",
+      "price_pkr": 810000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "4P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2N 1600",
+      "description": "Air Circuit Breaker 4 Pole E2.2N 1600 ICU 66 KA ICS 100% - 1600 AMPS (adjustable 640 ~ 1600A)",
+      "price_pkr": 850000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "4P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2N 2000",
+      "description": "Air Circuit Breaker 4 Pole E2.2N 2000 ICU 66 KA ICS 100% - 2000 AMPS (adjustable 800 ~ 2000A)",
+      "price_pkr": 980000,
+      "specs": {
+        "rating": "2000A",
+        "poles": "4P",
+        "adjustable_range": "800 ~ 2000A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2N 2500",
+      "description": "Air Circuit Breaker 4 Pole E2.2N 2500 ICU 66 KA ICS 100% - 2500 AMPS (adjustable 1000 ~ 2500A)",
+      "price_pkr": 1300000,
+      "specs": {
+        "rating": "2500A",
+        "poles": "4P",
+        "adjustable_range": "1000 ~ 2500A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E2.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E4.2N 3200",
+      "description": "Air Circuit Breaker 4 Pole E4.2N 3200 ICU 66 KA ICS 100% - 3200 AMPS (adjustable 1280 ~ 3200A)",
+      "price_pkr": 1635000,
+      "specs": {
+        "rating": "3200A",
+        "poles": "4P",
+        "adjustable_range": "1280 ~ 3200A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E4.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E4.2N 4000",
+      "description": "Air Circuit Breaker 4 Pole E4.2N 4000 ICU 66 KA ICS 100% - 4000 AMPS (adjustable 1600 ~ 4000A)",
+      "price_pkr": 2225000,
+      "specs": {
+        "rating": "4000A",
+        "poles": "4P",
+        "adjustable_range": "1600 ~ 4000A",
+        "breaking_capacity": "66KA",
+        "ics": "100%",
+        "series": "Emax E4.2N",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2H 1250",
+      "description": "Air Circuit Breaker 4 Pole E2.2H 1250 ICU 100 KA ICS 100% - 1250 AMPS (adjustable 500 ~ 1250A)",
+      "price_pkr": 880000,
+      "specs": {
+        "rating": "1250A",
+        "poles": "4P",
+        "adjustable_range": "500 ~ 1250A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2H 1600",
+      "description": "Air Circuit Breaker 4 Pole E2.2H 1600 ICU 100 KA ICS 100% - 1600 AMPS (adjustable 640 ~ 1600A)",
+      "price_pkr": 965000,
+      "specs": {
+        "rating": "1600A",
+        "poles": "4P",
+        "adjustable_range": "640 ~ 1600A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2H 2000",
+      "description": "Air Circuit Breaker 4 Pole E2.2H 2000 ICU 100 KA ICS 100% - 2000 AMPS (adjustable 800 ~ 2000A)",
+      "price_pkr": 1150000,
+      "specs": {
+        "rating": "2000A",
+        "poles": "4P",
+        "adjustable_range": "800 ~ 2000A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E2.2H 2500",
+      "description": "Air Circuit Breaker 4 Pole E2.2H 2500 ICU 100 KA ICS 100% - 2500 AMPS (adjustable 1000 ~ 2500A)",
+      "price_pkr": 1475000,
+      "specs": {
+        "rating": "2500A",
+        "poles": "4P",
+        "adjustable_range": "1000 ~ 2500A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E2.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E4.2H 3200",
+      "description": "Air Circuit Breaker 4 Pole E4.2H 3200 ICU 100 KA ICS 100% - 3200 AMPS (adjustable 1280 ~ 3200A)",
+      "price_pkr": 1925000,
+      "specs": {
+        "rating": "3200A",
+        "poles": "4P",
+        "adjustable_range": "1280 ~ 3200A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E4.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E4.2H 4000",
+      "description": "Air Circuit Breaker 4 Pole E4.2H 4000 ICU 100 KA ICS 100% - 4000 AMPS (adjustable 1600 ~ 4000A)",
+      "price_pkr": 2625000,
+      "specs": {
+        "rating": "4000A",
+        "poles": "4P",
+        "adjustable_range": "1600 ~ 4000A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E4.2H",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E6.2H 5000",
+      "description": "Air Circuit Breaker 4 Pole E6.2H 5000 ICU 100 KA ICS 100% - 5000 AMPS (adjustable 2000 ~ 5000A)",
+      "price_pkr": null,
+      "specs": {
+        "rating": "5000A",
+        "poles": "4P",
+        "adjustable_range": "2000 ~ 5000A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E6.2H",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 17,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) 4 Pole Adjustable",
+      "model": "E6.2H 6300",
+      "description": "Air Circuit Breaker 4 Pole E6.2H 6300 ICU 100 KA ICS 100% - 6300 AMPS (adjustable 2820 ~ 6300A)",
+      "price_pkr": null,
+      "specs": {
+        "rating": "6300A",
+        "poles": "4P",
+        "adjustable_range": "2820 ~ 6300A",
+        "breaking_capacity": "100KA",
+        "ics": "100%",
+        "series": "Emax E6.2H",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Under Voltage Release YU 240…250V AC/DC",
+      "description": "ACB Optional Accessory: Under Voltage Release YU 240…250V AC/DC",
+      "price_pkr": 28000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "code": "YU",
+        "voltage": "240…250V AC/DC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Under Voltage Release YU 380…400V AC",
+      "description": "ACB Optional Accessory: Under Voltage Release YU 380…400V AC",
+      "price_pkr": 28000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "code": "YU",
+        "voltage": "380…400V AC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Shunt Opening Release YO 240…250V AC/DC",
+      "description": "ACB Optional Accessory: Shunt Opening Release YO 240…250V AC/DC",
+      "price_pkr": 28000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "code": "YO",
+        "voltage": "240…250V AC/DC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Shunt Opening Release YO 380…415V AC",
+      "description": "ACB Optional Accessory: Shunt Opening Release YO 380…415V AC",
+      "price_pkr": 28000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "code": "YO",
+        "voltage": "380…415V AC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Shunt Closing Release YC 220…240V AC/DC",
+      "description": "ACB Optional Accessory: Shunt Closing Release YC 220…240V AC/DC",
+      "price_pkr": 28000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "code": "YC",
+        "voltage": "220…240V AC/DC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Shunt Closing Release YC 380…400V AC",
+      "description": "ACB Optional Accessory: Shunt Closing Release YC 380…400V AC",
+      "price_pkr": 28000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "code": "YC",
+        "voltage": "380…400V AC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Geared motor 220…250V AC/DC",
+      "description": "ACB Optional Accessory: Geared motor 220…250V AC/DC",
+      "price_pkr": 150000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "voltage": "220…250V AC/DC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "4 Change Over Contacts open / close",
+      "description": "ACB Optional Accessory: 4 Change Over Contacts open / close",
+      "price_pkr": 80000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "IP54 Flanged Diffirent keys",
+      "description": "ACB Optional Accessory: IP54 Flanged Diffirent keys",
+      "price_pkr": 76000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Electrical Indication Trip with remote reset PRx (058261)",
+      "description": "ACB Optional Accessory: Electrical Indication Trip with remote reset PRx (058261)",
+      "price_pkr": 50000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Electronic time delay for UVR E1~E6 220/250VAC",
+      "description": "ACB Optional Accessory: Electronic time delay for UVR E1~E6 220/250VAC",
+      "price_pkr": 95000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "voltage": "220/250VAC"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Mechanical Operation Counter E1 ~ E6",
+      "description": "ACB Optional Accessory: Mechanical Operation Counter E1 ~ E6",
+      "price_pkr": 40000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Key Lock in Open position different keys E1 ~ E2",
+      "description": "ACB Optional Accessory: Key Lock in Open position different keys E1 ~ E2",
+      "price_pkr": 21000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Push Button Protection E1 ~ E6",
+      "description": "ACB Optional Accessory: Push Button Protection E1 ~ E6",
+      "price_pkr": 9000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Pad Lock Device in Open Position Dia = 4mm",
+      "description": "ACB Optional Accessory: Pad Lock Device in Open Position Dia = 4mm",
+      "price_pkr": 10000,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Mechanical interlocks for 2 ACBs in Horizontal position",
+      "description": "ACB Optional Accessory: Mechanical interlocks for 2 ACBs in Horizontal position",
+      "price_pkr": null,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 18,
+      "brand": "ABB",
+      "section": "Air Circuit Breakers (ACB) Optional Accessories",
+      "model": "Mechanical interlocks for 3 ACBs in Horizontal position",
+      "description": "ACB Optional Accessory: Mechanical interlocks for 3 ACBs in Horizontal position",
+      "price_pkr": null,
+      "specs": {
+        "series": "ACB Accessories",
+        "made_in": "Italy",
+        "note": "On Request"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX09-30-10",
+      "description": "3 Pole Magnetic Contactor AX09-30-10 4 / 5.0 KW/HP 9A AC-3 (Ith 25A) aux 1 NO",
+      "price_pkr": 3200,
+      "specs": {
+        "rating": "9A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO",
+        "capacity_kw_hp": "4 / 5.0",
+        "operational_current_ac3": "9A",
+        "ith_thermal_ac1": "25A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX12-30-10",
+      "description": "3 Pole Magnetic Contactor AX12-30-10 5.5 / 7.5 KW/HP 12A AC-3 (Ith 28A) aux 1 NO",
+      "price_pkr": 3900,
+      "specs": {
+        "rating": "12A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO",
+        "capacity_kw_hp": "5.5 / 7.5",
+        "operational_current_ac3": "12A",
+        "ith_thermal_ac1": "28A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX18-30-10",
+      "description": "3 Pole Magnetic Contactor AX18-30-10 7.5 / 10 KW/HP 18A AC-3 (Ith 30A) aux 1 NO",
+      "price_pkr": 5400,
+      "specs": {
+        "rating": "18A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO",
+        "capacity_kw_hp": "7.5 / 10",
+        "operational_current_ac3": "18A",
+        "ith_thermal_ac1": "30A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX25-30-10",
+      "description": "3 Pole Magnetic Contactor AX25-30-10 11 / 15 KW/HP 25A AC-3 (Ith 45A) aux 1 NO",
+      "price_pkr": 7500,
+      "specs": {
+        "rating": "25A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO",
+        "capacity_kw_hp": "11 / 15",
+        "operational_current_ac3": "25A",
+        "ith_thermal_ac1": "45A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX32-30-10",
+      "description": "3 Pole Magnetic Contactor AX32-30-10 15 / 20 KW/HP 32A AC-3 (Ith 50A) aux 1 NO",
+      "price_pkr": 10500,
+      "specs": {
+        "rating": "32A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO",
+        "capacity_kw_hp": "15 / 20",
+        "operational_current_ac3": "32A",
+        "ith_thermal_ac1": "50A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX40-30-10",
+      "description": "3 Pole Magnetic Contactor AX40-30-10 18.5 / 25 KW/HP 40A AC-3 (Ith 50A) aux 1 NO",
+      "price_pkr": 15500,
+      "specs": {
+        "rating": "40A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO",
+        "capacity_kw_hp": "18.5 / 25",
+        "operational_current_ac3": "40A",
+        "ith_thermal_ac1": "50A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX50-30-11",
+      "description": "3 Pole Magnetic Contactor AX50-30-11 22 / 40 KW/HP 50A AC-3 (Ith 100A) aux 1 NO+1 NC",
+      "price_pkr": 17300,
+      "specs": {
+        "rating": "50A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "22 / 40",
+        "operational_current_ac3": "50A",
+        "ith_thermal_ac1": "100A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX65-30-11",
+      "description": "3 Pole Magnetic Contactor AX65-30-11 30 / 50 KW/HP 65A AC-3 (Ith 105A) aux 1 NO+1 NC",
+      "price_pkr": 22000,
+      "specs": {
+        "rating": "65A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "30 / 50",
+        "operational_current_ac3": "65A",
+        "ith_thermal_ac1": "105A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AX80-30-11",
+      "description": "3 Pole Magnetic Contactor AX80-30-11 37 / 60 KW/HP 80A AC-3 (Ith 125A) aux 1 NO+1 NC",
+      "price_pkr": 29000,
+      "specs": {
+        "rating": "80A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "37 / 60",
+        "operational_current_ac3": "80A",
+        "ith_thermal_ac1": "125A",
+        "series": "AX",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF96-30-11",
+      "description": "3 Pole Magnetic Contactor AF96-30-11 45 / 60 KW/HP 96A AC-3 (Ith 130A) aux 1 NO+1 NC",
+      "price_pkr": 38000,
+      "specs": {
+        "rating": "96A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "45 / 60",
+        "operational_current_ac3": "96A",
+        "ith_thermal_ac1": "130A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF116-30-11",
+      "description": "3 Pole Magnetic Contactor AF116-30-11 55 / 75 KW/HP 110A AC-3 (Ith 160A) aux 1 NO+1 NC",
+      "price_pkr": 42000,
+      "specs": {
+        "rating": "110A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "55 / 75",
+        "operational_current_ac3": "110A",
+        "ith_thermal_ac1": "160A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF146-30-11",
+      "description": "3 Pole Magnetic Contactor AF146-30-11 75 / 100 KW/HP 145A AC-3 (Ith 250A) aux 1 NO+1 NC",
+      "price_pkr": 49000,
+      "specs": {
+        "rating": "145A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "75 / 100",
+        "operational_current_ac3": "145A",
+        "ith_thermal_ac1": "250A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF190-30-11",
+      "description": "3 Pole Magnetic Contactor AF190-30-11 90 / 125 KW/HP 185A AC-3 (Ith 275A) aux 1 NO+1 NC",
+      "price_pkr": 94000,
+      "specs": {
+        "rating": "185A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "90 / 125",
+        "operational_current_ac3": "185A",
+        "ith_thermal_ac1": "275A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF205-30-11",
+      "description": "3 Pole Magnetic Contactor AF205-30-11 110 / 150 KW/HP 210A AC-3 (Ith 350A) aux 1 NO+1 NC",
+      "price_pkr": 113000,
+      "specs": {
+        "rating": "210A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "110 / 150",
+        "operational_current_ac3": "210A",
+        "ith_thermal_ac1": "350A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF265-30-11",
+      "description": "3 Pole Magnetic Contactor AF265-30-11 140 / 190 KW/HP 260A AC-3 (Ith 400A) aux 1 NO+1 NC",
+      "price_pkr": 128000,
+      "specs": {
+        "rating": "260A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "140 / 190",
+        "operational_current_ac3": "260A",
+        "ith_thermal_ac1": "400A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF305-30-11",
+      "description": "3 Pole Magnetic Contactor AF305-30-11 160 / 220 KW/HP 305A AC-3 (Ith 500A) aux 1 NO+1 NC",
+      "price_pkr": 160000,
+      "specs": {
+        "rating": "305A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "160 / 220",
+        "operational_current_ac3": "305A",
+        "ith_thermal_ac1": "500A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF370-30-11",
+      "description": "3 Pole Magnetic Contactor AF370-30-11 200 / 270 KW/HP 400A AC-3 (Ith 600A) aux 1 NO+1 NC",
+      "price_pkr": 190000,
+      "specs": {
+        "rating": "400A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "200 / 270",
+        "operational_current_ac3": "400A",
+        "ith_thermal_ac1": "600A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF460-30-11",
+      "description": "3 Pole Magnetic Contactor AF460-30-11 250 / 340 KW/HP 460A AC-3 (Ith 700A) aux 1 NO+1 NC",
+      "price_pkr": 230000,
+      "specs": {
+        "rating": "460A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "250 / 340",
+        "operational_current_ac3": "460A",
+        "ith_thermal_ac1": "700A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF580-30-11",
+      "description": "3 Pole Magnetic Contactor AF580-30-11 315 / 430 KW/HP 580A AC-3 (Ith 800A) aux 1 NO+1 NC",
+      "price_pkr": 360000,
+      "specs": {
+        "rating": "580A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "315 / 430",
+        "operational_current_ac3": "580A",
+        "ith_thermal_ac1": "800A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 19,
+      "brand": "ABB",
+      "section": "3 Pole Magnetic Contactors",
+      "model": "AF750-30-11",
+      "description": "3 Pole Magnetic Contactor AF750-30-11 400 / 600 KW/HP 750A AC-3 (Ith 1000A) aux 1 NO+1 NC",
+      "price_pkr": 950000,
+      "specs": {
+        "rating": "750A",
+        "poles": "3P",
+        "auxiliary_contacts": "1 NO+1 NC",
+        "capacity_kw_hp": "400 / 600",
+        "operational_current_ac3": "750A",
+        "ith_thermal_ac1": "1000A",
+        "series": "AF",
+        "made_in": "France / Sweden / Bulgaria"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF16-40",
+      "description": "4 Pole Magnetic Contactor AF16-40 7.5 / 10 KW/HP 30A at 690V AC-1",
+      "price_pkr": 14500,
+      "specs": {
+        "rating": "30A",
+        "poles": "4P",
+        "capacity_kw_hp": "7.5 / 10",
+        "operational_current_690v_ac1": "30A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF26-40",
+      "description": "4 Pole Magnetic Contactor AF26-40 11 / 15 KW/HP 45A at 690V AC-1",
+      "price_pkr": 18000,
+      "specs": {
+        "rating": "45A",
+        "poles": "4P",
+        "capacity_kw_hp": "11 / 15",
+        "operational_current_690v_ac1": "45A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF38-40",
+      "description": "4 Pole Magnetic Contactor AF38-40 18.5 / 20 KW/HP 55A at 690V AC-1",
+      "price_pkr": 25500,
+      "specs": {
+        "rating": "55A",
+        "poles": "4P",
+        "capacity_kw_hp": "18.5 / 20",
+        "operational_current_690v_ac1": "55A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF52-40",
+      "description": "4 Pole Magnetic Contactor AF52-40 37 / 60 KW/HP 100A at 690V AC-1",
+      "price_pkr": 48000,
+      "specs": {
+        "rating": "100A",
+        "poles": "4P",
+        "capacity_kw_hp": "37 / 60",
+        "operational_current_690v_ac1": "100A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF80-40",
+      "description": "4 Pole Magnetic Contactor AF80-40 55 / 75 KW/HP 125A at 690V AC-1",
+      "price_pkr": 54000,
+      "specs": {
+        "rating": "125A",
+        "poles": "4P",
+        "capacity_kw_hp": "55 / 75",
+        "operational_current_690v_ac1": "125A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF116-40",
+      "description": "4 Pole Magnetic Contactor AF116-40 75 / 100 KW/HP 160A at 690V AC-1",
+      "price_pkr": 160000,
+      "specs": {
+        "rating": "160A",
+        "poles": "4P",
+        "capacity_kw_hp": "75 / 100",
+        "operational_current_690v_ac1": "160A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF140-40",
+      "description": "4 Pole Magnetic Contactor AF140-40 90 / 125 KW/HP 200A at 690V AC-1",
+      "price_pkr": 183000,
+      "specs": {
+        "rating": "200A",
+        "poles": "4P",
+        "capacity_kw_hp": "90 / 125",
+        "operational_current_690v_ac1": "200A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF190-40",
+      "description": "4 Pole Magnetic Contactor AF190-40 110 / 150 KW/HP 275A at 690V AC-1",
+      "price_pkr": 260000,
+      "specs": {
+        "rating": "275A",
+        "poles": "4P",
+        "capacity_kw_hp": "110 / 150",
+        "operational_current_690v_ac1": "275A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF205-40",
+      "description": "4 Pole Magnetic Contactor AF205-40 132 / 200 KW/HP 350A at 690V AC-1",
+      "price_pkr": 310000,
+      "specs": {
+        "rating": "350A",
+        "poles": "4P",
+        "capacity_kw_hp": "132 / 200",
+        "operational_current_690v_ac1": "350A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF265-40",
+      "description": "4 Pole Magnetic Contactor AF265-40 160 / 250 KW/HP 400A at 690V AC-1",
+      "price_pkr": 410000,
+      "specs": {
+        "rating": "400A",
+        "poles": "4P",
+        "capacity_kw_hp": "160 / 250",
+        "operational_current_690v_ac1": "400A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "AF370-40",
+      "description": "4 Pole Magnetic Contactor AF370-40 200 / 300 KW/HP 525A at 690V AC-1",
+      "price_pkr": 538000,
+      "specs": {
+        "rating": "525A",
+        "poles": "4P",
+        "capacity_kw_hp": "200 / 300",
+        "operational_current_690v_ac1": "525A",
+        "series": "AF",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "EK550-40-11",
+      "description": "4 Pole Magnetic Contactor EK550-40-11 280 KW/HP 800A at 690V AC-1",
+      "price_pkr": 597000,
+      "specs": {
+        "rating": "800A",
+        "poles": "4P",
+        "capacity_kw_hp": "280",
+        "operational_current_690v_ac1": "800A",
+        "series": "EK",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 20,
+      "brand": "ABB",
+      "section": "4 Pole Magnetic Contactors",
+      "model": "EK1000-40-11",
+      "description": "4 Pole Magnetic Contactor EK1000-40-11 400 KW/HP 1000A at 690V AC-1",
+      "price_pkr": 685000,
+      "specs": {
+        "rating": "1000A",
+        "poles": "4P",
+        "capacity_kw_hp": "400",
+        "operational_current_690v_ac1": "1000A",
+        "series": "EK",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CA5X-10",
+      "description": "Contactor Auxiliary Contact CA5X-10 1 NO Front mounting for AX9 ~ AX80",
+      "price_pkr": 900,
+      "specs": {
+        "contacts": "1 NO",
+        "mounting": "Front",
+        "for_range": "AX9 ~ AX80",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CA5X-01",
+      "description": "Contactor Auxiliary Contact CA5X-01 1 NC Front mounting for AX9 ~ AX80",
+      "price_pkr": 900,
+      "specs": {
+        "contacts": "1 NC",
+        "mounting": "Front",
+        "for_range": "AX9 ~ AX80",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CAL5X",
+      "description": "Contactor Auxiliary Contact CAL5X 1NO + 1NC Side mounting for AX9 ~ AX80",
+      "price_pkr": 2000,
+      "specs": {
+        "contacts": "1NO + 1NC",
+        "mounting": "Side",
+        "for_range": "AX9 ~ AX80",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CA4-10",
+      "description": "Contactor Auxiliary Contact CA4-10 1NO Front mounting for AF9 ~ AF96",
+      "price_pkr": 900,
+      "specs": {
+        "contacts": "1NO",
+        "mounting": "Front",
+        "for_range": "AF9 ~ AF96",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CA4-01",
+      "description": "Contactor Auxiliary Contact CA4-01 1NC Front mounting for AF9 ~ AF96",
+      "price_pkr": 900,
+      "specs": {
+        "contacts": "1NC",
+        "mounting": "Front",
+        "for_range": "AF9 ~ AF96",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CAL4-11",
+      "description": "Contactor Auxiliary Contact CAL4-11 1NO + 1NC Side mounting for AF9 ~ AX96",
+      "price_pkr": 4000,
+      "specs": {
+        "contacts": "1NO + 1NC",
+        "mounting": "Side",
+        "for_range": "AF9 ~ AX96",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CAL19-11",
+      "description": "Contactor Auxiliary Contact CAL19-11 1NO + 1NC Side mounting for AF116 ~ AF370",
+      "price_pkr": 5500,
+      "specs": {
+        "contacts": "1NO + 1NC",
+        "mounting": "Side",
+        "for_range": "AF116 ~ AF370",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Auxiliary Contacts",
+      "model": "CAL18-01",
+      "description": "Contactor Auxiliary Contact CAL18-01 1NO + 1NC Side mounting for AF400 ~ AF1650",
+      "price_pkr": 5500,
+      "specs": {
+        "contacts": "1NO + 1NC",
+        "mounting": "Side",
+        "for_range": "AF400 ~ AF1650",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Mechanical Interlocks (AF Series)",
+      "model": "VM 5-1",
+      "description": "Contactor Interlock VM 5-1 (Mechanical) for AX 09 ~ AX 40",
+      "price_pkr": 8500,
+      "specs": {
+        "type": "Mechanical",
+        "for_range": "AX 09 ~ AX 40",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Mechanical Interlocks (AF Series)",
+      "model": "VE 5-2",
+      "description": "Contactor Interlock VE 5-2 (Mechanical & Electrical) for AX 50 ~ AX 80",
+      "price_pkr": 3200,
+      "specs": {
+        "type": "Mechanical & Electrical",
+        "for_range": "AX 50 ~ AX 80",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Mechanical Interlocks (AF Series)",
+      "model": "VM 4",
+      "description": "Contactor Interlock VM 4 (Mechanical Interlock) for AF 09 ~ AF 38",
+      "price_pkr": 3200,
+      "specs": {
+        "type": "Mechanical Interlock",
+        "for_range": "AF 09 ~ AF 38",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Mechanical Interlocks (AF Series)",
+      "model": "VM 96-4",
+      "description": "Contactor Interlock VM 96-4 (Mechanical Interlock) for AF 40 ~ AF 96",
+      "price_pkr": 8500,
+      "specs": {
+        "type": "Mechanical Interlock",
+        "for_range": "AF 40 ~ AF 96",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Mechanical Interlocks (AF Series)",
+      "model": "VM 19",
+      "description": "Contactor Interlock VM 19 (Mechanical Interlock) for AF 116 ~ AF 370",
+      "price_pkr": 20000,
+      "specs": {
+        "type": "Mechanical Interlock",
+        "for_range": "AF 116 ~ AF 370",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "Accessories for Contactors - Mechanical Interlocks (AF Series)",
+      "model": "VM-750H",
+      "description": "Contactor Interlock VM-750H (Mechanical Interlock) for AF 400 ~ AF 750",
+      "price_pkr": 30000,
+      "specs": {
+        "type": "Mechanical Interlock",
+        "for_range": "AF 400 ~ AF 750",
+        "series": "Contactor Accessories",
+        "made_in": "France / Sweden"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "NF-Contactor Relays",
+      "model": "NF22E",
+      "description": "NF Contactor Relay NF22E 2 NO + 2 NC",
+      "price_pkr": 10000,
+      "specs": {
+        "contact_arrangement": "2 NO + 2 NC",
+        "series": "NF Contactor Relays",
+        "made_in": "France"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "NF-Contactor Relays",
+      "model": "NF31E",
+      "description": "NF Contactor Relay NF31E 3 NO + 1 NC",
+      "price_pkr": 10000,
+      "specs": {
+        "contact_arrangement": "3 NO + 1 NC",
+        "series": "NF Contactor Relays",
+        "made_in": "France"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "NF-Contactor Relays",
+      "model": "NF40E",
+      "description": "NF Contactor Relay NF40E 4 NO + 0 NC",
+      "price_pkr": 10000,
+      "specs": {
+        "contact_arrangement": "4 NO + 0 NC",
+        "series": "NF Contactor Relays",
+        "made_in": "France"
+      }
+    },
+    {
+      "page": 21,
+      "brand": "ABB",
+      "section": "NF-Contactor Relays",
+      "model": "NF44E",
+      "description": "NF Contactor Relay NF44E 4 NO + 4 NC",
+      "price_pkr": 15000,
+      "specs": {
+        "contact_arrangement": "4 NO + 4 NC",
+        "series": "NF Contactor Relays",
+        "made_in": "France"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 0.63 ... 1.0A",
+      "price_pkr": 5500,
+      "specs": {
+        "rating": "0.63 ... 1.0A",
+        "ampere_range": "0.63 ... 1.0A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 1.0 ... 1.4A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "1.0 ... 1.4A",
+        "ampere_range": "1.0 ... 1.4A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 1.7 ... 2.4 A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "1.7 ... 2.4 A",
+        "ampere_range": "1.7 ... 2.4 A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 2.2... 3.10A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "2.2... 3.10A",
+        "ampere_range": "2.2... 3.10A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 2.8...4.0A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "2.8...4.0A",
+        "ampere_range": "2.8...4.0A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 3.5...5.0A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "3.5...5.0A",
+        "ampere_range": "3.5...5.0A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 4.5...6.5A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "4.5...6.5A",
+        "ampere_range": "4.5...6.5A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 6.0....10A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "6.0....10A",
+        "ampere_range": "6.0....10A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 7.5...11.0A",
+      "price_pkr": 5000,
+      "specs": {
+        "rating": "7.5...11.0A",
+        "ampere_range": "7.5...11.0A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 10.0...14.0A",
+      "price_pkr": 6000,
+      "specs": {
+        "rating": "10.0...14.0A",
+        "ampere_range": "10.0...14.0A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 13.0...19.0A",
+      "price_pkr": 6000,
+      "specs": {
+        "rating": "13.0...19.0A",
+        "ampere_range": "13.0...19.0A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA25",
+      "description": "Thermal Over Load Relay TA25 18.0...25.0A",
+      "price_pkr": 8000,
+      "specs": {
+        "rating": "18.0...25.0A",
+        "ampere_range": "18.0...25.0A",
+        "series": "TA25",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA42",
+      "description": "Thermal Over Load Relay TA42 22.0...32.0A",
+      "price_pkr": 14000,
+      "specs": {
+        "rating": "22.0...32.0A",
+        "ampere_range": "22.0...32.0A",
+        "series": "TA42",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA42",
+      "description": "Thermal Over Load Relay TA42 29.0...35.0A",
+      "price_pkr": 15000,
+      "specs": {
+        "rating": "29.0...35.0A",
+        "ampere_range": "29.0...35.0A",
+        "series": "TA42",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA75",
+      "description": "Thermal Over Load Relay TA75 36.0...52.0A",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "36.0...52.0A",
+        "ampere_range": "36.0...52.0A",
+        "series": "TA75",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA75",
+      "description": "Thermal Over Load Relay TA75 45.0...63.0A",
+      "price_pkr": 17000,
+      "specs": {
+        "rating": "45.0...63.0A",
+        "ampere_range": "45.0...63.0A",
+        "series": "TA75",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA75",
+      "description": "Thermal Over Load Relay TA75 60.0...80.0A",
+      "price_pkr": 24000,
+      "specs": {
+        "rating": "60.0...80.0A",
+        "ampere_range": "60.0...80.0A",
+        "series": "TA75",
+        "made_in": "Germany / Bulgaria"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TF96",
+      "description": "Thermal Over Load Relay TF96 40.0 ... 51.0A (For direct coupling to AF80, AF96 3-pole contactors)",
+      "price_pkr": 21000,
+      "specs": {
+        "rating": "40.0 ... 51.0A",
+        "ampere_range": "40.0 ... 51.0A",
+        "series": "TF96",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF80, AF96 3-pole contactors"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TF96",
+      "description": "Thermal Over Load Relay TF96 48.0 ... 60.0A (For direct coupling to AF80, AF96 3-pole contactors)",
+      "price_pkr": 21000,
+      "specs": {
+        "rating": "48.0 ... 60.0A",
+        "ampere_range": "48.0 ... 60.0A",
+        "series": "TF96",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF80, AF96 3-pole contactors"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TF96",
+      "description": "Thermal Over Load Relay TF96 65.0 ... 78.0A (For direct coupling to AF80, AF96 3-pole contactors)",
+      "price_pkr": 24000,
+      "specs": {
+        "rating": "65.0 ... 78.0A",
+        "ampere_range": "65.0 ... 78.0A",
+        "series": "TF96",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF80, AF96 3-pole contactors"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TF96",
+      "description": "Thermal Over Load Relay TF96 75.0 ... 87.0A (For direct coupling to AF80, AF96 3-pole contactors)",
+      "price_pkr": 25000,
+      "specs": {
+        "rating": "75.0 ... 87.0A",
+        "ampere_range": "75.0 ... 87.0A",
+        "series": "TF96",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF80, AF96 3-pole contactors"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TF96",
+      "description": "Thermal Over Load Relay TF96 84.0 ... 96.0A (For direct coupling to AF80, AF96 3-pole contactors)",
+      "price_pkr": 27000,
+      "specs": {
+        "rating": "84.0 ... 96.0A",
+        "ampere_range": "84.0 ... 96.0A",
+        "series": "TF96",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF80, AF96 3-pole contactors"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA 200",
+      "description": "Thermal Over Load Relay TA 200 80.0 ... 110.0A (For direct coupling to AF116 ... AF146 3-pole contactors)",
+      "price_pkr": 41000,
+      "specs": {
+        "rating": "80.0 ... 110.0A",
+        "ampere_range": "80.0 ... 110.0A",
+        "series": "TA 200",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF116 ... AF146 3-pole contactors"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA 200",
+      "description": "Thermal Over Load Relay TA 200 100.0 ... 135.0A (For direct coupling to AF116 ... AF146 3-pole contactors)",
+      "price_pkr": 43000,
+      "specs": {
+        "rating": "100.0 ... 135.0A",
+        "ampere_range": "100.0 ... 135.0A",
+        "series": "TA 200",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF116 ... AF146 3-pole contactors"
+      }
+    },
+    {
+      "page": 22,
+      "brand": "ABB",
+      "section": "Thermal Over Load Relays",
+      "model": "TA 200",
+      "description": "Thermal Over Load Relay TA 200 110.0 ... 142.0A (For direct coupling to AF116 ... AF146 3-pole contactors)",
+      "price_pkr": 45000,
+      "specs": {
+        "rating": "110.0 ... 142.0A",
+        "ampere_range": "110.0 ... 142.0A",
+        "series": "TA 200",
+        "made_in": "Germany / Bulgaria",
+        "note": "For direct coupling to AF116 ... AF146 3-pole contactors"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-1.0",
+      "description": "Motor Protection Circuit Breaker MS116-1.0 0.63~1A 16 KA",
+      "price_pkr": 9000,
+      "specs": {
+        "rating": "0.63~1A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-1.6",
+      "description": "Motor Protection Circuit Breaker MS116-1.6 0.1.0~1.6A 16 KA",
+      "price_pkr": 9000,
+      "specs": {
+        "rating": "0.1.0~1.6A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-2.5",
+      "description": "Motor Protection Circuit Breaker MS116-2.5 1.6~2.5A 16 KA",
+      "price_pkr": 9000,
+      "specs": {
+        "rating": "1.6~2.5A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-4.0",
+      "description": "Motor Protection Circuit Breaker MS116-4.0 2.5~4.0A 16 KA",
+      "price_pkr": 9000,
+      "specs": {
+        "rating": "2.5~4.0A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-6.3",
+      "description": "Motor Protection Circuit Breaker MS116-6.3 4.0~6.3A 16 KA",
+      "price_pkr": 9000,
+      "specs": {
+        "rating": "4.0~6.3A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-10",
+      "description": "Motor Protection Circuit Breaker MS116-10 6.3~10A 16 KA",
+      "price_pkr": 11000,
+      "specs": {
+        "rating": "6.3~10A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-12",
+      "description": "Motor Protection Circuit Breaker MS116-12 8.0~12A 16 KA",
+      "price_pkr": 11000,
+      "specs": {
+        "rating": "8.0~12A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 116 Series",
+      "model": "MS116-16",
+      "description": "Motor Protection Circuit Breaker MS116-16 10~16A 16 KA",
+      "price_pkr": 11000,
+      "specs": {
+        "rating": "10~16A",
+        "breaking_capacity": "16KA",
+        "series": "MS 116",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-1.0",
+      "description": "Motor Protection Circuit Breaker MS132-1.0 0.63~1A 100 KA",
+      "price_pkr": 12000,
+      "specs": {
+        "rating": "0.63~1A",
+        "breaking_capacity": "100KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-1.6",
+      "description": "Motor Protection Circuit Breaker MS132-1.6 0.1.0~1.6A 100 KA",
+      "price_pkr": 12000,
+      "specs": {
+        "rating": "0.1.0~1.6A",
+        "breaking_capacity": "100KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-2.5",
+      "description": "Motor Protection Circuit Breaker MS132-2.5 1.6~2.5A 100 KA",
+      "price_pkr": 12000,
+      "specs": {
+        "rating": "1.6~2.5A",
+        "breaking_capacity": "100KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-4.0",
+      "description": "Motor Protection Circuit Breaker MS132-4.0 2.5~4.0A 100 KA",
+      "price_pkr": 12000,
+      "specs": {
+        "rating": "2.5~4.0A",
+        "breaking_capacity": "100KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-6.3",
+      "description": "Motor Protection Circuit Breaker MS132-6.3 4.0~6.3A 100 KA",
+      "price_pkr": 12000,
+      "specs": {
+        "rating": "4.0~6.3A",
+        "breaking_capacity": "100KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-10",
+      "description": "Motor Protection Circuit Breaker MS132-10 6.0~9.0A 100 KA",
+      "price_pkr": 13000,
+      "specs": {
+        "rating": "6.0~9.0A",
+        "breaking_capacity": "100KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-12",
+      "description": "Motor Protection Circuit Breaker MS132-12 9.0~12.5A 50 KA",
+      "price_pkr": 13000,
+      "specs": {
+        "rating": "9.0~12.5A",
+        "breaking_capacity": "50KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-16",
+      "description": "Motor Protection Circuit Breaker MS132-16 12~16A 50 KA",
+      "price_pkr": 13000,
+      "specs": {
+        "rating": "12~16A",
+        "breaking_capacity": "50KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-20",
+      "description": "Motor Protection Circuit Breaker MS132-20 16~20A 50 KA",
+      "price_pkr": 15000,
+      "specs": {
+        "rating": "16~20A",
+        "breaking_capacity": "50KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-25",
+      "description": "Motor Protection Circuit Breaker MS132-25 20~25A 50 KA",
+      "price_pkr": 16000,
+      "specs": {
+        "rating": "20~25A",
+        "breaking_capacity": "50KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 23,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 132 Series",
+      "model": "MS132-32",
+      "description": "Motor Protection Circuit Breaker MS132-32 25~32A 50 KA",
+      "price_pkr": 20000,
+      "specs": {
+        "rating": "25~32A",
+        "breaking_capacity": "50KA",
+        "series": "MS 132",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 165 Series",
+      "model": "MS165-40",
+      "description": "Motor Protection Circuit Breaker MS165-40 28~40A 50 KA",
+      "price_pkr": 33000,
+      "specs": {
+        "rating": "28~40A",
+        "breaking_capacity": "50KA",
+        "series": "MS 165",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 165 Series",
+      "model": "MS165-50",
+      "description": "Motor Protection Circuit Breaker MS165-50 40~50A 50 KA",
+      "price_pkr": 41000,
+      "specs": {
+        "rating": "40~50A",
+        "breaking_capacity": "50KA",
+        "series": "MS 165",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers MS 165 Series",
+      "model": "MS165-63",
+      "description": "Motor Protection Circuit Breaker MS165-63 45~63A 50 KA",
+      "price_pkr": 41000,
+      "specs": {
+        "rating": "45~63A",
+        "breaking_capacity": "50KA",
+        "series": "MS 165",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "HK1-11",
+      "description": "MPCB Add-On Accessory HK1-11 for MS 116: 1NO + 1NC AUXILLIARY SIDE mounting",
+      "price_pkr": 1700,
+      "specs": {
+        "for_model": "MS 116",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "AUXILLIARY",
+        "mounting": "SIDE",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "HKF1-11",
+      "description": "MPCB Add-On Accessory HKF1-11 for MS 116: 1NO + 1NC AUXILLIARY FRONT mounting",
+      "price_pkr": 1700,
+      "specs": {
+        "for_model": "MS 116",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "AUXILLIARY",
+        "mounting": "FRONT",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "SK-1",
+      "description": "MPCB Add-On Accessory SK-1 for MS 116: 1NO + 1NC SIGNAL SIDE mounting",
+      "price_pkr": 2400,
+      "specs": {
+        "for_model": "MS 116",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "SIGNAL",
+        "mounting": "SIDE",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "HK-1",
+      "description": "MPCB Add-On Accessory HK-1 for MS 132: 1NO + 1NC AUXILLIARY SIDE mounting",
+      "price_pkr": 2100,
+      "specs": {
+        "for_model": "MS 132",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "AUXILLIARY",
+        "mounting": "SIDE",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "HKF-11",
+      "description": "MPCB Add-On Accessory HKF-11 for MS 132: 1NO + 1NC AUXILLIARY FRONT mounting",
+      "price_pkr": 2300,
+      "specs": {
+        "for_model": "MS 132",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "AUXILLIARY",
+        "mounting": "FRONT",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "SK-11",
+      "description": "MPCB Add-On Accessory SK-11 for MS 132: 1NO + 1NC SIGNAL SIDE mounting",
+      "price_pkr": 3400,
+      "specs": {
+        "for_model": "MS 132",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "SIGNAL",
+        "mounting": "SIDE",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "HK4-11",
+      "description": "MPCB Add-On Accessory HK4-11 for MS 450/ MS 495: 1NO + 1NC AUXILLIARY FRONT mounting",
+      "price_pkr": 2100,
+      "specs": {
+        "for_model": "MS 450/ MS 495",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "AUXILLIARY",
+        "mounting": "FRONT",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 24,
+      "brand": "ABB",
+      "section": "Motor Protection Circuit Breakers - Add-On Accessories",
+      "model": "HKS4-11",
+      "description": "MPCB Add-On Accessory HKS4-11 for MS 450/ MS 495: 1NO + 1NC SIGNAL SIDE mounting",
+      "price_pkr": 2300,
+      "specs": {
+        "for_model": "MS 450/ MS 495",
+        "contact_arrangement": "1NO + 1NC",
+        "function": "SIGNAL",
+        "mounting": "SIDE",
+        "series": "MPCB Accessories",
+        "made_in": "Germany"
+      }
+    },
+    {
+      "page": 25,
+      "brand": "ABB",
+      "section": "Power Capacitors",
+      "model": "CAPACITOR 25 KVAR 415/440V",
+      "description": "Power Capacitors: CAPACITOR 25 KVAR 415/440V",
+      "price_pkr": 22000,
+      "specs": {
+        "series": "Power Capacitors",
+        "kvar": "25 KVAR",
+        "voltage": "415/440V"
+      }
+    },
+    {
+      "page": 25,
+      "brand": "ABB",
+      "section": "Power Capacitors",
+      "model": "CAPACITOR 12.5 KVAR 415/440V",
+      "description": "Power Capacitors: CAPACITOR 12.5 KVAR 415/440V",
+      "price_pkr": 16000,
+      "specs": {
+        "series": "Power Capacitors",
+        "kvar": "12.5 KVAR",
+        "voltage": "415/440V"
+      }
+    },
+    {
+      "page": 25,
+      "brand": "ABB",
+      "section": "Power Capacitors",
+      "model": "RVC 12 STAGE POWER FACTOR RELAY",
+      "description": "Power Capacitors: RVC 12 STAGE POWER FACTOR RELAY",
+      "price_pkr": 115000,
+      "specs": {
+        "series": "Power Capacitors"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - LED Indication Lights 230VCAC",
+      "model": "CL2-523R",
+      "description": "LED Indication Lights 230VCAC: CL2-523R Indication Lights LED (RED)",
+      "price_pkr": 1000,
+      "specs": {
+        "series": "Control Products - LED Indication Lights 230VCAC",
+        "function": "Indication Lights LED (RED)",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - LED Indication Lights 230VCAC",
+      "model": "CL2-523G",
+      "description": "LED Indication Lights 230VCAC: CL2-523G Indication Lights LED (Green)",
+      "price_pkr": 1000,
+      "specs": {
+        "series": "Control Products - LED Indication Lights 230VCAC",
+        "function": "Indication Lights LED (Green)",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - LED Indication Lights 230VCAC",
+      "model": "CL2-523Y",
+      "description": "LED Indication Lights 230VCAC: CL2-523Y Indication Lights LED (Yellow)",
+      "price_pkr": 1000,
+      "specs": {
+        "series": "Control Products - LED Indication Lights 230VCAC",
+        "function": "Indication Lights LED (Yellow)",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - LED Indication Lights 230VCAC",
+      "model": "CL2-523L",
+      "description": "LED Indication Lights 230VCAC: CL2-523L Indication Lights LED (Blue)",
+      "price_pkr": 1000,
+      "specs": {
+        "series": "Control Products - LED Indication Lights 230VCAC",
+        "function": "Indication Lights LED (Blue)",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - LED Indication Lights 230VCAC",
+      "model": "CL2-523C",
+      "description": "LED Indication Lights 230VCAC: CL2-523C Indication Lights LED (Clear)",
+      "price_pkr": 1000,
+      "specs": {
+        "series": "Control Products - LED Indication Lights 230VCAC",
+        "function": "Indication Lights LED (Clear)",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Selector Switch / Push Button",
+      "model": "C2SS1-10B-10",
+      "description": "Selector Switch / Push Button: C2SS1-10B-10 2 Pos. Selector Switch",
+      "price_pkr": 1500,
+      "specs": {
+        "series": "Control Products - Selector Switch / Push Button",
+        "function": "2 Pos. Selector Switch",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Selector Switch / Push Button",
+      "model": "C2SS1-10B-11",
+      "description": "Selector Switch / Push Button: C2SS1-10B-11 2 Pos. Selector Switch",
+      "price_pkr": 1500,
+      "specs": {
+        "series": "Control Products - Selector Switch / Push Button",
+        "function": "2 Pos. Selector Switch",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Selector Switch / Push Button",
+      "model": "C3SS1-10B-20",
+      "description": "Selector Switch / Push Button: C3SS1-10B-20 2 Pos. Selector Switch",
+      "price_pkr": 1850,
+      "specs": {
+        "series": "Control Products - Selector Switch / Push Button",
+        "function": "2 Pos. Selector Switch",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Selector Switch / Push Button",
+      "model": "CP1-10B-10",
+      "description": "Selector Switch / Push Button: CP1-10B-10 Push Button Black",
+      "price_pkr": 1100,
+      "specs": {
+        "series": "Control Products - Selector Switch / Push Button",
+        "function": "Push Button Black",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Emergency Push Button",
+      "model": "CE4K1-10R-02",
+      "description": "Emergency Push Button: CE4K1-10R-02 Key Operated Mushrooms Type Emergency Stop",
+      "price_pkr": 4200,
+      "specs": {
+        "series": "Control Products - Emergency Push Button",
+        "function": "Key Operated Mushrooms Type Emergency Stop",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Emergency Push Button",
+      "model": "CE4K1-10R-11",
+      "description": "Emergency Push Button: CE4K1-10R-11 Key Operated Mushrooms Type Emergency Stop",
+      "price_pkr": 4200,
+      "specs": {
+        "series": "Control Products - Emergency Push Button",
+        "function": "Key Operated Mushrooms Type Emergency Stop",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Emergency Push Button",
+      "model": "CE4T-10R-01",
+      "description": "Emergency Push Button: CE4T-10R-01 Compact Emergency Stop - Twist release - Mushroom 40mm - Red",
+      "price_pkr": 4700,
+      "specs": {
+        "series": "Control Products - Emergency Push Button",
+        "function": "Compact Emergency Stop - Twist release - Mushroom 40mm - Red",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Emergency Push Button",
+      "model": "CE4T-10R-11",
+      "description": "Emergency Push Button: CE4T-10R-11 Compact Emergency Stop - Twist release - Mushroom 40mm - Red",
+      "price_pkr": 5600,
+      "specs": {
+        "series": "Control Products - Emergency Push Button",
+        "function": "Compact Emergency Stop - Twist release - Mushroom 40mm - Red",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Voltage Monitoring / Measurement rela",
+      "model": "CM-PFS.S",
+      "description": "Voltage Monitoring / Measurement rela: CM-PFS.S Phase Sequence / Phase Failure",
+      "price_pkr": 11000,
+      "specs": {
+        "series": "Control Products - Voltage Monitoring / Measurement rela",
+        "function": "Phase Sequence / Phase Failure",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Voltage Monitoring / Measurement rela",
+      "model": "CM-PVS.41S",
+      "description": "Voltage Monitoring / Measurement rela: CM-PVS.41S Under / Over Voltage, Phase Sequence, Phase Failure",
+      "price_pkr": 18500,
+      "specs": {
+        "series": "Control Products - Voltage Monitoring / Measurement rela",
+        "function": "Under / Over Voltage, Phase Sequence, Phase Failure",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Electronic Timing Relays",
+      "model": "CT-ERS.125",
+      "description": "Electronic Timing Relays: CT-ERS.125 On Delay Timer 0.05 s -300 hour",
+      "price_pkr": 15800,
+      "specs": {
+        "series": "Control Products - Electronic Timing Relays",
+        "function": "On Delay Timer 0.05 s -300 hour",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Electronic Timing Relays",
+      "model": "CT-ERE",
+      "description": "Electronic Timing Relays: CT-ERE On Delay Timer 0.03 s -30 s",
+      "price_pkr": 8500,
+      "specs": {
+        "series": "Control Products - Electronic Timing Relays",
+        "function": "On Delay Timer 0.03 s -30 s",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Electronic Timing Relays",
+      "model": "CT-ERS.125",
+      "description": "Electronic Timing Relays: CT-ERS.125 True Off Delay Timer 0.3 S - 30 s",
+      "price_pkr": 8500,
+      "specs": {
+        "series": "Control Products - Electronic Timing Relays",
+        "function": "True Off Delay Timer 0.3 S - 30 s",
+        "made_in": "Italy"
+      }
+    },
+    {
+      "page": 26,
+      "brand": "ABB",
+      "section": "Control Products - Electronic Timing Relays",
+      "model": "CT-ERS.125",
+      "description": "Electronic Timing Relays: CT-ERS.125 Time relay Impulse-ON 01 C/0 3 s - 300s",
+      "price_pkr": 11000,
+      "specs": {
+        "series": "Control Products - Electronic Timing Relays",
+        "function": "Time relay Impulse-ON 01 C/0 3 s - 300s",
+        "made_in": "Italy"
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "page": 15,
+      "raw": "19,200",
+      "reason": "unattributed price in UNDER VOLTAGE RELEASE section (no model/description printed)"
+    }
+  ],
+  "stats": {
+    "pages": 28,
+    "rows": 388,
+    "priced": 372,
+    "skipped": 1
+  }
+}

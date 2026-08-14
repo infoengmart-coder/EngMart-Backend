@@ -1,0 +1,529 @@
+{
+  "brand": "AT Electricals (Tense/Kondas/Opas)",
+  "products": [
+    {
+      "name": "PRICE LIST",
+      "category": "general",
+      "series": "",
+      "description": "PRICE LIST",
+      "variants": [
+        {
+          "cat_no": "MARCH",
+          "description": "MARCH",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "• Same Aging in Steps (In Certain Compensation Progra ms)",
+      "category": "general",
+      "series": "",
+      "description": "• Same Aging in Steps (In Certain Compensation Progra ms)",
+      "variants": [
+        {
+          "cat_no": "MARCH-",
+          "description": "MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "• Total Energies (Import/Export) can be Observed.",
+      "category": "general",
+      "series": "",
+      "description": "• Total Energies (Import/Export) can be Observed.",
+      "variants": [
+        {
+          "cat_no": "MARCH-",
+          "description": "MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "K.  DIGITAL FREQUENCY METERS",
+      "category": "general",
+      "series": "",
+      "description": "K.  DIGITAL FREQUENCY METERS",
+      "variants": [
+        {
+          "cat_no": "MARCH-",
+          "description": "MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "3.  UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL)",
+      "category": "general",
+      "series": "",
+      "description": "3.  UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL)",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: GKT-",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "and phases led.",
+      "category": "general",
+      "series": "",
+      "description": "and phases led.",
+      "variants": [
+        {
+          "cat_no": "MARCH-",
+          "description": "MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 4.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "5.  UNDER & OVER VOLTAGE RELAY 3-PHASE (NEUTRAL)",
+      "category": "general",
+      "series": "",
+      "description": "5.  UNDER & OVER VOLTAGE RELAY 3-PHASE (NEUTRAL)",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: GKM-",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "6.  UNDER & OVER VOLTAGE RELAY 1-PHASE (NEUTRAL)",
+      "category": "general",
+      "series": "",
+      "description": "6.  UNDER & OVER VOLTAGE RELAY 1-PHASE (NEUTRAL)",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: GKM-",
+          "price": 11.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "1-PHASE (40A)",
+      "category": "general",
+      "series": "",
+      "description": "1-PHASE (40A)",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: GKE-",
+          "price": 40.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Adjustable Control Setting Ranges",
+      "category": "general",
+      "series": "",
+      "description": "Adjustable Control Setting Ranges",
+      "variants": [
+        {
+          "cat_no": "MARCH-",
+          "description": "MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "9.  PHASE FAILURE RELAY",
+      "category": "general",
+      "series": "",
+      "description": "9.  PHASE FAILURE RELAY",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: FKV-",
+          "price": 14.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "11.  MULTIFUNCTIONAL TIMER",
+      "category": "general",
+      "series": "",
+      "description": "11.  MULTIFUNCTIONAL TIMER",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: ERV-",
+          "price": 8.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "12.  PROGRAMMABLE TIMER",
+      "category": "general",
+      "series": "",
+      "description": "12.  PROGRAMMABLE TIMER",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: TTR-",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "• Real time clock",
+      "category": "general",
+      "series": "",
+      "description": "• Real time clock",
+      "variants": [
+        {
+          "cat_no": "•",
+          "description": "• Number of programs: 48/72/96/144/",
+          "price": 288.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "14.  LIQUID LEVEL RELAY",
+      "category": "general",
+      "series": "",
+      "description": "14.  LIQUID LEVEL RELAY",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: VSR-",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "15.  LIQUID LEVEL ELECTRODE",
+      "category": "general",
+      "series": "",
+      "description": "15.  LIQUID LEVEL ELECTRODE",
+      "variants": [
+        {
+          "cat_no": "Model:",
+          "description": "Model: SSE-10  MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 6.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "O)  DIGITAL OVERLOAD CONTACTOR",
+      "category": "general",
+      "series": "",
+      "description": "O)  DIGITAL OVERLOAD CONTACTOR",
+      "variants": [
+        {
+          "cat_no": "/head2right",
+          "description": "/head2right Model: KON-TER-",
+          "price": 25.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "/head2right",
+          "description": "/head2right Model: KON-TER-",
+          "price": 32.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "General Specifications:",
+      "category": "general",
+      "series": "",
+      "description": "General Specifications:",
+      "variants": [
+        {
+          "cat_no": "•",
+          "description": "• Waiting (Sec.)….... 0.1sec. – 10/20-Sec. MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 7.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P)  PRESET UP/DOWN COUNTER",
+      "category": "general",
+      "series": "",
+      "description": "P)  PRESET UP/DOWN COUNTER",
+      "variants": [
+        {
+          "cat_no": "/head2right",
+          "description": "/head2right Model: DS-",
+          "price": 72.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "• Password protection",
+      "category": "general",
+      "series": "",
+      "description": "• Password protection",
+      "variants": [
+        {
+          "cat_no": "•",
+          "description": "• Selectable input frequency Calibration constant; 0. 001.....",
+          "price": 9.999,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Fail ure, measurement out of range or hardware fails to",
+      "category": "general",
+      "series": "",
+      "description": "Fail ure, measurement out of range or hardware fails to",
+      "variants": [
+        {
+          "cat_no": "/head2right",
+          "description": "/head2right Model No.  DT-",
+          "price": 96.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "/head2right",
+          "description": "/head2right Model No. DT-",
+          "price": 72.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "/head2right",
+          "description": "/head2right Model No.  DT-",
+          "price": 48.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Size:",
+          "description": "Size: 48*96mm MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 8.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "R)  WATER FLOAT SWITCH",
+      "category": "general",
+      "series": "",
+      "description": "R)  WATER FLOAT SWITCH",
+      "variants": [
+        {
+          "cat_no": "/head2right",
+          "description": "/head2right  Model: FLT-",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Protection",
+          "description": "Protection Class: IP",
+          "price": 68.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Wall Mounting Possibility",
+      "category": "general",
+      "series": "",
+      "description": "Wall Mounting Possibility",
+      "variants": [
+        {
+          "cat_no": "T)",
+          "description": "T)  LV CURRENT TRANSFORMER X",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "* Till Stock Last.",
+      "category": "general",
+      "series": "",
+      "description": "* Till Stock Last.",
+      "variants": [
+        {
+          "cat_no": "Discount/Multipliers",
+          "description": "Discount/Multipliers are applicable. All dispatches  are made on buyer`s risk and account. MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 9.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "C.  POWER  FACTOR CONTROLLER",
+      "category": "general",
+      "series": "",
+      "description": "C.  POWER  FACTOR CONTROLLER",
+      "variants": [
+        {
+          "cat_no": "VarKON",
+          "description": "VarKON  12 -M 12 -Steps  90 ,000/=  MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "10 YPT405315 4-POLE CHANGE-OVER (1-0-2) 315 73000/=",
+      "category": "general",
+      "series": "",
+      "description": "10 YPT405315 4-POLE CHANGE-OVER (1-0-2) 315 73000/=",
+      "variants": [
+        {
+          "cat_no": "Discount/Multipliers",
+          "description": "Discount/Multipliers are applicable. All dispatches  are made on buyer`s risk and account. MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 11.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "3 YPT3A2M20 4-POSITION AMPERE METER (O,T,R,S) 16 2700/=",
+      "category": "general",
+      "series": "",
+      "description": "3 YPT3A2M20 4-POSITION AMPERE METER (O,T,R,S) 16 2700/=",
+      "variants": [
+        {
+          "cat_no": "Discount/Multipliers",
+          "description": "Discount/Multipliers are applicable. All dispatches  are made on buyer`s risk and account.  MARCH-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Page",
+          "description": "Page No:",
+          "price": 12.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    }
+  ]
+}

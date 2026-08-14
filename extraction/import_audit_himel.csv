@@ -1,0 +1,429 @@
+file,page,brand,series,model,rating,price_pkr,action
+himel.json,7,Himel,HDB3w,HDB3wL1C,1/2/50/63A,750.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wL1C,6/10/16/20/25/32/40A,700.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wL2C,6/10/16/20/32/40A,1380.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wL2C,50/63A,1440.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wL3C,6/10/16/25/32/40A,2000.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wL3C,50/63A,2180.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wN1C,1/2/50/63A,870.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wN1C,6/10/16/20/25/32/40A,750.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wN2C,6/10/16/20/32/40A,1550.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wN2C,50/63A,1720.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wN3C,6/10/16/20/25/32/40A,2300.00,unchanged
+himel.json,7,Himel,HDB3w,HDB3wN3C,50/63A,2530.00,unchanged
+himel.json,8,Himel,HDB3w,HDB3wN4C16,16A,3800.00,unchanged
+himel.json,8,Himel,HDB3w,HDB3wN4C20,20A,3800.00,unchanged
+himel.json,8,Himel,HDB3w,HDB3wN4C25,25A,3800.00,unchanged
+himel.json,8,Himel,HDB3w,HDB3wN4C32,32A,3800.00,unchanged
+himel.json,8,Himel,HDB3w,HDB3wN4C40,40A,3800.00,unchanged
+himel.json,8,Himel,HDB3w,HDB3wN4C50,50A,4020.00,unchanged
+himel.json,8,Himel,HDB3w,HDB3wN4C63,63A,4020.00,unchanged
+himel.json,8,Himel,HD3w - 125,HDB3w125H3C80,80A,5750.00,unchanged
+himel.json,8,Himel,HD3w - 125,HDB3w125H3C100,100A,5750.00,unchanged
+himel.json,8,Himel,HD3w - 125,HDB3w125H3C125,125A,5750.00,unchanged
+himel.json,8,Himel,HD3w - 125,HDB3w125H4C80,80A,7470.00,unchanged
+himel.json,8,Himel,HD3w - 125,HDB3w125H4C100,100A,7470.00,unchanged
+himel.json,8,Himel,HD3w - 125,HDB3w125H4C125,125A,7470.00,unchanged
+himel.json,8,Himel,HDB3w accessories,OF,,690.00,unchanged
+himel.json,8,Himel,HDB3w accessories,SD,,920.00,unchanged
+himel.json,8,Himel,HDB3w accessories,MX + OF,,1610.00,unchanged
+himel.json,9,Himel,HDB6VR / HDB3VR,HDB6VR225SC/TC,25A,5060.00,unchanged
+himel.json,9,Himel,HDB6VR / HDB3VR,HDB6VR240SC/TC,40A,5060.00,unchanged
+himel.json,9,Himel,HDB6VR / HDB3VR,HDB6VR263SC/TC,63A,5520.00,unchanged
+himel.json,9,Himel,HDB6VR / HDB3VR,HDB6VR440SC/TC,40A,7530.00,unchanged
+himel.json,9,Himel,HDB6VR / HDB3VR,HDB6VR463SC/TC,63A,7820.00,unchanged
+himel.json,9,Himel,HDB6VR / HDB3VR,HDB6VR4100TC,100A,10690.00,unchanged
+himel.json,9,Himel,HDY1/HDY3,HDY3201P275,,4420.00,unchanged
+himel.json,9,Himel,HDY1/HDY3,HDY3406275,,11840.00,unchanged
+himel.json,9,Himel,HDY1/HDY3,HDY1202275,,9430.00,unchanged
+himel.json,9,Himel,HDY1/HDY3,HDY1402275,,11840.00,unchanged
+himel.json,9,Himel,HDY1/HDY3,HDY1404420,,27600.00,unchanged
+himel.json,9,Himel,HDY1/HDY3,HDY1604420,,37600.00,unchanged
+himel.json,9,Himel,HDY1/HDY3,HDY1804420,,56350.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S1633XX,16A,7470.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S2033XX,20A,7470.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S3233XX,32A,7870.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S4033XX,40A,7870.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S5033XX,50A,7870.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S6333XX,63A,8510.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S8033XX,80A,8510.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S10033XX,100A,8510.00,unchanged
+himel.json,11,Himel,HDM3,HDM3160S12533XX,125A,12300.00,unchanged
+himel.json,11,Himel,HDM3,HDM3160S16033XX,160A,14370.00,unchanged
+himel.json,11,Himel,HDM3,HDM3250S20033XX,200A,15640.00,unchanged
+himel.json,11,Himel,HDM3,HDM3250S25033XX,250A,15640.00,unchanged
+himel.json,11,Himel,HDM3,HDM3400F31533XX,315A,35000.00,unchanged
+himel.json,11,Himel,HDM3,HDM3400F40033XX,400A,35000.00,unchanged
+himel.json,11,Himel,HDM3,HDM3630F50033XX,500A,52670.00,unchanged
+himel.json,11,Himel,HDM3,HDM3630F63033XX,630A,52670.00,unchanged
+himel.json,11,Himel,HDM3,HDM3800F80033XX,800A,75300.00,unchanged
+himel.json,11,Himel,HDM3,HDM31250N100033XX,1000A,212750.00,unchanged
+himel.json,11,Himel,HDM3,HDM31250N125033XX,1250A,212750.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S63B3XX,63A,10700.00,unchanged
+himel.json,11,Himel,HDM3,HDM3100S100B3XX,100A,10700.00,unchanged
+himel.json,11,Himel,HDM3,HDM3250S200B3XX,200A,18800.00,unchanged
+himel.json,11,Himel,HDM3,HDM3250S250B3XX,250A,18800.00,unchanged
+himel.json,11,Himel,HDM3,HDM3400F400B3XX,400A,42550.00,unchanged
+himel.json,11,Himel,HDM3,HDM3630F630B3XX,630A,69000.00,unchanged
+himel.json,11,Himel,HDM3,HDM3800F800B3XX,800A,106500.00,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3100S,,2760.00,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3S160,,2760.00,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3S250,,2990.00,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3S400,,3330.00,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3S630,,3790.00,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM6S800,,4020.00,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3S1250,,,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3100S,,5060.00,PENDING price 2760.00 -> 5060.00
+himel.json,12,Himel,HDM3 accessories,HDM3S160,,5630.00,PENDING price 2760.00 -> 5630.00
+himel.json,12,Himel,HDM3 accessories,HDM3S250,,6900.00,PENDING price 2990.00 -> 6900.00
+himel.json,12,Himel,HDM3 accessories,HDM3S400,,8510.00,PENDING price 3330.00 -> 8510.00
+himel.json,12,Himel,HDM3 accessories,HDM3S630,,9030.00,PENDING price 3790.00 -> 9030.00
+himel.json,12,Himel,HDM3 accessories,HDM6S800,,17590.00,PENDING price 4020.00 -> 17590.00
+himel.json,12,Himel,HDM3 accessories,HDM3S1250,,,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3100S,,5060.00,PENDING price 2760.00 -> 5060.00
+himel.json,12,Himel,HDM3 accessories,HDM3S160,,5060.00,PENDING price 2760.00 -> 5060.00
+himel.json,12,Himel,HDM3 accessories,HDM3S250,,5630.00,PENDING price 2990.00 -> 5630.00
+himel.json,12,Himel,HDM3 accessories,HDM3S400,,8160.00,PENDING price 3330.00 -> 8160.00
+himel.json,12,Himel,HDM3 accessories,HDM3S630,,8160.00,PENDING price 3790.00 -> 8160.00
+himel.json,12,Himel,HDM3 accessories,HDM6S800,,16960.00,PENDING price 4020.00 -> 16960.00
+himel.json,12,Himel,HDM3 accessories,HDM3S1250,,,unchanged
+himel.json,12,Himel,HDM3 accessories,HDM3S400,,50140.00,PENDING price 3330.00 -> 50140.00
+himel.json,12,Himel,HDM3 accessories,HDM3S630,,56350.00,PENDING price 3790.00 -> 56350.00
+himel.json,12,Himel,HDM3 accessories,HDM6S800,,69000.00,PENDING price 4020.00 -> 69000.00
+himel.json,12,Himel,HDM3 accessories,HDM3S1250,,,unchanged
+himel.json,12,Himel,HDM6,HDM6s100T01633,16A,17600.00,unchanged
+himel.json,12,Himel,HDM6,HDM6s100T02533,25A,17600.00,unchanged
+himel.json,12,Himel,HDM6,HDM6s100T04033,40A,17600.00,unchanged
+himel.json,12,Himel,HDM6,HDM6s100T06333,63A,17600.00,unchanged
+himel.json,12,Himel,HDM6,HDM6S100T10033,100A,17600.00,unchanged
+himel.json,12,Himel,HDM6,HDM6S250T12533,125A,28750.00,unchanged
+himel.json,12,Himel,HDM6,HDM6S250T16033,160A,28750.00,unchanged
+himel.json,12,Himel,HDM6,HDM6S250T20033,200A,28750.00,unchanged
+himel.json,12,Himel,HDM6,HDM6S250T25033,250A,28750.00,unchanged
+himel.json,12,Himel,HDM6,HDM6S400T40033,400A,47730.00,unchanged
+himel.json,12,Himel,HDM6,HDM6S630T63033,630A,81480.00,unchanged
+himel.json,13,Himel,HDM3E,HDM3E250,250A,56350.00,unchanged
+himel.json,13,Himel,HDM3E,HDM3E400,400A,73000.00,unchanged
+himel.json,13,Himel,HDM3E,HDM3E800,800A,118450.00,unchanged
+himel.json,13,Himel,HDM6 accessories,HDM6S063,,2760.00,unchanged
+himel.json,13,Himel,HDM6 accessories,HDM6S100,,2760.00,unchanged
+himel.json,13,Himel,HDM6 accessories,HDM6S250,,2990.00,unchanged
+himel.json,13,Himel,HDM6 accessories,HDM6S400,,3330.00,unchanged
+himel.json,13,Himel,HDM6 accessories,HDM6S630,,3790.00,unchanged
+himel.json,13,Himel,HDM6 accessories,HDM6S800,,4020.00,unchanged
+himel.json,13,Himel,HDM6 accessories,HDM6S063,,5060.00,PENDING price 2760.00 -> 5060.00
+himel.json,13,Himel,HDM6 accessories,HDM6S100,,5630.00,PENDING price 2760.00 -> 5630.00
+himel.json,13,Himel,HDM6 accessories,HDM6S250,,6900.00,PENDING price 2990.00 -> 6900.00
+himel.json,13,Himel,HDM6 accessories,HDM6S400,,8510.00,PENDING price 3330.00 -> 8510.00
+himel.json,13,Himel,HDM6 accessories,HDM6S630,,9030.00,PENDING price 3790.00 -> 9030.00
+himel.json,13,Himel,HDM6 accessories,HDM6S800,,17590.00,PENDING price 4020.00 -> 17590.00
+himel.json,13,Himel,HDM6 accessories,HDM6S063,,5060.00,PENDING price 2760.00 -> 5060.00
+himel.json,13,Himel,HDM6 accessories,HDM6S100,,5060.00,PENDING price 2760.00 -> 5060.00
+himel.json,13,Himel,HDM6 accessories,HDM6S250,,5630.00,PENDING price 2990.00 -> 5630.00
+himel.json,13,Himel,HDM6 accessories,HDM6S400,,8160.00,PENDING price 3330.00 -> 8160.00
+himel.json,13,Himel,HDM6 accessories,HDM6S630,,8160.00,PENDING price 3790.00 -> 8160.00
+himel.json,13,Himel,HDM6 accessories,HDM6S800,,16960.00,PENDING price 4020.00 -> 16960.00
+himel.json,13,Himel,HDM6 accessories,HDM6S400,,50140.00,PENDING price 3330.00 -> 50140.00
+himel.json,13,Himel,HDM6 accessories,HDM6S630,,56350.00,PENDING price 3790.00 -> 56350.00
+himel.json,13,Himel,HDM6 accessories,HDM6S800,,69000.00,PENDING price 4020.00 -> 69000.00
+himel.json,14,Himel,HDW3,HDW316S083FHM,800A,276000.00,unchanged
+himel.json,14,Himel,HDW3,HDW316S103FHM,1000A,350750.00,unchanged
+himel.json,14,Himel,HDW3,HDW320S123FHM,1250A,376000.00,unchanged
+himel.json,14,Himel,HDW3,HDW320S163FHM,1600A,463450.00,unchanged
+himel.json,14,Himel,HDW3,HDW320S203FHM,2000A,501400.00,unchanged
+himel.json,14,Himel,HDW3,HDW332S253FHM,2500A,657800.00,unchanged
+himel.json,14,Himel,HDW3,HDW332S323FHM,3200A,752100.00,unchanged
+himel.json,14,Himel,HDW3,HDW340S403DHM (D/O),4000A,,unchanged
+himel.json,14,Himel,HDW3,HDW363S503DHM (D/O),5000A,,unchanged
+himel.json,14,Himel,HDW3,HDW363S633DHM (D/O),6300A,,unchanged
+himel.json,14,Himel,HDW3 accessories,MN2A,,22650.00,unchanged
+himel.json,14,Himel,HDW3 accessories,MX/XF2A,,17600.00,unchanged
+himel.json,14,Himel,HDW3 accessories,MNR2A,,18860.00,unchanged
+himel.json,14,Himel,HDW3 accessories,MCH102A,,81530.00,unchanged
+himel.json,14,Himel,HDW3 accessories,MCH202A,,81530.00,unchanged
+himel.json,14,Himel,HDW3 accessories,MCH322A,,81530.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 09 11M,9A,2240.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 12 11M,12A,2400.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 18 11M,18A,2990.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 25 11M,25A,4250.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 32 11M,32A,5630.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 40 11M,40A,7470.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 50 11M,50A,9430.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 65 11M,65A,10000.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 80 11M,80A,11840.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC3 95 11M,95A,14380.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 115 00M,115A,36340.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 150 00M,150A,42550.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 185 00M,185A,50140.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 225 00M,225A,56350.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 265 00M,265A,72700.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 400 00M,400A,81480.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 500 00M,500A,125350.00,unchanged
+himel.json,16,Himel,HDC3/HDC6,HDC6 630 00M,630A,200560.00,unchanged
+himel.json,17,Himel,HJX2,HJX22504M,25A,6320.00,unchanged
+himel.json,17,Himel,HJX2,HJX24004M,40A,14950.00,unchanged
+himel.json,17,Himel,HJX2,HJX26504M,65A,19430.00,unchanged
+himel.json,17,Himel,HJX2,HJX28004M,80A,31340.00,unchanged
+himel.json,17,Himel,HJX2,HJX29504M,95A,31340.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F1154M,115A,56350.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F1504M,150A,62670.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F1854M,185A,75210.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F2254M,225A,77740.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F3304M,330A,150420.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F4004M,400A,169050.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F5004M,500A,225630.00,unchanged
+himel.json,17,Himel,HJX2,HJX2F6304M,630A,313370.00,unchanged
+himel.json,17,Himel,HF4/HF6,HF4 02,,870.00,unchanged
+himel.json,17,Himel,HF4/HF6,HF4 11,,870.00,unchanged
+himel.json,17,Himel,HF4/HF6,HF4 22,,1260.00,unchanged
+himel.json,17,Himel,HF4/HF6,HF6 02,,1260.00,unchanged
+himel.json,17,Himel,HF4/HF6,HF6 11,,1260.00,unchanged
+himel.json,17,Himel,HF4/HF6,HF6 20,,1260.00,unchanged
+himel.json,18,Himel,HFR6/HX,HFR6 ~ 32 H,,1260.00,unchanged
+himel.json,18,Himel,HFR6/HX,HFR6 ~ 95 H,,1720.00,unchanged
+himel.json,18,Himel,HFR6/HX,HFR 6FFH,,4020.00,unchanged
+himel.json,18,Himel,HFR6/HX,HFR 6GGH,,4480.00,unchanged
+himel.json,18,Himel,HFR6/HX,HFR 6HHH,,6270.00,unchanged
+himel.json,18,Himel,HFR6/HX,HFR 6KKH,,7000.00,unchanged
+himel.json,18,Himel,HFR6/HX,HFR6 LL H,,10000.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX318,,1260.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX332,,1500.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX365,,1840.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX395,,2760.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX6150,,10000.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX6185-265,,12650.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX6330,,22540.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX6400,,25070.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX6500,,25070.00,unchanged
+himel.json,18,Himel,HFR6/HX,HX6630,,30130.00,unchanged
+himel.json,18,Himel,HFT6,HFT6-20,,3100.00,unchanged
+himel.json,18,Himel,HFT6,HFT6-22,,3100.00,unchanged
+himel.json,18,Himel,HFT6,HFT6-24,,3100.00,unchanged
+himel.json,18,Himel,HFT6,HFT6-30,,3100.00,unchanged
+himel.json,18,Himel,HFT6,HFT6-32,,3100.00,unchanged
+himel.json,18,Himel,HFT6,HFT6-34,,3100.00,unchanged
+himel.json,19,Himel,HDCH8P,HDCH8P20211,20A,1900.00,unchanged
+himel.json,19,Himel,HDCH8P,HDCH8P40211,40A,3560.00,unchanged
+himel.json,19,Himel,HDCH8P,HDCH8P20422,20A,3220.00,unchanged
+himel.json,19,Himel,HDCH8P,HDCH8P25422,25A,3450.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR3251,0.63~1 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR3251P6,1 ~1.6 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR3252P5,1.6 ~2.5 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR3254,2.5 ~4 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR3256,4 ~ 6 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR3258,5.5 ~ 8 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR32510,7 ~ 10 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR32513,9 ~ 13 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR32518,12 ~ 18 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR32525,17 ~ 25 A,2760.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR33632,23 ~ 32 A,3500.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR33640,30 ~ 40 A,4020.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR39332,23~ 32 A,4020.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR39340,30 ~ 40 A,6320.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR39350,37 ~ 50 A,6320.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR39365,48 ~ 65 A,6320.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR39370,55~70 A,6320.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR39380,63 ~ 80 A,6320.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR39393,80 ~ 93 A,6320.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR6185115,90 ~ 115 A,18800.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR6185150,120 ~ 150 A,18800.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR6185185,150 ~ 185 A,18800.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR6630200,145 ~ 200 A,18800.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR6630320,230 ~ 320 A,28750.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR6630400F,290 ~ 400 A,31340.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR618J,,630.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR632J,,630.00,unchanged
+himel.json,20,Himel,HDR3/HDR6,HDR695J,,1260.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 P63,0.4-0.63A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 1,0.63-1A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 1P6,1-1.6A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 2P5,1.6-2.5A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 4,2.5-4A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 6P3,4-6.3A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 10,6-10A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 14,9-14A,7760.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 18,13-18A,8740.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 23,17-23A,8740.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 25,20-25A,8740.00,unchanged
+himel.json,21,Himel,HDP6,HDP6 32 32,24-32A,12650.00,unchanged
+himel.json,21,Himel,HDP6 accessories,HAE11,,1260.00,unchanged
+himel.json,21,Himel,HDP6 accessories,HAN11,,1900.00,unchanged
+himel.json,21,Himel,HDP6 accessories,HAN20,,1900.00,unchanged
+himel.json,21,Himel,HDP6 accessories,HDP632MC,,2000.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS213B1P6M5,1 - 1.6A,9430.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS213B2P5M5,1.6 - 2.5A,9430.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS213B04M5,2.5 - 4A,9430.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS213B06M5,4 - 6A,9430.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS213B08M5,5.5 - 8A,9430.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS213B10M5,7 - 10A,9430.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS213B13M5,9 - 13A,9430.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS225B18M5,12 - 18A,10700.00,unchanged
+himel.json,22,Himel,HDS2/ HDS3,HDS225B25M7,17 - 25A,11900.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HDZ8P052LBZ1,,980.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HDZ9052LM,,980.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HPYF08A,,690.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HDZ8P054LB1,,920.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HDZ8P054LM1,,920.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HDZ8PPYF14A,,690.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HDZ8P053M1,,920.00,unchanged
+himel.json,22,Himel,HDZ8P/ HDZ9,HDZ8PPYF11AXXKH,,690.00,unchanged
+himel.json,23,Himel,HXJ9,HXJ9380,,6320.00,unchanged
+himel.json,23,Himel,HXJ9,HXJ9400,,6320.00,unchanged
+himel.json,23,Himel,HDRT8,HDRT810B,,3800.00,unchanged
+himel.json,23,Himel,HDRT8,HDRT8120B,,3800.00,unchanged
+himel.json,23,Himel,HDRT8,HDRT8480B,,3800.00,unchanged
+himel.json,23,Himel,HDRT8,HDRT8480A,,3800.00,unchanged
+himel.json,23,Himel,HJSZ3,HJSZ3AC240,,2760.00,unchanged
+himel.json,23,Himel,HJSZ3,HTP28XEDZ,,440.00,unchanged
+himel.json,25,Himel,HBSM,HBSM00415000753D,,6900.00,unchanged
+himel.json,25,Himel,HBSM,HBSM00415001203D,,10000.00,unchanged
+himel.json,25,Himel,HBSM,HBSM00415002503D,,20000.00,unchanged
+himel.json,25,Himel,HBSM,HBSM00415005003Q,,42550.00,unchanged
+himel.json,26,Himel,HJKL,HJKL5CQ6S,,27600.00,unchanged
+himel.json,26,Himel,HJKL,HJKL5CQ12S,,35650.00,unchanged
+himel.json,28,Himel,HAV,HAVBA4T0007G,,62680.00,unchanged
+himel.json,28,Himel,HAV,HAVBA4T0015G,,69000.00,unchanged
+himel.json,28,Himel,HAV,HAVBA4T0022G,,81400.00,unchanged
+himel.json,28,Himel,HAV,HAVBA4T0040G,,125350.00,unchanged
+himel.json,28,Himel,HAV,HAVBA4T0055G,,169050.00,unchanged
+himel.json,28,Himel,HAV,HAVXS4T0055G0075P,,187450.00,unchanged
+himel.json,28,Himel,HAV,HAVXS4T0075G0110P,,250700.00,unchanged
+himel.json,28,Himel,HAV,HAVXS4T0110G0150P,,313375.00,unchanged
+himel.json,28,Himel,HAV,HAVXS4T0150G0185P,,363500.00,unchanged
+himel.json,28,Himel,HAV,HAVXS4T0185G0220P,,426190.00,unchanged
+himel.json,29,Himel,H96TA,H96TA30,30/5A,1900.00,unchanged
+himel.json,29,Himel,H96TA,H96TA50,50/5A,1900.00,unchanged
+himel.json,29,Himel,H96TA,H96TA75,75/5A,1900.00,unchanged
+himel.json,29,Himel,H96TA,H96TA100,100/5A,1900.00,unchanged
+himel.json,29,Himel,H96TA,H96TA150,150/5A,1900.00,unchanged
+himel.json,29,Himel,H96TA,H96TA200,200/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA250,250/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA300,300/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA400,400/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA600,600/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA800,800/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA1000,1000/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA1600,1600/5A,2300.00,unchanged
+himel.json,29,Himel,H96TA,H96TA5000,5000/5A,2300.00,unchanged
+himel.json,29,Himel,H96TV,H96TV500,,2300.00,unchanged
+himel.json,29,Himel,H96TV,H96TV300,,2300.00,unchanged
+himel.json,29,Himel,H96THZ,H96THZ01200,,3100.00,unchanged
+himel.json,29,Himel,HPAL,HPAL48X1250,,7480.00,unchanged
+himel.json,29,Himel,HPAL,HPAL48X15,,7480.00,unchanged
+himel.json,29,Himel,HPAL,HPAL96X1250,,7480.00,unchanged
+himel.json,29,Himel,HPAL,HPAL96X15,,7480.00,unchanged
+himel.json,30,Himel,HPZL,HPZL48X1500,,7480.00,unchanged
+himel.json,30,Himel,HPZL,HPZL96X1500,,7480.00,unchanged
+himel.json,30,Himel,HPPL,HPPL48X1,,7480.00,unchanged
+himel.json,30,Himel,HPPL,HPPL96X1,,7480.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP63030,30/5,2000.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP65030,50/5,2000.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP67530,75/5,2530.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP610030,100/5,2530.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP615030,150/5,2530.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP620040,200/5,2530.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP630040,300/5,2530.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP640050,400/5,3500.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP660080,600/5,4780.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP680080,800/5,5290.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP61000100,1000/5,5640.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP61200100,1200/5,5640.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP61500100,1500/5,6440.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP62000100,2000/5,7530.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP62500100,2500/5,8160.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP63000100,3000/5,8160.00,unchanged
+himel.json,30,Himel,HLMK,HLMKP64000120,4000/5,14950.00,unchanged
+himel.json,30,Himel,HLMK,HLMK65000120,5000/5,17540.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5EA42,,520.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5EA31,,520.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5EW33M1L,,1260.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5EW34M2L,,1260.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5BE101,,180.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5BE102,,180.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5ES645,,800.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5ED21,,630.00,unchanged
+himel.json,31,Himel,HLAY7,HLAY5ED33,,630.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D41M3,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D41M4,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D41M5,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D41M8,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B3,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B4,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B5,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B8,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B3,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B4,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B5,,520.00,unchanged
+himel.json,32,Himel,HLD11,HLD1122D21B8,,520.00,unchanged
+himel.json,33,Himel,HRT16,HRT160032,10/16/25/32A,750.00,unchanged
+himel.json,33,Himel,HRT16,HRT160063,63A,1150.00,unchanged
+himel.json,33,Himel,HRT16,HRT1600125,100/125A,1260.00,unchanged
+himel.json,33,Himel,HRT16,HRT1600160,160A,1500.00,unchanged
+himel.json,33,Himel,HRT16,HRT161250,250A,1900.00,unchanged
+himel.json,33,Himel,HRT16,HRT162315,315A,2300.00,unchanged
+himel.json,33,Himel,HRT16,HRT162400,400A,2760.00,unchanged
+himel.json,33,Himel,HRT16,HRT163500,500A,3100.00,unchanged
+himel.json,33,Himel,HRT16,HRT163630,630A,3450.00,unchanged
+himel.json,33,Himel,HRT16 Base (Resin),HRT1600ZS,160A,1030.00,unchanged
+himel.json,33,Himel,HRT16 Base (Resin),HRT161ZS,250A,2530.00,unchanged
+himel.json,33,Himel,HRT16 Base (Resin),HRT162ZS,400A,4830.00,unchanged
+himel.json,33,Himel,HRT16 Base (Resin),HRT163ZS,630A,5750.00,unchanged
+himel.json,33,Himel,HRT18,HRT1810382,2A,80.00,unchanged
+himel.json,33,Himel,HRT18,HRT1810384,4A,80.00,unchanged
+himel.json,33,Himel,HRT18,HRT18103810,10A,80.00,unchanged
+himel.json,34,Himel,HRT18 Fuse Holder,HRT1832ZXB,32A,460.00,unchanged
+himel.json,34,Himel,HRT18 Fuse Holder,HRT1832Z,32A,400.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50PM6NF,,1260.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50PM12NF,,1950.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50PR18IP30F,,2990.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50PR24IP30F,,4830.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50M8,,2650.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50M12,,3220.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50M16,,3800.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50R16,,3900.00,unchanged
+himel.json,34,Himel,HDPZ50,HDPZ50R24,,6320.00,unchanged
+himel.json,35,Himel,Prime Series,HWDYLK1,10A,230.00,unchanged
+himel.json,35,Himel,Prime Series,HWDYLK2,10A,340.00,unchanged
+himel.json,35,Himel,Prime Series,HWDYL2K1,10A,460.00,unchanged
+himel.json,35,Himel,Prime Series,HWDYL3K1,10A,690.00,unchanged
+himel.json,35,Himel,Prime Series,HWDYL4K1,10A,920.00,unchanged
+himel.json,35,Himel,Prime Series,HWDY245K1,20A,1200.00,unchanged
+himel.json,35,Himel,Prime Series,HWDYLKB,,535.00,unchanged
+himel.json,35,Himel,Prime Series,HWDYLB,,170.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLTs,,1360.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLTg,,1360.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLK1SW,13A,870.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYL2K12SW,13A,2000.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLSW2USB,,2000.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLK1SF131P,,720.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLK1SC15,,800.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLTel,,630.00,unchanged
+himel.json,36,Himel,Prime Series,HWDY2Tel,,980.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLTV,,690.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYL2TV,,1140.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYLD,,1550.00,unchanged
+himel.json,36,Himel,Prime Series,HWDYL2D,,2385.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPS1G1W,,230.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPS2G1W,,460.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPS3G1W,,690.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPS4G1W,,920.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPS5G1W,,1440.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPS6G1W,,1670.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDP20A,20A,1200.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPSDB,,535.00,unchanged
+himel.json,37,Himel,Prime V2 Series,HWDPBP3,,170.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDPFS3,,1350.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDPMFS,13A,870.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP213ASSN,13A,2000.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDPMFSN2USB,,2000.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP13ASSN,13A,720.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP15SS,15A,800.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP2MFSN2USB,,5170.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP2G1W22P,,1320.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP2G1W2P,,920.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDPTEL,,630.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP2TEL,,980.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDPTV,,690.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP2TV,,1140.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDPCOM,,1550.00,unchanged
+himel.json,38,Himel,Prime V2 Series,HWDP2COM,,2380.00,unchanged

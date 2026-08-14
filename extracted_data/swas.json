@@ -1,0 +1,3688 @@
+{
+  "brand": "SWAS",
+  "products": [
+    {
+      "name": "General",
+      "category": "general",
+      "series": "",
+      "description": "General",
+      "variants": [
+        {
+          "cat_no": "Dated:",
+          "description": "Dated: 11-12-2023PRICE LIST",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "Date:",
+          "description": "Date: 11-12",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "DATE  PL No.  BRAND  D E S C R I P T I O N  PAGE",
+      "category": "general",
+      "series": "",
+      "description": "DATE  PL No.  BRAND  D E S C R I P T I O N  PAGE",
+      "variants": [
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    1 FUJI   MOULDED CASE CIRCUIT BREAKERS",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    2 FUJI  MOULDED CASE CIRCUIT BREAKERS 3/4 POLE",
+          "price": 4.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    3 FUJI  ADJUSTABLE MOU LDED CASE CIRCUIT BREAKERS 3 POLE",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    4 FUJI  EARTH LEAKAGE CIRCUIT BREAKERS",
+          "price": 6.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    5 FUJI  MINIATURE CIRCUIT BREAKERS",
+          "price": 7.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    6 FUJI  AIR CIRCUIT  BREAKERS",
+          "price": 8.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    7 FUJI  MAGNETIC CONTACTORS",
+          "price": 9.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    8 FUJI  CONTACTORS SPARE COILS & KIT SETS",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -    9 FUJI  OVERLOAD RELAYS",
+          "price": 11.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  10 FUJI  OVERLOAD RELAYS",
+          "price": 12.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  11 FUJI  GENERAL PURPOSE RELAYS",
+          "price": 13.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  11 FUJI  SOCKETS/BASES FOR RELAY S & TIMERS",
+          "price": 13.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  12 FUJI  TIMERS",
+          "price": 14.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  13 FUJI DOL STARTERS",
+          "price": 15.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  14 FUJI  LIMIT  SWITCHES",
+          "price": 16.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  15 FUJI PUSH BUTTONS   22mm DIA",
+          "price": 17.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  16 FUJI PUSH BUTTONS   30mm DIA",
+          "price": 18.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  17 FUJI SELECTOR SWITCHES & LIGHTS",
+          "price": 19.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  18 LS MOULDED CASE CIRCUIT BREAKERS  3 POLE",
+          "price": 20.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  19 LS MOULDED CASE CIRCUIT BREAKERS  4 POLE",
+          "price": 21.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  20 LS ADJUSTABLE MCCB  3 POLE – ABS SERIES",
+          "price": 22.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  21 LS ADJUSTABLE MCCB 4 POLE – ABS SERIES",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  22 LS ADJUSTABLE MCCB 3 POLE – TS SERIES / ACCESSORIES",
+          "price": 24.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  23 LS ADJUSTABLE MCCB 4 POLE – TS SERIES",
+          "price": 25.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  24 LS MOTOR PROTECTION CIRCUIT BREAKERS",
+          "price": 26.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  25 LS MINIATURE CIRCUIT  BREAKERS - 1/2 POLE",
+          "price": 27.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  26 LS MINIATURE CIRCUIT  BREAKERS - 3/4 POLE  / ACCESSOREIS",
+          "price": 28.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  27 LS SAFETY BREAKERS/RCCB/SPD & ACCESSORIES",
+          "price": 29.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  28 LS AIR CIRCUIT  BREAKERS (3 POLE  & 4 POLE)",
+          "price": 30.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  29 LS 3 – POLE MAGNETIC CONTACTORS",
+          "price": 31.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  30 LS 4 – POLE MAGNETIC CONTACTORS",
+          "price": 32.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  31 LS 3 – POLE CONTACTORS SPARE COILS/INTERLOCKS",
+          "price": 33.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  32 LS 4 – POLE CONTACTORS SPARE COILS",
+          "price": 34.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  33 LS OVERLOAD RELAYS/E.O.C.R.",
+          "price": 35.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  34 LS OVERLOAD RELAYS",
+          "price": 36.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  35 LS DOL  STARTERS",
+          "price": 37.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  36 LS STAR DELTA STARTERS",
+          "price": 38.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  37 LS V.F.D’S/ /INVERTERS ( G100/ M100 -SERIES)",
+          "price": 39.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  38 LS V.F.D’S/ /INVERTERS ( IG/IP5-SERIES)",
+          "price": 40.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  39 LS V.F.D’S/ /INVERTERS (H100 -SERIES)",
+          "price": 41.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  40 SCHNEIDER  MINIATURE CIRCUIT BREAKERS  (DOMAE/EASY9)",
+          "price": 42.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  41 SCHNEIDER  MINIATURE CIRCUIT BREAKERS  (ACTI 9 )",
+          "price": 43.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  42 SCHNEIDER    MOULDED CASE CIRCUIT BREAKERS  3 POLE",
+          "price": 44.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  43 SCHNEIDER    MOULDED CASE CIRCUIT BREAKERS -4 POLE /ACCESSORIES",
+          "price": 45.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  44 SCHNEIDER    MOULDED CASE CIRCUIT BREAKERS",
+          "price": 46.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL -  45 SCHNEIDER    RCCB/RCBO/ SPD & TOROID RELAYS",
+          "price": 47.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 46 SCHNEIDER  MCCB (CVS SERIES)",
+          "price": 48.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 47 SCHNEIDER  AIR CIRCUIT BREAKERS - H1 SERIES -3/4 POLE",
+          "price": 49.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "Date:",
+          "description": "Date: 11 -12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "DATE  PL No.  BRAN D D E S C R I P T I O N  PAGE",
+      "category": "general",
+      "series": "",
+      "description": "DATE  PL No.  BRAN D D E S C R I P T I O N  PAGE",
+      "variants": [
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 48 SCHNEIDER   AIR CIRCUIT BREAKERS - H2 SERIES -3/4 POLE",
+          "price": 50.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 49 SCHNEIDER   AMP/VOLT/POWER METERS",
+          "price": 51.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 50 SCHNEIDER   POWER FACTOR CORRECTION",
+          "price": 52.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 51 TELEMECANIQUE     MAGNETIC CONTACTORS(3POLE) / CONTROL RELAYS",
+          "price": 53.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 52 TELEMECANIQUE    DC MAGNETIC CONTACTORS  (3POLE)",
+          "price": 54.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 53 TELEMECANIQUE    MAGNETIC CONTACTORS (4 POLE)",
+          "price": 55.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 54 TELEMECANIQUE    OVERLOAD RELAYS (LRD)",
+          "price": 56.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 55 TELEMECANIQUE    MAGNETIC CONTACTORS(3POLE)  TVS SERIES",
+          "price": 57.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 56 TELEMECANIQUE    MOTOR PROTECTION BREAKERS / ACCESSORIES",
+          "price": 58.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 57 TELEMECANIQUE    THERMAL OVERLOAD RELAYS",
+          "price": 59.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 58 TELEMECANIQUE    ZELIO TIME RELAYS & ZELIO CONTROL RELAYS",
+          "price": 60.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 59 TELEMECANIQUE    RXMA MINIATURE RELAYS, 8 -PIN, 14 -PIN",
+          "price": 61.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 60 TELEMECANIQUE    ELECTRONIC OVER CURRENT RELAY  (EOCR)",
+          "price": 62.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 61 TELEMECANIQUE    PUSH BUTTONS/PILOT LIGHTS",
+          "price": 63.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 62 SCHNEIDER  SOFT STARTERS",
+          "price": 64.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 63 SCHNEIDER     V.F.D’S/ /INVERTERS",
+          "price": 65.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 64 SCHNEIDER     V.F.D’S/ /INVERTERS",
+          "price": 66.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 65 SCHNEIDER     VACUUM CIRCUIT BREAKERS",
+          "price": 67.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 66 HANYOUN G    TEMPERATURE CONTROLLERS",
+          "price": 68.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 67 HANYOUNG    TEMPERATURE CONTROLLERS",
+          "price": 69.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 68 HANYOUNG    SOLID STATE RELAYS",
+          "price": 70.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 69 HANYOUNG    DIGITAL PANEL METERS",
+          "price": 71.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 70 HANYOUNG   TIMERS/GRAPHIC RECORDERS",
+          "price": 72.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 71 HANYOUNG    PUSH BUTTONS & SELECTOR SWITCHES",
+          "price": 73.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 72 HANYOUNG    LIMIT SWTICHES & MICRO SWITCHES",
+          "price": 74.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 73 HANYOUNG    LIMIT SWTICHES / N & ZCN TYPE",
+          "price": 75.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 74 HANYOUNG    ROTARY ENCODERS/POW ER SUPPLIES & OTHERS",
+          "price": 76.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 75 SHIZUKI  POWER FACTOR CAPACITORS",
+          "price": 77.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 76 SHIZUKI  POWER FACTOR CONTROLLERS",
+          "price": 78.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 77 EKON  POWER FACTOR CAPACITORS",
+          "price": 79.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 78 KRK   DIGITAL MULTIMETERS",
+          "price": 80.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 79 KRK  DIGITAL AMPEREMETERS /  VOLTMETERS",
+          "price": 81.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 80 KRK   PROTECTION RELAYS / ENERGY ANALYZER",
+          "price": 82.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 81 KRK   POWER FACTOR CONTROLLERS",
+          "price": 83.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 82 E-POWER      ENERGY / POWER ANALYZERS",
+          "price": 84.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 83 E-POWER      DUA L SOURCE / MULTIFUNCTION POWER METER",
+          "price": 85.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 84 VOLTRAN  HRC FUSES & BASES",
+          "price": 86.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 85 BEMIS  INDUSTRIAL PLUGS & SOCKETS",
+          "price": 87.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 86 SEW   PANEL METERS",
+          "price": 88.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 86 BRETER    AMP/VOLT SELECTOR SWITCHES",
+          "price": 88.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 87 FICO  CURRENT TRANSFORMERS (RLC TYPE)",
+          "price": 89.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 88 FICO  CURRENT TRANSFORMERS (ELC TYPE)",
+          "price": 90.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-2023",
+          "description": "11-12-2023 PL – 89 FICO  CURRENT TRANSFORMERS (SLC TYPE)",
+          "price": 91.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "3 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "3 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "MOULDED",
+          "description": "MOULDED CASE CIRCUIT BREAKERS,          PL -",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3-POLE,",
+          "description": "3-POLE, 500/600 V, WITH FIXED THERMAL & MAGNETIC TRIPS    11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "MOULDED CASE CIRCUIT BREAKERS,",
+      "category": "general",
+      "series": "",
+      "description": "MOULDED CASE CIRCUIT BREAKERS,",
+      "variants": [
+        {
+          "cat_no": "3-POLE,",
+          "description": "3-POLE, 500/600 V, WITH FIXED THERMAL & MAGNETIC TRIPS            PL -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "HIGH",
+          "description": "HIGH BREAKING CAPACITY      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "3.",
+          "description": "3. Discount/Multipliers are applicable.",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "E L I S T",
+      "variants": [
+        {
+          "cat_no": "BX",
+          "description": "BX SERIES  MOULDED CASE CIRCUIT BREAKERS - 3 POLE    PL -",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WITH",
+          "description": "WITH ADJUSTABLE THERMAL / FIXED MAGNETIC TRIP  UNIT      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "6 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "6 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 4.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "EARTH",
+          "description": "EARTH LEAKAGE CIRCUIT BREAKERS  WITH   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "IRCUIT BREAKERS",
+      "category": "general",
+      "series": "",
+      "description": "IRCUIT BREAKERS",
+      "variants": [
+        {
+          "cat_no": "FOR",
+          "description": "FOR PROTECTION OF DISTRIBUTION EQUIPMENTS              PL -",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ON/OFF",
+          "description": "ON/OFF VISUAL INDICATOR WITH RED & GREEN COLOUR     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATINGS MODEL  AC BREAKING   CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATINGS MODEL  AC BREAKING   CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "230/400V",
+          "description": "230/400V  IEC 947/",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Overcorrect Tripping Device P roviding:",
+      "category": "general",
+      "series": "",
+      "description": "Overcorrect Tripping Device P roviding:",
+      "variants": [
+        {
+          "cat_no": "Adjustable",
+          "description": "Adjustable Long Time, Short Time & Instantaneous Delay    PL -",
+          "price": 6.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "9 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "9 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 7.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MAGNETIC",
+          "description": "MAGNETIC CONTACTORS     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "iscount/Multipliers are applicable .",
+      "category": "general",
+      "series": "",
+      "description": "iscount/Multipliers are applicable .",
+      "variants": [
+        {
+          "cat_no": "‘FUJI",
+          "description": "‘FUJI ‘ –  A QUALITY PRODUCT LINE – UP",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 8.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "OPERATING",
+          "description": "OPERATING COILS FOR MAGNETIC CONTACTORS   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "11 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "11 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL-",
+          "description": "PL-",
+          "price": 9.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "THERMAL",
+          "description": "THERMAL OVERLOAD RELAYS                           11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "12 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "12 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 10.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "THERMAL",
+          "description": "THERMAL OVERLOAD RELAYS     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 11.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "GENERAL",
+          "description": "GENERAL PURPOSE CONTROL RELAYS  11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "14  P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "14  P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 12.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "SUPER",
+          "description": "SUPER TIMERS     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "15 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "15 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 13.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIRECT-ON-LINE-STARTERS",
+          "description": "DIRECT-ON-LINE-STARTERS   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "16 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "16 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 14.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "LIMIT",
+          "description": "LIMIT SWITCHES       11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 15.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "22mm",
+          "description": "22mm DIA ROUND PUSH BUTTONS  11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "18 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "18 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 16.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "30mm",
+          "description": "30mm DIA ROUND PUSH BUTTONS               11 -12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "19 P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "19 P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 17.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "SELECTOR",
+          "description": "SELECTOR SWITCHES      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "MOULDED",
+          "description": "MOULDED CASE CIRCUIT BREAKERS             PL –",
+          "price": 18.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3",
+          "description": "3 POLE WITH FIXED THERMAL & MAGNETIC TRIPS      11 -12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "MOULDED",
+          "description": "MOULDED CASE CIRCUIT BREAKERS                 PL -",
+          "price": 19.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4",
+          "description": "4 - POLE WITH FIXED THERMAL & MAGNETIC TRIPS   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "MOULDED CASE CIRCUIT BREAKERS",
+      "category": "general",
+      "series": "",
+      "description": "MOULDED CASE CIRCUIT BREAKERS",
+      "variants": [
+        {
+          "cat_no": "3",
+          "description": "3 POLE            PL -",
+          "price": 20.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WITH",
+          "description": "WITH ADJUSTABLE THERMAL / FIXED MAGNETIC TRIP  UNIT      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "MOULDED CASE CIRCUIT BREAKERS",
+      "category": "general",
+      "series": "",
+      "description": "MOULDED CASE CIRCUIT BREAKERS",
+      "variants": [
+        {
+          "cat_no": "4",
+          "description": "4 POLE  PL -",
+          "price": 21.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WITH",
+          "description": "WITH ADJUSTABLE THERMAL / FIXED MAGNETIC TRIP  UNIT      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "TS - SER IES MOULDED CASE CIRCUIT BREAKERS",
+      "category": "general",
+      "series": "",
+      "description": "TS - SER IES MOULDED CASE CIRCUIT BREAKERS",
+      "variants": [
+        {
+          "cat_no": "3",
+          "description": "3 POLE   PL -",
+          "price": 22.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WITH",
+          "description": "WITH ADJUSTABLE THERMAL / ELECTRONIC TRIP UNIT     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "he prices in the list are reference prices and not sale prices.",
+      "category": "general",
+      "series": "",
+      "description": "he prices in the list are reference prices and not sale prices.",
+      "variants": [
+        {
+          "cat_no": "3.Discount/Multipliers",
+          "description": "3.Discount/Multipliers are applicable.",
+          "price": 25.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "TS - SER IES MOULDED CASE CIRCUIT BREAKERS",
+      "category": "general",
+      "series": "",
+      "description": "TS - SER IES MOULDED CASE CIRCUIT BREAKERS",
+      "variants": [
+        {
+          "cat_no": "4",
+          "description": "4 POLE    PL -",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WITH",
+          "description": "WITH ADJUSTABLE THERMAL / ELECTRONIC TRIP UNIT     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "MOTOR",
+          "description": "MOTOR CIRCUIT BREAKERS / MANUAL MOTOR STARTERS        PL –",
+          "price": 24.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WITH",
+          "description": "WITH THERMAL & MAGNETIC PROTECTION            11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "TYPE  THERMAL TRIP  AC BREAKING CAPACITY",
+      "category": "general",
+      "series": "",
+      "description": "TYPE  THERMAL TRIP  AC BREAKING CAPACITY",
+      "variants": [
+        {
+          "cat_no": "AS",
+          "description": "AS PER IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "BKJ / BKN – B SERIES",
+      "category": "general",
+      "series": "",
+      "description": "BKJ / BKN – B SERIES",
+      "variants": [
+        {
+          "cat_no": "MINIATURE",
+          "description": "MINIATURE CIRCUIT BREAKERS            PL -",
+          "price": 25.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIN",
+          "description": "DIN RAIL MOUNTED “C” CURVE     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATINGS (AMPERES)  MODEL  AC BREAKING CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATINGS (AMPERES)  MODEL  AC BREAKING CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "(Rupees)IEC",
+          "description": "(Rupees)IEC",
+          "price": 898.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "@",
+          "description": "@ 230/400 V  IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "BKJ / BKN – B SERIES",
+      "category": "general",
+      "series": "",
+      "description": "BKJ / BKN – B SERIES",
+      "variants": [
+        {
+          "cat_no": "MINIATURE",
+          "description": "MINIATURE CIRCUIT BREAKERS            PL -",
+          "price": 26.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIN",
+          "description": "DIN RAIL MOUNTED “C” CURVE     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATINGS (AMPERES)  MODEL  AC BREAKING CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATINGS (AMPERES)  MODEL  AC BREAKING CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "(Rupees)IEC",
+          "description": "(Rupees)IEC",
+          "price": 898.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "@",
+          "description": "@ 230/400 V  IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "PTIONAL ACCESSORIES FOR BKJ",
+      "category": "general",
+      "series": "",
+      "description": "PTIONAL ACCESSORIES FOR BKJ",
+      "variants": [
+        {
+          "cat_no": "ALARM",
+          "description": "ALARM SWITCH",
+          "price": 4.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 27.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MOULDED",
+          "description": "MOULDED SAFETY BREAKERS WITH COVER 250 VAC FOR      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Adjust able Long Time Delay (Overload Protection),",
+      "category": "general",
+      "series": "",
+      "description": "Adjust able Long Time Delay (Overload Protection),",
+      "variants": [
+        {
+          "cat_no": "Adjustable",
+          "description": "Adjustable Short Time Delay (Discrimination Protection),       PL -",
+          "price": 28.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "Adjustable",
+          "description": "Adjustable Instantaneous (Short Circuit Protection) & Pre- trip Alarm.             11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "∗ TRIP RELAY  ‘‘A L’’                 22,000/= I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "∗ TRIP RELAY  ‘‘A L’’                 22,000/= I N D E X",
+      "variants": [
+        {
+          "cat_no": "NOTE",
+          "description": "NOTE :  The above mentioned list for Magnetic Contactors from Size No. 0 to",
+          "price": 16.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 29.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3",
+          "description": "3 – POLE MAGNETIC CONTACTORS      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 30.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "4",
+          "description": "4 - POLE MAGNETIC CONTACTORS     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 31.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ACCESSORIES",
+          "description": "ACCESSORIES FOR MAGNETIC CONTACTORS      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "COILS",
+          "description": "COILS FOR 4 – POLE MAGNETIC CONTACTORS           PL –",
+          "price": 32.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "SPARE",
+          "description": "SPARE COILS 220, 415 VAC, 50 Hz   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "3-ELEMENTS,",
+          "description": "3-ELEMENTS, MANUAL & AUTOMATIC RESET FACILITY,       PL -",
+          "price": 33.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "PIN",
+          "description": "PIN TYPE RELAYS     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "FAILURE PROTECTION.",
+      "category": "general",
+      "series": "",
+      "description": "FAILURE PROTECTION.",
+      "variants": [
+        {
+          "cat_no": "b)",
+          "description": "b) 3 -ELEMENTS, SEPARATE MOUNTED.            PL -",
+          "price": 34.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "c)",
+          "description": "c) MANUAL & AUTOMATIC RESET FACILITY.     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 35.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIRECT-ON-LINE",
+          "description": "DIRECT-ON-LINE STARTERS     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 36.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "AUTOMATIC",
+          "description": "AUTOMATIC STAR -DELTA STARTERS      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "LOW",
+          "description": "LOW VOLTAGE VARIABLE FREQUENCY DRIVES / INVERTERS  PL -",
+          "price": 37.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "M100 SERIES – POWERFUL & COMPACT",
+      "category": "general",
+      "series": "",
+      "description": "M100 SERIES – POWERFUL & COMPACT",
+      "variants": [
+        {
+          "cat_no": "SINGLE",
+          "description": "SINGLE PHASE INVERTERS  WITH BUILT- IN MODBUS -COM PORT -",
+          "price": 485.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "LOW",
+          "description": "LOW VOLTAGE VARIABLE  PL -",
+          "price": 38.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "FREQUENCY",
+          "description": "FREQUENCY DRIVES / INVERTERS  11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "LOW",
+          "description": "LOW VOLTAGE VARIABLE FREQUENCY DRIVES / INVERTERS        PL –",
+          "price": 39.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "REQUIRED DRIVES.  I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "REQUIRED DRIVES.  I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. This list is subject to change without notice and goods being in stock.",
+          "price": 42.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I S T",
+      "category": "general",
+      "series": "",
+      "description": "I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 40.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DOMAE",
+          "description": "DOMAE SERIES 11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "(Rupees)",
+          "description": "(Rupees) IEC",
+          "price": 898.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "@",
+          "description": "@ 230/400V  IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "(Rupees)",
+          "description": "(Rupees) IEC",
+          "price": 898.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "@",
+          "description": "@ 230/400V  IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.T",
+          "description": "1.T his list is subject to change without notice and goods being in stock.",
+          "price": 43.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "ACTI 9 SERIES",
+      "category": "general",
+      "series": "",
+      "description": "ACTI 9 SERIES",
+      "variants": [
+        {
+          "cat_no": "PL–",
+          "description": "PL–",
+          "price": 41.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MINIATURE",
+          "description": "MINIATURE CIRCUIT BREAKERS      11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "• CIRCUIT PROTECTION AGAINST OVERLOAD CURRENTS,",
+      "category": "general",
+      "series": "",
+      "description": "• CIRCUIT PROTECTION AGAINST OVERLOAD CURRENTS,",
+      "variants": [
+        {
+          "cat_no": "•",
+          "description": "• SUITABLE FOR INDUSTRIAL ISOLATION ACCORDING TO IEC/EN 60947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "(Rupees)",
+          "description": "(Rupees) IEC",
+          "price": 898.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "@",
+          "description": "@ 230/400V  IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATING  MODEL  BREAKING  CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "(Rupees)",
+          "description": "(Rupees) IEC",
+          "price": 898.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "@",
+          "description": "@ 230/400V  IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "COMPACT NSX SERIES",
+      "category": "general",
+      "series": "",
+      "description": "COMPACT NSX SERIES",
+      "variants": [
+        {
+          "cat_no": "3–POLE",
+          "description": "3–POLE ADJUSTABLE THERMAL TRIP   PL–",
+          "price": 42.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MOULDED",
+          "description": "MOULDED CASE CIRCUIT BREAKERS   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "COMPACT NSX SERIES",
+      "category": "general",
+      "series": "",
+      "description": "COMPACT NSX SERIES",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 43.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NSX",
+          "description": "NSX SERIES LV CIRCUIT BREAKERS FROM 16 TO 1600A    11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RATIN G THERMAL TRIP  MODEL  BREAKING CAPACITY  UNIT PRICE",
+      "category": "general",
+      "series": "",
+      "description": "RATIN G THERMAL TRIP  MODEL  BREAKING CAPACITY  UNIT PRICE",
+      "variants": [
+        {
+          "cat_no": "(Rupees)IEC",
+          "description": "(Rupees)IEC",
+          "price": 898.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "@",
+          "description": "@ 230/400V  IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "DESCRIPTION  UNIT PRICE (Rupees)",
+      "category": "general",
+      "series": "",
+      "description": "DESCRIPTION  UNIT PRICE (Rupees)",
+      "variants": [
+        {
+          "cat_no": "OPTIONAL",
+          "description": "OPTIONAL ACCESSORIES  NSX 100 / 250  NSX 400/630  NS800 – NS",
+          "price": 1600.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "EASYPACT  EZC SERIES",
+      "category": "general",
+      "series": "",
+      "description": "EASYPACT  EZC SERIES",
+      "variants": [
+        {
+          "cat_no": "3",
+          "description": "3 POLE FIXED THERMAL TRIP  PL -",
+          "price": 44.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MOULDED",
+          "description": "MOULDED CASE CIRCUIT BREAKERS  11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "(Rupees)",
+      "category": "general",
+      "series": "",
+      "description": "(Rupees)",
+      "variants": [
+        {
+          "cat_no": "OPTIONAL",
+          "description": "OPTIONAL ACCESSORIES  EZC100  EZC",
+          "price": 250.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. This list is subject to change without notice and goods being in stock.",
+          "price": 47.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "ACTI 9 SERIES",
+      "category": "general",
+      "series": "",
+      "description": "ACTI 9 SERIES",
+      "variants": [
+        {
+          "cat_no": "PL-",
+          "description": "PL-",
+          "price": 45.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "RESIDUAL",
+          "description": "RESIDUAL CIRCUIT BREAKERS (AC TYPE)      11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 48.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "EASY PACT CVS SERIES",
+      "category": "general",
+      "series": "",
+      "description": "EASY PACT CVS SERIES",
+      "variants": [
+        {
+          "cat_no": "3–POLE",
+          "description": "3–POLE ADJUSTABLE THERMAL TRIP        PL -",
+          "price": 46.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MOULDED",
+          "description": "MOULDED CASE CIRCUIT BREAKERS      11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "MICROLOGIC 2.0E & 5.0E AS STANDARD",
+      "category": "general",
+      "series": "",
+      "description": "MICROLOGIC 2.0E & 5.0E AS STANDARD",
+      "variants": [
+        {
+          "cat_no": "H1",
+          "description": "H1 SERIES  PL -",
+          "price": 47.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "(Rupees)",
+      "category": "general",
+      "series": "",
+      "description": "(Rupees)",
+      "variants": [
+        {
+          "cat_no": "IEC",
+          "description": "IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "HIGH BREAKING CAPACITY",
+      "category": "general",
+      "series": "",
+      "description": "HIGH BREAKING CAPACITY",
+      "variants": [
+        {
+          "cat_no": "H2",
+          "description": "H2 SERIES  PL -",
+          "price": 48.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12- -",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "(Rupees)",
+      "category": "general",
+      "series": "",
+      "description": "(Rupees)",
+      "variants": [
+        {
+          "cat_no": "IEC",
+          "description": "IEC 947 -",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 51.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "POWER METERS",
+      "category": "general",
+      "series": "",
+      "description": "POWER METERS",
+      "variants": [
+        {
+          "cat_no": "3",
+          "description": "3 PHASE AMPERE & VOLT METERS     PL -",
+          "price": 49.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WITH",
+          "description": "WITH BUILT-IN SELECTOR SWITCH   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "BACKLIT LCD DISPALY",
+      "category": "general",
+      "series": "",
+      "description": "BACKLIT LCD DISPALY",
+      "variants": [
+        {
+          "cat_no": "MANAGERMENT",
+          "description": "MANAGERMENT VOLTAGE: 20…",
+          "price": 400.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "POWER",
+          "description": "POWER FACTOR CORRECTION PL -",
+          "price": 50.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12--",
+          "description": "11-12--",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "POWER CONTROL & PROTECTION",
+      "category": "general",
+      "series": "",
+      "description": "POWER CONTROL & PROTECTION",
+      "variants": [
+        {
+          "cat_no": "MAGNETIC",
+          "description": "MAGNETIC CONTACTORS, THREE POLE, 220 VAC       PL-",
+          "price": 51.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CURRENT",
+          "description": "CURRENT RATING AC1 & AC3            11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "POWER CONTROL & PROTECTION",
+      "category": "general",
+      "series": "",
+      "description": "POWER CONTROL & PROTECTION",
+      "variants": [
+        {
+          "cat_no": "DC",
+          "description": "DC MAGNETIC CONTACTORS, 3 POLE, 24 VDC COIL              PL -",
+          "price": 52.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CURRENT",
+          "description": "CURRENT RATING AC1 & AC3     11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "MAGNETIC",
+          "description": "MAGNETIC CONTACTORS, 4 POLE, 220 VAC COIL       PL-",
+          "price": 53.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CURRENT",
+          "description": "CURRENT RATING AC1 & AC3                      11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "AUX. CONTACT BLOCKS FOR MOUNTING ON CONTACTOR",
+      "category": "general",
+      "series": "",
+      "description": "AUX. CONTACT BLOCKS FOR MOUNTING ON CONTACTOR",
+      "variants": [
+        {
+          "cat_no": "LC1-D/F",
+          "description": "LC1-D/F & RELAY CAD32/CAD",
+          "price": 50.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "PL-",
+          "description": "PL-",
+          "price": 54.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "EASY PACT TVS",
+      "category": "general",
+      "series": "",
+      "description": "EASY PACT TVS",
+      "variants": [
+        {
+          "cat_no": "MAGNETIC",
+          "description": "MAGNETIC CONTACTORS, THREE POLE       PL -",
+          "price": 55.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CURRENT",
+          "description": "CURRENT RATING AC1 & AC3   11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 58.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "POWER CONTROL AND PROTECTION",
+      "category": "general",
+      "series": "",
+      "description": "POWER CONTROL AND PROTECTION",
+      "variants": [
+        {
+          "cat_no": "MOTOR",
+          "description": "MOTOR CIRCUIT BREAKERS WITH PL -",
+          "price": 56.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "THERMAL",
+          "description": "THERMAL & MAGNETIC PROTECTION:    11-12-20",
+          "price": 23.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "DIFFERENTIAL TYPE",
+      "category": "general",
+      "series": "",
+      "description": "DIFFERENTIAL TYPE",
+      "variants": [
+        {
+          "cat_no": "THREE",
+          "description": "THREE ELEMENTS, WITH PHASE FAILURE PROTECTION,          PL-",
+          "price": 57.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CLASS",
+          "description": "CLASS 10 (IEC 947-4) 11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock. 6",
+          "price": null,
+          "price_on_request": true,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 58.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ZELIO",
+          "description": "ZELIO TIME RELAYS   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 61.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 59.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "RXMA",
+          "description": "RXMA MINIATURE RELAYS  11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.This",
+          "description": "1.This list is subject to change without notice and goods being in stock.",
+          "price": 62.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 60.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. This list is subject to change without notice and goods being in stock.",
+          "price": 63.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 61.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CONTROL",
+          "description": "CONTROL & INDICATION PRODUCTS  11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 64.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "SOFT",
+          "description": "SOFT STARTERS ALTISTART 22 & 48 SERIES                  PL -",
+          "price": 62.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "OUTPUT: THREE PHASE 380 – 480VAC",
+      "category": "general",
+      "series": "",
+      "description": "OUTPUT: THREE PHASE 380 – 480VAC",
+      "variants": [
+        {
+          "cat_no": "0.37",
+          "description": "0.37 TO  11KW MOTOR , 3 PHASE, 415V AC - 50/60Hz . PL -",
+          "price": 63.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "OUTPUT: THREE PHASE 380 – 480VAC",
+      "category": "general",
+      "series": "",
+      "description": "OUTPUT: THREE PHASE 380 – 480VAC",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 64.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "PROTECTION AGA INST DUST, HUMIDITY & VIBRATION",
+      "category": "general",
+      "series": "",
+      "description": "PROTECTION AGA INST DUST, HUMIDITY & VIBRATION",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 65.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "11-12-",
+          "description": "11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 66.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIGITAL",
+          "description": "DIGITAL TEMPERATURE CONTROLLERS                 11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "(Rupees)",
+      "category": "general",
+      "series": "",
+      "description": "(Rupees)",
+      "variants": [
+        {
+          "cat_no": "MODEL:",
+          "description": "MODEL:  HY8000S -R",
+          "price": 8.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "SIZE:",
+          "description": "SIZE: 96 X",
+          "price": 96.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "ON / OFF RELAY OUT PUT",
+      "category": "general",
+      "series": "",
+      "description": "ON / OFF RELAY OUT PUT",
+      "variants": [
+        {
+          "cat_no": "MODEL:",
+          "description": "MODEL:  HY8000S -R",
+          "price": 13.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 69.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 67.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "TEMPERATURE",
+          "description": "TEMPERATURE CONTROLLERS             11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "ALARM OUTPUT: RELAY CONTACT OUTPUT 250VAC, 3A",
+      "category": "general",
+      "series": "",
+      "description": "ALARM OUTPUT: RELAY CONTACT OUTPUT 250VAC, 3A",
+      "variants": [
+        {
+          "cat_no": "MODEL:",
+          "description": "MODEL: NX3 -",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "SIZE: 96 X 48  40,000/=",
+      "category": "general",
+      "series": "",
+      "description": "SIZE: 96 X 48  40,000/=",
+      "variants": [
+        {
+          "cat_no": "MODEL:",
+          "description": "MODEL: NX4 -",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "SIZE: 48 X 48  45,000/=",
+      "category": "general",
+      "series": "",
+      "description": "SIZE: 48 X 48  45,000/=",
+      "variants": [
+        {
+          "cat_no": "MODEL:",
+          "description": "MODEL: NX7 -",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "SIZE: 72 X 72  56,000/=",
+      "category": "general",
+      "series": "",
+      "description": "SIZE: 72 X 72  56,000/=",
+      "variants": [
+        {
+          "cat_no": "MODEL:",
+          "description": "MODEL: NX9 -",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "70  P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "70  P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 68.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "SOLID",
+          "description": "SOLID STATE RELAYS (SSR)      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 69.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIGITAL",
+          "description": "DIGITAL PANEL METERS       11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 70.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ANALOGUE",
+          "description": "ANALOGUE TIMERS      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 71.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "PUSH",
+          "description": "PUSH BUTTONS, SELECTOR SWITCHES &     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 72.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MINI",
+          "description": "MINI LIMIT SWITCHES      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 73.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "LIMIT",
+          "description": "LIMIT SWITCHES     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 76.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E  L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E  L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 74.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ROTARY",
+          "description": "ROTARY ENCODER     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "POWER SUP PLY: 12~24V DC  40,000 /=",
+      "category": "general",
+      "series": "",
+      "description": "POWER SUP PLY: 12~24V DC  40,000 /=",
+      "variants": [
+        {
+          "cat_no": "RPM:",
+          "description": "RPM:",
+          "price": 360.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "C E L I S T",
+      "variants": [
+        {
+          "cat_no": "POWER",
+          "description": "POWER FACTOR CAPACITORS PL -",
+          "price": 75.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3",
+          "description": "3 – PHASE, 50 HZ         11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "* DESIGNED, MANUFACTURED TESTED TO MEET LATEST STANDARD IEC",
+      "category": "general",
+      "series": "",
+      "description": "* DESIGNED, MANUFACTURED TESTED TO MEET LATEST STANDARD IEC",
+      "variants": [
+        {
+          "cat_no": "PUBLICATION",
+          "description": "PUBLICATION No.  70, 70A, 593 &   JIS C",
+          "price": 4901.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 76.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "AUTOMATIC",
+          "description": "AUTOMATIC POWER FACTOR CONTROLLER  11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "F E A T U R E S",
+      "category": "general",
+      "series": "",
+      "description": "F E A T U R E S",
+      "variants": [
+        {
+          "cat_no": "*",
+          "description": "* CAPABLE OF AUTOMATIC CONTROL IN 6 STEPS (MS -6Q), 8 STEPS (MS -8Q), OR",
+          "price": 12.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "3.",
+          "description": "3. Discount/Multipliers are applicable.",
+          "price": 79.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "E  L I S T",
+      "category": "general",
+      "series": "",
+      "description": "E  L I S T",
+      "variants": [
+        {
+          "cat_no": "POWER",
+          "description": "POWER FACTOR CAPACITORS (CYLINDRICAL / BOX TYPE) PL -",
+          "price": 77.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "3",
+          "description": "3 – PHASE, 50HZ, 415/440V      11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "F E A T U R E S",
+      "category": "general",
+      "series": "",
+      "description": "F E A T U R E S",
+      "variants": [
+        {
+          "cat_no": "*",
+          "description": "* DESIGNED, MANUFACTURED TESTED TO MEET LATEST STANDARD IEC 60831- 1&",
+          "price": 2.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "* POWER",
+      "category": "general",
+      "series": "",
+      "description": "* POWER",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 80.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "P",
+          "description": "P L –",
+          "price": 78.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIGITAL",
+          "description": "DIGITAL MULTIMETERS    11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "IGITAL DISPLAY",
+      "category": "general",
+      "series": "",
+      "description": "IGITAL DISPLAY",
+      "variants": [
+        {
+          "cat_no": "•0-9999",
+          "description": "•0-9999 A MPS CLASS :",
+          "price": 0.5,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "•VOLTAGE : 0 -500V AC, AMPERE : 0-9999 AMP",
+      "category": "general",
+      "series": "",
+      "description": "•VOLTAGE : 0 -500V AC, AMPERE : 0-9999 AMP",
+      "variants": [
+        {
+          "cat_no": "•FREQUENCY",
+          "description": "•FREQUENCY : 30 -70 HZ. CLASS",
+          "price": 0.1,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject  to change without notice and goods being in stock.",
+          "price": 81.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 79.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DIGITAL",
+          "description": "DIGITAL AMPEREMETERS  11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "(Rupees)",
+      "category": "general",
+      "series": "",
+      "description": "(Rupees)",
+      "variants": [
+        {
+          "cat_no": "KDA-",
+          "description": "KDA-",
+          "price": 72.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "•LED DISPLAY",
+      "category": "general",
+      "series": "",
+      "description": "•LED DISPLAY",
+      "variants": [
+        {
+          "cat_no": "•CLASS",
+          "description": "•CLASS :",
+          "price": 0.5,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "L VOLTMETERS",
+      "category": "general",
+      "series": "",
+      "description": "L VOLTMETERS",
+      "variants": [
+        {
+          "cat_no": "KDV",
+          "description": "KDV -",
+          "price": 72.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DV-",
+          "description": "DV-",
+          "price": 96.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "INGLE PHASE, 0 -520V AC",
+      "category": "general",
+      "series": "",
+      "description": "INGLE PHASE, 0 -520V AC",
+      "variants": [
+        {
+          "cat_no": "•CLASS",
+          "description": "•CLASS :",
+          "price": 0.5,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 82.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 80.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "PROTECTION",
+          "description": "PROTECTION RELAYS    11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "TIMERS",
+      "category": "general",
+      "series": "",
+      "description": "TIMERS",
+      "variants": [
+        {
+          "cat_no": "SZR-M",
+          "description": "SZR-M",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ZR-M",
+          "description": "ZR-M",
+          "price": 5.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ZRB",
+          "description": "ZRB -",
+          "price": 30.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "KZR",
+          "description": "KZR -48-8 •MULTI FUNCTION TIMER RANGE 0 .06 Sec TO 3",
+          "price": null,
+          "price_on_request": true,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "•LCD DISPLAY WITH RS485 COMMUNICATION",
+      "category": "general",
+      "series": "",
+      "description": "•LCD DISPLAY WITH RS485 COMMUNICATION",
+      "variants": [
+        {
+          "cat_no": "•CURRENT",
+          "description": "•CURRENT 0 -10,000A, POWER FACTOR CosO : 0-",
+          "price": 1.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 83.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "P",
+          "description": "P L –",
+          "price": 81.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "POWER",
+          "description": "POWER FACTOR CONTROLLERS    11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "(Rupees)",
+      "category": "general",
+      "series": "",
+      "description": "(Rupees)",
+      "variants": [
+        {
+          "cat_no": "KPC",
+          "description": "KPC -",
+          "price": 8.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "PC-",
+          "description": "PC-",
+          "price": 12.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "oVAR",
+          "description": "oVAR PCS",
+          "price": 12.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 82.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "ENERGY",
+          "description": "ENERGY / POWER ANALYZERS- MULTIFUNCTION ANALYZERS   11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 83.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "DUAL",
+          "description": "DUAL SOURCE / MULTIFUNCTION POWER METER     11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL –",
+          "price": 84.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "NH",
+          "description": "NH FUSES & BASES       11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "A T U R E S",
+      "category": "general",
+      "series": "",
+      "description": "A T U R E S",
+      "variants": [
+        {
+          "cat_no": "∗",
+          "description": "∗ SPECIFICATION & STANDARDS AS PER IEC269 -2, VDE",
+          "price": 636.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I N D E X",
+      "category": "general",
+      "series": "",
+      "description": "I N D E X",
+      "variants": [
+        {
+          "cat_no": "1.",
+          "description": "1. T his list is subject to change without notice and goods being in stock.",
+          "price": 87.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "I C E  L I S T",
+      "category": "general",
+      "series": "",
+      "description": "I C E  L I S T",
+      "variants": [
+        {
+          "cat_no": "INDUSTRIAL",
+          "description": "INDUSTRIAL PLUGS & SOCKETS             PL –",
+          "price": 85.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "WALL",
+          "description": "WALL MOUNTING TYPE    11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "P R I C E L I S T",
+      "category": "general",
+      "series": "",
+      "description": "P R I C E L I S T",
+      "variants": [
+        {
+          "cat_no": "PL",
+          "description": "PL -",
+          "price": 86.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "PANEL",
+          "description": "PANEL METERS, CLASS 1.5    11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "MODEL",
+          "description": "MODEL - ST-",
+          "price": 96.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "RLC SERIES",
+      "category": "general",
+      "series": "",
+      "description": "RLC SERIES",
+      "variants": [
+        {
+          "cat_no": "CURRENT",
+          "description": "CURRENT TRANSFORMERS, CLASS 1,  PL -",
+          "price": 87.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600",
+          "description": "600 V, 5/10 VA – BURDEN                 11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "he prices in the list are reference prices and not sale prices.",
+      "category": "general",
+      "series": "",
+      "description": "he prices in the list are reference prices and not sale prices.",
+      "variants": [
+        {
+          "cat_no": "iscount/Multipliers",
+          "description": "iscount/Multipliers are applicable .",
+          "price": 90.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "ELC SEREIS",
+      "category": "general",
+      "series": "",
+      "description": "ELC SEREIS",
+      "variants": [
+        {
+          "cat_no": "CURRENT",
+          "description": "CURRENT TRANSFORMERS, CLASS 1,          PL -",
+          "price": 88.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "600",
+          "description": "600 V, 5/10 VA – BURDEN       11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "AS PER K -ELECTRIC SPECIFICATION S",
+      "category": "general",
+      "series": "",
+      "description": "AS PER K -ELECTRIC SPECIFICATION S",
+      "variants": [
+        {
+          "cat_no": "CURRENT",
+          "description": "CURRENT TRANSFORMERS,           PL –",
+          "price": 89.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "CLASS",
+          "description": "CLASS 0.5, 5 VA – BURDEN (SLC SERIES)    11-12-",
+          "price": 2023.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    }
+  ]
+}

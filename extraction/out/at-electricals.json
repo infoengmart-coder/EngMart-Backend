@@ -1,0 +1,1231 @@
+{
+ "source_pdf": "AT ELECTRICALS PRICE LIST MARCH 2023.pdf",
+ "rows": [
+  {
+   "page": 2,
+   "brand": "AT Electricals",
+   "section": "7-LEVEL MONOPHASE POWER FACTOR CONTROLLER",
+   "model": "RGM-07E",
+   "description": "7-LEVEL MONOPHASE POWER FACTOR CONTROLLER - With LED Display Screen - RGM-07E 7-Steps",
+   "price_pkr": 48000,
+   "specs": {
+    "series": "RGM",
+    "steps": "7-Steps",
+    "phase": "Monophase",
+    "details": "\u2022 3x20mm LED Display Screen; \u2022 Level and Status LEDs; \u2022 100mA Current Sensitivity; \u2022 Automatic Current Transformer Test"
+   }
+  },
+  {
+   "page": 2,
+   "brand": "AT Electricals",
+   "section": "12-LEVEL MONOPHASE POWER FACTOR RELAY",
+   "model": "RGM-12S",
+   "description": "12-LEVEL MONOPHASE POWER FACTOR RELAY - With LED Display Screen - RGM-12S 12-Steps",
+   "price_pkr": 55000,
+   "specs": {
+    "series": "RGM",
+    "steps": "12-Steps",
+    "phase": "Monophase",
+    "details": "\u2022 7 Different Compensation Programs; \u2022 Manual Compensation Option; \u2022 Easy to Install and Use with 20mm. 4 Digit Led Display; \u2022 Can Only Compensate Inductive Systems; \u2022 Automatic Step Measurement; \u2022 Step Drive, Release and Discharge Times are Adjustable; \u2022 Voltage and Current Harmonic Alarm Values Adjustable; \u2022 Over and Under Compensation Alarm Values Can Be Set; \u2022 Voltage, Harmonic Voltage/Current, Over and Under Compensation Alarm Output; \u2022 Voltage, Current and Frequency Values Can Be Monitored; \u2022 Active Power, Reactive Power and Apparent Power Values Can be Monitored; \u2022 Up to the 15th harmonic THD-I Can Be Monitored; \u2022 Up to the 15th harmonic THD-V Can Be Monitored; \u2022 Cosine Value Can Be Monitored; \u2022 Power Factor Value Can Be Monitored; \u2022 Capacitive/Active and Inductive/Active Ratios Can Be Monitored; \u2022 Automatic Fan Output; \u2022 Step Values Can Be Monitored; \u2022 Same Aging in Steps (In Certain Compensation Programs)"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "AT Electricals",
+   "section": "DIGITAL THREE PHASE POWER FACTOR RELAY",
+   "model": "RGT-08",
+   "description": "DIGITAL THREE PHASE POWER FACTOR RELAY - With Continuous Digital Power Factor LED & LCD Display - RGT-08 8-Steps",
+   "price_pkr": 79500,
+   "specs": {
+    "series": "RGT",
+    "steps": "8-Steps",
+    "section_details": "\u2022 Automatic & Manual operations; \u2022 3-phase voltage and 3-phase current transformer.; \u2022 It shows the 3-phase current, 3-phase voltage or 3-phase Cos values on the display.; \u2022 Easy-to-use.; \u2022 LED and LCD for Easy Reading.; \u2022 Capacitors discharge time can be adjusted.; \u2022 Inductive /Active and Capacitive / Active ratios (%) can be adjusted.; \u2022 Menu is password-protected.; \u2022 It saves the number of stage use.; \u2022 Easy-to-use"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "AT Electricals",
+   "section": "DIGITAL THREE PHASE POWER FACTOR RELAY",
+   "model": "RGT-12",
+   "description": "DIGITAL THREE PHASE POWER FACTOR RELAY - With Continuous Digital Power Factor LED & LCD Display - RGT-12 12-Steps",
+   "price_pkr": 93000,
+   "specs": {
+    "series": "RGT",
+    "steps": "12-Steps",
+    "section_details": "\u2022 Automatic & Manual operations; \u2022 3-phase voltage and 3-phase current transformer.; \u2022 It shows the 3-phase current, 3-phase voltage or 3-phase Cos values on the display.; \u2022 Easy-to-use.; \u2022 LED and LCD for Easy Reading.; \u2022 Capacitors discharge time can be adjusted.; \u2022 Inductive /Active and Capacitive / Active ratios (%) can be adjusted.; \u2022 Menu is password-protected.; \u2022 It saves the number of stage use.; \u2022 Easy-to-use"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "AT Electricals",
+   "section": "18 Level, SVC Compatible Three-Phase Power Factor Controller",
+   "model": "RGT-MT18",
+   "description": "18 Level, SVC Compatible Three-Phase Power Factor Controller - with Touch Screen - RGT-MT18 18-Steps",
+   "price_pkr": 125000,
+   "specs": {
+    "series": "RGT",
+    "steps": "18-Steps",
+    "details": "\u2022 Easy to Install and Use with 5 inch Touch Screen; \u2022 Voltage, Harmonic Current/Voltage, Inductive and Capacitive Alarm Output; \u2022 Generator Input and Generator Compensation; \u2022 Remote Communication with RS485 (RS485 ModBus RTU); \u2022 Manual Step Value Enterable; \u2022 Single, Two, and Three Phase Capacitor and Shunt Reactor can be Connected; \u2022 Turkish and English Language Option; \u2022 Voltage and Current Harmonics can be Observed Up To 61st Harmonics; \u2022 Temperature Alarm Output; \u2022 Power Factor and Cosine Values of Each Phase can be Observed as Graphically; \u2022 Capacitive / Active and Inductive / Active Ratios can be Observed as Graphically; \u2022 Total Energies (Import/Export) can be Observed.; \u2022 THD-V and THD-I values of Each Phase can be Observed"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL AC VOLT METERS",
+   "model": "DJV-72",
+   "description": "DIGITAL AC VOLT METERS - DJV-72 (0~500V) (72*72)",
+   "price_pkr": 8800,
+   "specs": {
+    "series": "DJV",
+    "size": "72*72"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL AC VOLT METERS",
+   "model": "DJV-96",
+   "description": "DIGITAL AC VOLT METERS - DJV-96 (0~500V) (96*96)",
+   "price_pkr": 8800,
+   "specs": {
+    "series": "DJV",
+    "size": "96*96"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL AC VOLT METERS",
+   "model": "DJV-72S",
+   "description": "DIGITAL AC VOLT METERS - DJV-72S (0~500V) (With Built-In-Selector Switch)",
+   "price_pkr": 13500,
+   "specs": {
+    "series": "DJV",
+    "note": "marked * in list (page-10 footnote: '* Till Stock Last.')"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL AC AMMETERS",
+   "model": "DJA-72",
+   "description": "DIGITAL AC AMMETERS - DJA-72 (72*72mm)",
+   "price_pkr": 9000,
+   "specs": {
+    "series": "DJA",
+    "size": "72*72mm"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL AC AMMETERS",
+   "model": "DJA-96",
+   "description": "DIGITAL AC AMMETERS - DJA-96 (96*96mm)",
+   "price_pkr": 9000,
+   "specs": {
+    "series": "DJA",
+    "size": "96*96mm"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL 3-PHASE AC VOLT & AMPERE METERS",
+   "model": "DJV-96T",
+   "description": "DIGITAL 3-PHASE AC VOLT & AMPERE METERS - DJV-96T (5 ~ 500V) (96*96)",
+   "price_pkr": 13500,
+   "specs": {
+    "series": "DJV",
+    "size": "96*96",
+    "phase": "3-Phase"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL 3-PHASE AC VOLT & AMPERE METERS",
+   "model": "DJA-96T",
+   "description": "DIGITAL 3-PHASE AC VOLT & AMPERE METERS - DJA-96T (5/5A ~ 5000/5A) (96*96)",
+   "price_pkr": 13500,
+   "specs": {
+    "series": "DJA",
+    "size": "96*96",
+    "phase": "3-Phase"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL VOLTMETER & DIRECT AMMETER(2IN1)",
+   "model": "DAV-72D",
+   "description": "DIGITAL VOLTMETER & DIRECT AMMETER(2IN1) - DAV-72D WITH CT (72*72mm)",
+   "price_pkr": 14000,
+   "specs": {
+    "series": "DAV",
+    "size": "72*72mm",
+    "details": "(Operating Voltage (Un)\u2026140-270VAC); (Voltage Measuring Range\u2026150V-260VAC); (Current Measuring Range\u20261A \u2013 100 AC External C.T"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL PANEL MULTIMETER 3-PHASE (4IN1)",
+   "model": "EM-06",
+   "description": "DIGITAL PANEL MULTIMETER 3-PHASE (4IN1) - EM-06 (96*96mm)",
+   "price_pkr": 16000,
+   "specs": {
+    "series": "EM",
+    "size": "96*96mm",
+    "phase": "3-Phase",
+    "details": "Measuring Ranges: 1-300V (P-N); 1-500V (P-P); 10-9995A (with 5A CT); 50~60Hz; Phase Sequence Indication."
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL PANEL MULTIMETER 3-PHASE (LCD)",
+   "model": "EM-07K",
+   "description": "DIGITAL PANEL MULTIMETER 3-PHASE (LCD) - EM-07K (KWH & RS-485) (96*96mm)",
+   "price_pkr": 39500,
+   "specs": {
+    "series": "EM",
+    "size": "96*96mm",
+    "phase": "3-Phase",
+    "details": "Measuring Ranges: 1-300V (P-N) / 1-500V (P-P); 10-9995A (with 5A CT); 50~60Hz / KWH / MIN / MAX Average; Values, Phase Sequence Indication."
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL FREQUENCY METERS",
+   "model": "DJF-72",
+   "description": "DIGITAL FREQUENCY METERS - DJF-72 (72*72mm)",
+   "price_pkr": 11000,
+   "specs": {
+    "series": "DJF",
+    "size": "72*72mm"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "AT Electricals",
+   "section": "DIGITAL FREQUENCY METERS",
+   "model": "DJF-96",
+   "description": "DIGITAL FREQUENCY METERS - DJF-96 (96*96mm)",
+   "price_pkr": 11000,
+   "specs": {
+    "series": "DJF",
+    "size": "96*96mm"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "AT Electricals",
+   "section": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL)",
+   "model": "GK-04S",
+   "description": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL) - With Phase Sequence Control (Active/Passive) - GK-04S",
+   "price_pkr": 10200,
+   "specs": {
+    "series": "GK",
+    "phase": "3-Phase",
+    "details": "High Voltage Set (U>) : 400V \u2013 460V AC (Adjustable); Low Voltage Set (U<) : 260V \u2013 360V AC (Adjustable); Time Delay : 0.1Sec \u2013 10Sec. (Adjustable); PSC : Phase Sequence Control (Active/Passive)"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "AT Electricals",
+   "section": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL)",
+   "model": "GKT-03F",
+   "description": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL) - With Phase Sequence Control - GKT-03F",
+   "price_pkr": 9500,
+   "specs": {
+    "series": "GKT",
+    "phase": "3-Phase",
+    "details": "High Voltage Set (U>) : 400V \u2013 510V AC (Adjustable); Low Voltage Set (U<) : 260V \u2013 370V AC (Adjustable); Time Delay : 0.1Sec \u2013 20Sec. (Adjustable); Display : High, low, relay, phase sequence power; and phases led."
+   }
+  },
+  {
+   "page": 5,
+   "brand": "AT Electricals",
+   "section": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL)",
+   "model": "GKT-03",
+   "description": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL) - GKT-03",
+   "price_pkr": 9000,
+   "specs": {
+    "series": "GKT",
+    "phase": "3-Phase",
+    "details": "High Voltage Set (U>) : 400V \u2013 510V AC (Adjustable); Low Voltage Set (U<) : 260V \u2013 370V AC (Adjustable); Time Delay : 0.1Sec \u2013 20Sec. (Adjustable); Display : High, low, relay, and phases led."
+   }
+  },
+  {
+   "page": 5,
+   "brand": "AT Electricals",
+   "section": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NEUTRAL)",
+   "model": "GKM-02F",
+   "description": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NEUTRAL) - With Phase Sequence Control - GKM-02F",
+   "price_pkr": 9500,
+   "specs": {
+    "series": "GKM",
+    "phase": "3-Phase",
+    "details": "High Voltage Set (U>) : 230V \u2013 300V AC (Adjustable); Low Voltage Set (U<) : 140V \u2013 210V AC (Adjustable); Time Delay : 0.1Sec \u2013 20Sec. (Adjustable); Display : High, low, relay, phase sequence power; and phases led."
+   }
+  },
+  {
+   "page": 6,
+   "brand": "AT Electricals",
+   "section": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NEUTRAL)",
+   "model": "GKM-02",
+   "description": "UNDER & OVER VOLTAGE RELAY 3-PHASE (NEUTRAL) - GKM-02",
+   "price_pkr": 9000,
+   "specs": {
+    "series": "GKM",
+    "phase": "3-Phase",
+    "details": "High Voltage Set (U>) : 230V \u2013 300V AC (Adjustable); Low Voltage Set (U<) : 140V \u2013 210V AC (Adjustable); Time Delay : 0.1Sec \u2013 20Sec. (Adjustable); Display : High, low, relay, and phases led."
+   }
+  },
+  {
+   "page": 6,
+   "brand": "AT Electricals",
+   "section": "UNDER & OVER VOLTAGE RELAY 1-PHASE (NEUTRAL)",
+   "model": "GKM-11",
+   "description": "UNDER & OVER VOLTAGE RELAY 1-PHASE (NEUTRAL) - GKM-11",
+   "price_pkr": 8000,
+   "specs": {
+    "series": "GKM",
+    "phase": "1-Phase",
+    "details": "High Voltage Set (U>) : 230V \u2013 300V AC (Adjustable); Low Voltage Set (U<) : 150V \u2013 210V AC (Adjustable); Time Delay : 0.5Sec \u2013 20Sec. (Adjustable); Display : High, low, relay, and phases led."
+   }
+  },
+  {
+   "page": 6,
+   "brand": "AT Electricals",
+   "section": "DIGITAL UNDER & OVER VOLTAGE PROTECTION DEVICE",
+   "model": "GKE-40",
+   "description": "DIGITAL UNDER & OVER VOLTAGE PROTECTION DEVICE - 1-PHASE (40A) - GKE-40",
+   "price_pkr": 15000,
+   "specs": {
+    "series": "GKE",
+    "phase": "1-Phase",
+    "rating": "40A",
+    "details": "Over Voltage : 230V \u2013 300V AC (Adjustable); Under Voltage :120V \u2013 210V AC (Adjustable); Time Delay : 0.1Sec \u2013 600Sec. (Adjustable); Built-In Current Transformer; Built-In Contactor 40A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "AT Electricals",
+   "section": "DIGITAL UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL)",
+   "model": "DGK-04F",
+   "description": "DIGITAL UNDER & OVER VOLTAGE RELAY 3-PHASE (NON-NEUTRAL) - With Phase Sequence Control - DGK-04F",
+   "price_pkr": 15000,
+   "specs": {
+    "series": "DGK",
+    "phase": "3-Phase",
+    "details": "Over Voltage : 400V \u2013 460V AC (Adjustable); Under Voltage :230V \u2013 360V AC (Adjustable); Time Delay : 0.1Sec \u2013 10Sec. (Adjustable)"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "AT Electricals",
+   "section": "PHASE FAILURE RELAY",
+   "model": "FKV-14",
+   "description": "PHASE FAILURE RELAY - FKV-14",
+   "price_pkr": 8000,
+   "specs": {
+    "series": "FKV",
+    "details": "Asymmetry : ~30%; Phase Sequence Control"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "AT Electricals",
+   "section": "STAR-DELTA TIMER",
+   "model": "ERV-YU",
+   "description": "STAR-DELTA TIMER - ERV-YU",
+   "price_pkr": 9000,
+   "specs": {
+    "series": "ERV-YU",
+    "details": "Working: 0.1 Sec. \u2013 30 Sec (Adjustable); Waiting: 15msec. (Fixed)"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "AT Electricals",
+   "section": "MULTIFUNCTIONAL TIMER",
+   "model": "ERV-08",
+   "description": "MULTIFUNCTIONAL TIMER - ERV-08",
+   "price_pkr": 9000,
+   "specs": {
+    "series": "ERV",
+    "details": "Time : 0.1Sec \u2013 100 Hours. (Adjustable)"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "AT Electricals",
+   "section": "PROGRAMMABLE TIMER",
+   "model": "TTR-10",
+   "description": "PROGRAMMABLE TIMER - TTR-10",
+   "price_pkr": 13500,
+   "specs": {
+    "series": "TTR",
+    "details": "\u2022 230V AC; \u2022 Real time clock; \u2022 Number of programs: 48/72/96/144/288; \u2022 Switching time: 5/10/15/25/30 minutes; \u2022 Relay on time can be adjusted; \u2022 16A, 250VAC, 4000VA (Resistive Load)"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "AT Electricals",
+   "section": "SOCKET TYPE ON-DELAY TIMER",
+   "model": "ERS-60YR",
+   "description": "SOCKET TYPE ON-DELAY TIMER - ERS-60YR",
+   "price_pkr": 6000,
+   "specs": {
+    "series": "ERS",
+    "details": "Range : 0.1Sec \u2013 60 Sec. (Adjustable)"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "AT Electricals",
+   "section": "LIQUID LEVEL RELAY",
+   "model": "VSR-05",
+   "description": "LIQUID LEVEL RELAY - VSR-05",
+   "price_pkr": 8500,
+   "specs": {
+    "series": "VSR",
+    "details": "Precision : 5K Ohm -100K Ohm Liquid Sensitivity Adjustable"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "AT Electricals",
+   "section": "LIQUID LEVEL ELECTRODE",
+   "model": "SSE-10",
+   "description": "LIQUID LEVEL ELECTRODE - SSE-10",
+   "price_pkr": 1700,
+   "specs": {
+    "series": "SSE"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "AT Electricals",
+   "section": "DIGITAL ENERGY ANALYZER",
+   "model": "TPM-01ES",
+   "description": "DIGITAL ENERGY ANALYZER - TPM-01ES 4X4 DIGIT LED DISPLAY (96*96mm)",
+   "price_pkr": 65000,
+   "specs": {
+    "series": "TPM",
+    "size": "96*96mm",
+    "details": "\u2022 Easy Installation and Operation with 4\u00d74 Digit Display; \u2022 With 3-Phase Voltage and 3-Phase Current Transformers; \u2022 Easy-To-Use Menu; \u2022 It Shows Voltage and Current Harmonics Up To 31st Harmonics; \u2022 Remote Communication with RS485 (RS485 ModBus RTU); \u2022 1 Relay Output (Adjustable); \u2022 Event Records (High/Low Voltage/Current, Voltage/Current Imbalance, THD-I)"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "AT Electricals",
+   "section": "DIGITAL ENERGY ANALYZER",
+   "model": "TPM-05",
+   "description": "DIGITAL ENERGY ANALYZER - TPM-05 GLASS LCD SCREEN (96*96mm)",
+   "price_pkr": 93000,
+   "specs": {
+    "series": "TPM",
+    "size": "96*96mm",
+    "details": "\u2022 Easy Installation and Operation with 71.5\u00d761.5 Glass LCD Display; \u2022 With 3-Phase Voltage and 3-Phase Current Transformers; \u2022 Easy-To-Use Menu; \u2022 It Shows Voltage and Current Harmonics Up To 41th Harmonics; \u2022 Remote Communication with RS485 (RS485 ModBus RTU); \u2022 2 Relay Outputs, 1 Digital Input (Adjustable); \u2022 Event Records (High/Low Voltage/Current, Energy Interruption, Voltage Imbalance etc.)"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "AT Electricals",
+   "section": "USB-CON",
+   "model": "USB-CON",
+   "description": "USB-CON - RS232/RS485 to USB Converter - USB-CON",
+   "price_pkr": 65000,
+   "specs": {
+    "series": "USB-CON",
+    "details": "\u2022 Isolated Connection; \u2022 Up to 230.4k pbs Communication Speed"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "AT Electricals",
+   "section": "DIGITAL OVERLOAD CONTACTOR",
+   "model": "KON-TER-25",
+   "description": "DIGITAL OVERLOAD CONTACTOR - KON-TER-25",
+   "price_pkr": 30000,
+   "specs": {
+    "series": "KON-TER",
+    "rating": "25A",
+    "section_details": "These overload devices are designed to prevent the loads getting harm from; High currents and ability of control at the same time.; \u2022 Operating Volt. (Un)\u2026.: 100V \u2013 240V AC.; \u2022 Operating Frequency\u2026... 50/60Hz.; \u2022 Display\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.: 3x3 digit display, 2x LEDs; \u2022 H. Current(overload)..: 25A / 32A / 50A / 100A; \u2022 H. Current(overload)..: 1A \u2013 32A; \u2022 Waiting (Sec.)\u2026.... 0.1sec. \u2013 10/20-Sec."
+   }
+  },
+  {
+   "page": 8,
+   "brand": "AT Electricals",
+   "section": "DIGITAL OVERLOAD CONTACTOR",
+   "model": "KON-TER-32",
+   "description": "DIGITAL OVERLOAD CONTACTOR - KON-TER-32",
+   "price_pkr": 37000,
+   "specs": {
+    "series": "KON-TER",
+    "rating": "32A",
+    "section_details": "These overload devices are designed to prevent the loads getting harm from; High currents and ability of control at the same time.; \u2022 Operating Volt. (Un)\u2026.: 100V \u2013 240V AC.; \u2022 Operating Frequency\u2026... 50/60Hz.; \u2022 Display\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.: 3x3 digit display, 2x LEDs; \u2022 H. Current(overload)..: 25A / 32A / 50A / 100A; \u2022 H. Current(overload)..: 1A \u2013 32A; \u2022 Waiting (Sec.)\u2026.... 0.1sec. \u2013 10/20-Sec."
+   }
+  },
+  {
+   "page": 8,
+   "brand": "AT Electricals",
+   "section": "DIGITAL OVERLOAD CONTACTOR",
+   "model": "KON-TER-50",
+   "description": "DIGITAL OVERLOAD CONTACTOR - KON-TER-50",
+   "price_pkr": 65000,
+   "specs": {
+    "series": "KON-TER",
+    "note": "marked * in list (page-10 footnote: '* Till Stock Last.')",
+    "rating": "50A",
+    "section_details": "These overload devices are designed to prevent the loads getting harm from; High currents and ability of control at the same time.; \u2022 Operating Volt. (Un)\u2026.: 100V \u2013 240V AC.; \u2022 Operating Frequency\u2026... 50/60Hz.; \u2022 Display\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.: 3x3 digit display, 2x LEDs; \u2022 H. Current(overload)..: 25A / 32A / 50A / 100A; \u2022 H. Current(overload)..: 1A \u2013 32A; \u2022 Waiting (Sec.)\u2026.... 0.1sec. \u2013 10/20-Sec."
+   }
+  },
+  {
+   "page": 8,
+   "brand": "AT Electricals",
+   "section": "DIGITAL OVERLOAD CONTACTOR",
+   "model": "KON-TER-100",
+   "description": "DIGITAL OVERLOAD CONTACTOR - KON-TER-100",
+   "price_pkr": 90000,
+   "specs": {
+    "series": "KON-TER",
+    "note": "marked * in list (page-10 footnote: '* Till Stock Last.')",
+    "rating": "100A",
+    "section_details": "These overload devices are designed to prevent the loads getting harm from; High currents and ability of control at the same time.; \u2022 Operating Volt. (Un)\u2026.: 100V \u2013 240V AC.; \u2022 Operating Frequency\u2026... 50/60Hz.; \u2022 Display\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.: 3x3 digit display, 2x LEDs; \u2022 H. Current(overload)..: 25A / 32A / 50A / 100A; \u2022 H. Current(overload)..: 1A \u2013 32A; \u2022 Waiting (Sec.)\u2026.... 0.1sec. \u2013 10/20-Sec."
+   }
+  },
+  {
+   "page": 9,
+   "brand": "AT Electricals",
+   "section": "PRESET UP/DOWN COUNTER",
+   "model": "DS-72",
+   "description": "PRESET UP/DOWN COUNTER - DS-72",
+   "price_pkr": 23000,
+   "specs": {
+    "series": "DS",
+    "details": "\u2022 2x4 Digit display, double PRESET, double OUT, up/down counter; \u2022 Counts switch, proximity switch & incremental encoder input; \u2022 Password protection; \u2022 Selectable input frequency Calibration constant; 0.001.....9.999; \u2022 Selectable decimal point; 1. ..... 3. Digit; \u2022 7 input / 10 output function options; \u2022 Ads \u201cOFFSET\u201d to Count Value; \u2022 PRESET1; Absolute / Relative option; \u2022 OUT; latch or 0.1.....999.9 seconds pulse Loads count value & OUT status at the lastest power failure after the first power on; \u2022 RESET via front panel Displays Preset \u00bd values; \u2022 EEPROM memory to store settings"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "AT Electricals",
+   "section": "TEMEPRATURE CONTROLLERS",
+   "model": "DT-96",
+   "description": "TEMEPRATURE CONTROLLERS - (Only NO for DT-48) - According to P.Err and Ct parameters in case of sensor - DT-96",
+   "price_pkr": 30000,
+   "specs": {
+    "series": "DT",
+    "details": "Size: 96*96mm",
+    "size": "96*96mm",
+    "section_details": "\u2022 Display : 4 Digit, 7 Segment PV, 4 Digit 7 Segment SV; \u2022 Sensor Type : J,K,T,S,R typeT/C, PT100 Selectable; \u2022 Measuring Scale : -100 .. 600 \u0366C, J type T/C, (Input=J); -100 .. 1300 \u0366C, K type T/C, (Input=k); -100 .. 400 \u0366C, T type T/C, (Input=t); 0 .. 1750 \u0366C, S type T/C, (Input=S); 0 .. 1750 \u0366C, R type T/C, (Input=r); -100 .. 600 \u0366C, Pt100, (Input=Pt); -99.9 .. 600.0 \u0366C, Pt100, (Input=Pt.0); \u2022 ResoluSon : \u00b1 1 \u0366C or \u00b1 0.1 \u0366C; \u2022 Control Form : ON-OFF or P,PI,PD,PID \u2013 Selectable; \u2022 OUT Output : Relay (NO + NC), 250VAC, 2A, Resistive Load, Optional (SSR); \u2022 Alarm Output : Relay (NO + NC), 250VAC, 2A, Resistive load,; \u2022 Heat SET : Lo.L .. UP.L \u0366C (H.Set); \u2022 Alarm SET : AL.tY = Abs,-Abs; Lo.L .. UP. L \u0366C (A.Set); AL.tY = rel, -rel, bnd, -bnd, bn.i, -bn.i;; -100 .. +100 / -10.0 .. +10.0 (Pt.0); \u2022 Integral Time : 0 .. 30,0 min (OFF if set to 0); \u2022 Derivative Time : 0.. 10,0 min. (OFF if set to 0); \u2022 Operating Voltage: 100\u2026.240V AC; \u2022 Failure : ALARM output is constantly OFF, OUT output is active"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "AT Electricals",
+   "section": "TEMEPRATURE CONTROLLERS",
+   "model": "DT-72",
+   "description": "TEMEPRATURE CONTROLLERS - (Only NO for DT-48) - According to P.Err and Ct parameters in case of sensor - DT-72",
+   "price_pkr": 29500,
+   "specs": {
+    "series": "DT",
+    "details": "Size: 72*72mm",
+    "size": "72*72mm",
+    "section_details": "\u2022 Display : 4 Digit, 7 Segment PV, 4 Digit 7 Segment SV; \u2022 Sensor Type : J,K,T,S,R typeT/C, PT100 Selectable; \u2022 Measuring Scale : -100 .. 600 \u0366C, J type T/C, (Input=J); -100 .. 1300 \u0366C, K type T/C, (Input=k); -100 .. 400 \u0366C, T type T/C, (Input=t); 0 .. 1750 \u0366C, S type T/C, (Input=S); 0 .. 1750 \u0366C, R type T/C, (Input=r); -100 .. 600 \u0366C, Pt100, (Input=Pt); -99.9 .. 600.0 \u0366C, Pt100, (Input=Pt.0); \u2022 ResoluSon : \u00b1 1 \u0366C or \u00b1 0.1 \u0366C; \u2022 Control Form : ON-OFF or P,PI,PD,PID \u2013 Selectable; \u2022 OUT Output : Relay (NO + NC), 250VAC, 2A, Resistive Load, Optional (SSR); \u2022 Alarm Output : Relay (NO + NC), 250VAC, 2A, Resistive load,; \u2022 Heat SET : Lo.L .. UP.L \u0366C (H.Set); \u2022 Alarm SET : AL.tY = Abs,-Abs; Lo.L .. UP. L \u0366C (A.Set); AL.tY = rel, -rel, bnd, -bnd, bn.i, -bn.i;; -100 .. +100 / -10.0 .. +10.0 (Pt.0); \u2022 Integral Time : 0 .. 30,0 min (OFF if set to 0); \u2022 Derivative Time : 0.. 10,0 min. (OFF if set to 0); \u2022 Operating Voltage: 100\u2026.240V AC; \u2022 Failure : ALARM output is constantly OFF, OUT output is active"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "AT Electricals",
+   "section": "TEMEPRATURE CONTROLLERS",
+   "model": "DT-48",
+   "description": "TEMEPRATURE CONTROLLERS - (Only NO for DT-48) - According to P.Err and Ct parameters in case of sensor - DT-48",
+   "price_pkr": 27000,
+   "specs": {
+    "series": "DT",
+    "details": "Size: 48*48mm",
+    "size": "48*48mm",
+    "section_details": "\u2022 Display : 4 Digit, 7 Segment PV, 4 Digit 7 Segment SV; \u2022 Sensor Type : J,K,T,S,R typeT/C, PT100 Selectable; \u2022 Measuring Scale : -100 .. 600 \u0366C, J type T/C, (Input=J); -100 .. 1300 \u0366C, K type T/C, (Input=k); -100 .. 400 \u0366C, T type T/C, (Input=t); 0 .. 1750 \u0366C, S type T/C, (Input=S); 0 .. 1750 \u0366C, R type T/C, (Input=r); -100 .. 600 \u0366C, Pt100, (Input=Pt); -99.9 .. 600.0 \u0366C, Pt100, (Input=Pt.0); \u2022 ResoluSon : \u00b1 1 \u0366C or \u00b1 0.1 \u0366C; \u2022 Control Form : ON-OFF or P,PI,PD,PID \u2013 Selectable; \u2022 OUT Output : Relay (NO + NC), 250VAC, 2A, Resistive Load, Optional (SSR); \u2022 Alarm Output : Relay (NO + NC), 250VAC, 2A, Resistive load,; \u2022 Heat SET : Lo.L .. UP.L \u0366C (H.Set); \u2022 Alarm SET : AL.tY = Abs,-Abs; Lo.L .. UP. L \u0366C (A.Set); AL.tY = rel, -rel, bnd, -bnd, bn.i, -bn.i;; -100 .. +100 / -10.0 .. +10.0 (Pt.0); \u2022 Integral Time : 0 .. 30,0 min (OFF if set to 0); \u2022 Derivative Time : 0.. 10,0 min. (OFF if set to 0); \u2022 Operating Voltage: 100\u2026.240V AC; \u2022 Failure : ALARM output is constantly OFF, OUT output is active"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "AT Electricals",
+   "section": "TEMEPRATURE CONTROLLERS",
+   "model": "DT-D",
+   "description": "TEMEPRATURE CONTROLLERS - (Only NO for DT-48) - According to P.Err and Ct parameters in case of sensor - DT-D",
+   "price_pkr": 31500,
+   "specs": {
+    "series": "DT-D",
+    "details": "Size: 48*96mm",
+    "size": "48*96mm",
+    "section_details": "\u2022 Display : 4 Digit, 7 Segment PV, 4 Digit 7 Segment SV; \u2022 Sensor Type : J,K,T,S,R typeT/C, PT100 Selectable; \u2022 Measuring Scale : -100 .. 600 \u0366C, J type T/C, (Input=J); -100 .. 1300 \u0366C, K type T/C, (Input=k); -100 .. 400 \u0366C, T type T/C, (Input=t); 0 .. 1750 \u0366C, S type T/C, (Input=S); 0 .. 1750 \u0366C, R type T/C, (Input=r); -100 .. 600 \u0366C, Pt100, (Input=Pt); -99.9 .. 600.0 \u0366C, Pt100, (Input=Pt.0); \u2022 ResoluSon : \u00b1 1 \u0366C or \u00b1 0.1 \u0366C; \u2022 Control Form : ON-OFF or P,PI,PD,PID \u2013 Selectable; \u2022 OUT Output : Relay (NO + NC), 250VAC, 2A, Resistive Load, Optional (SSR); \u2022 Alarm Output : Relay (NO + NC), 250VAC, 2A, Resistive load,; \u2022 Heat SET : Lo.L .. UP.L \u0366C (H.Set); \u2022 Alarm SET : AL.tY = Abs,-Abs; Lo.L .. UP. L \u0366C (A.Set); AL.tY = rel, -rel, bnd, -bnd, bn.i, -bn.i;; -100 .. +100 / -10.0 .. +10.0 (Pt.0); \u2022 Integral Time : 0 .. 30,0 min (OFF if set to 0); \u2022 Derivative Time : 0.. 10,0 min. (OFF if set to 0); \u2022 Operating Voltage: 100\u2026.240V AC; \u2022 Failure : ALARM output is constantly OFF, OUT output is active"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "WATER FLOAT SWITCH",
+   "model": "FLT-3",
+   "description": "WATER FLOAT SWITCH - FLT-3",
+   "price_pkr": 8500,
+   "specs": {
+    "series": "FLT",
+    "details": "Length: 3-Meters.; Load Current Capacity: 8A/250V AC (50/60 Hz); Protection Class: IP68."
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "PHOTOCELL RELAY",
+   "model": "FR-GR",
+   "description": "PHOTOCELL RELAY - FR-GR",
+   "price_pkr": 3500,
+   "specs": {
+    "series": "FR-GR",
+    "details": "Wall Mounting Possibility; Can Switch Up To 1500Watt"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "LV CURRENT TRANSFORMER X5",
+   "model": "ATM-40",
+   "description": "LV CURRENT TRANSFORMER X5 - ATM-40 - 20\u1d13 - 40/5A",
+   "price_pkr": 5500,
+   "specs": {
+    "series": "ATM",
+    "diameter": "20\u1d13",
+    "current_ratio": "40/5A",
+    "rating": "40/5A"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "LV CURRENT TRANSFORMER X5",
+   "model": "ATM-60",
+   "description": "LV CURRENT TRANSFORMER X5 - ATM-60 - 20 \u1d13 - 60/5A",
+   "price_pkr": 5500,
+   "specs": {
+    "series": "ATM",
+    "diameter": "20 \u1d13",
+    "current_ratio": "60/5A",
+    "rating": "60/5A"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "LV CURRENT TRANSFORMER X5",
+   "model": "AT-100",
+   "description": "LV CURRENT TRANSFORMER X5 - AT-100 - 30 \u1d13 - 100/5A",
+   "price_pkr": 5800,
+   "specs": {
+    "series": "AT",
+    "diameter": "30 \u1d13",
+    "current_ratio": "100/5A",
+    "rating": "100/5A"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "LV CURRENT TRANSFORMER X5",
+   "model": "AT-200",
+   "description": "LV CURRENT TRANSFORMER X5 - AT-200 - 30 \u1d13 - 200/5A",
+   "price_pkr": 5800,
+   "specs": {
+    "series": "AT",
+    "diameter": "30 \u1d13",
+    "current_ratio": "200/5A",
+    "rating": "200/5A"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "LV CURRENT TRANSFORMER X5",
+   "model": "AT-300",
+   "description": "LV CURRENT TRANSFORMER X5 - AT-300 - 30 \u1d13 - 300/5A",
+   "price_pkr": 6300,
+   "specs": {
+    "series": "AT",
+    "diameter": "30 \u1d13",
+    "current_ratio": "300/5A",
+    "rating": "300/5A"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "LV CURRENT TRANSFORMER X5",
+   "model": "AT-400",
+   "description": "LV CURRENT TRANSFORMER X5 - AT-400 - 40 \u1d13 - 400/5A",
+   "price_pkr": 6500,
+   "specs": {
+    "series": "AT",
+    "diameter": "40 \u1d13",
+    "current_ratio": "400/5A",
+    "rating": "400/5A"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "AT Electricals",
+   "section": "LV CURRENT TRANSFORMER X5",
+   "model": "AT-600",
+   "description": "LV CURRENT TRANSFORMER X5 - AT-600 - 40 \u1d13 - 600/5A",
+   "price_pkr": 7000,
+   "specs": {
+    "series": "AT",
+    "diameter": "40 \u1d13",
+    "current_ratio": "600/5A",
+    "rating": "600/5A"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZnPS",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZnPS 2.5 KVAR 440 VAC",
+   "price_pkr": 10000,
+   "specs": {
+    "series": "ZnPS",
+    "rating": "2.5 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZnPS",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZnPS 5 KVAR 440 VAC",
+   "price_pkr": 14000,
+   "specs": {
+    "series": "ZnPS",
+    "rating": "5 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZnPS",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZnPS 7.5 KVAR 440 VAC",
+   "price_pkr": 19000,
+   "specs": {
+    "series": "ZnPS",
+    "rating": "7.5 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZnPS",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZnPS 12.5 KVAR 440 VAC",
+   "price_pkr": 24000,
+   "specs": {
+    "series": "ZnPS",
+    "rating": "12.5 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZnPS",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZnPS 25 KVAR 440 VAC B. LV CAPACITORS BOX (DRY) TYPE",
+   "price_pkr": 42000,
+   "specs": {
+    "series": "ZnPS",
+    "rating": "25 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZNPP",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZNPP 5 KVAR 440 VAC",
+   "price_pkr": 15000,
+   "specs": {
+    "series": "ZNPP",
+    "rating": "5 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZNPP",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZNPP 7.5 KVAR 440 VAC",
+   "price_pkr": 20500,
+   "specs": {
+    "series": "ZNPP",
+    "rating": "7.5 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZNPP",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZNPP 12.5 KVAR 440 VAC",
+   "price_pkr": 26500,
+   "specs": {
+    "series": "ZNPP",
+    "rating": "12.5 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZNPP",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZNPP 25 KVAR 440 VAC",
+   "price_pkr": 44000,
+   "specs": {
+    "series": "ZNPP",
+    "rating": "25 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "LV CAPACITORS CYLINDRICAL (DRY) TYPE",
+   "model": "ZNPP",
+   "description": "LV CAPACITORS CYLINDRICAL (DRY) TYPE - ZNPP 50 KVAR 440 VAC",
+   "price_pkr": 85000,
+   "specs": {
+    "series": "ZNPP",
+    "rating": "50 KVAR",
+    "voltage": "440 VAC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "AT Electricals",
+   "section": "POWER FACTOR CONTROLLER",
+   "model": "VarKON 12-M",
+   "description": "POWER FACTOR CONTROLLER - VarKON 12-M 12-Steps",
+   "price_pkr": 90000,
+   "specs": {
+    "series": "VarKON",
+    "steps": "12-Steps"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "2-POLE CHANGEOVER SWITCHES",
+   "model": "YPT205032",
+   "description": "2-POLE CHANGEOVER SWITCHES - YPT205032 2-POLE CHANGE-OVER (1-0-2) - 32A",
+   "price_pkr": 5500,
+   "specs": {
+    "series": "YPT",
+    "rating": "32A",
+    "poles": "2P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "2-POLE CHANGEOVER SWITCHES",
+   "model": "YPT205050",
+   "description": "2-POLE CHANGEOVER SWITCHES - YPT205050 2-POLE CHANGE-OVER (1-0-2) - 50A",
+   "price_pkr": 6500,
+   "specs": {
+    "series": "YPT",
+    "rating": "50A",
+    "poles": "2P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "2-POLE CHANGEOVER SWITCHES",
+   "model": "YPT205063",
+   "description": "2-POLE CHANGEOVER SWITCHES - YPT205063 2-POLE CHANGE-OVER (1-0-2) - 63A",
+   "price_pkr": 7900,
+   "specs": {
+    "series": "YPT",
+    "rating": "63A",
+    "poles": "2P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "2-POLE CHANGEOVER SWITCHES",
+   "model": "YPT205080",
+   "description": "2-POLE CHANGEOVER SWITCHES - YPT205080 2-POLE CHANGE-OVER (1-0-2) - 80A",
+   "price_pkr": 10000,
+   "specs": {
+    "series": "YPT",
+    "rating": "80A",
+    "poles": "2P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "2-POLE CHANGEOVER SWITCHES",
+   "model": "YPT205100",
+   "description": "2-POLE CHANGEOVER SWITCHES - YPT205100 2-POLE CHANGE-OVER (1-0-2) - 100A",
+   "price_pkr": 17500,
+   "specs": {
+    "series": "YPT",
+    "rating": "100A",
+    "poles": "2P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "3-POLE CHANGEOVER SWITCHES",
+   "model": "YPT305032",
+   "description": "3-POLE CHANGEOVER SWITCHES - YPT305032 3-POLE CHANGE-OVER (1-0-2) - 32A",
+   "price_pkr": 6800,
+   "specs": {
+    "series": "YPT",
+    "rating": "32A",
+    "poles": "3P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "3-POLE CHANGEOVER SWITCHES",
+   "model": "YPT305050",
+   "description": "3-POLE CHANGEOVER SWITCHES - YPT305050 3-POLE CHANGE-OVER (1-0-2) - 50A",
+   "price_pkr": 9300,
+   "specs": {
+    "series": "YPT",
+    "rating": "50A",
+    "poles": "3P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "3-POLE CHANGEOVER SWITCHES",
+   "model": "YPT305063",
+   "description": "3-POLE CHANGEOVER SWITCHES - YPT305063 3-POLE CHANGE-OVER (1-0-2) - 63A",
+   "price_pkr": 10700,
+   "specs": {
+    "series": "YPT",
+    "rating": "63A",
+    "poles": "3P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405032",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405032 4-POLE CHANGE-OVER (1-0-2) - 32A",
+   "price_pkr": 8500,
+   "specs": {
+    "series": "YPT",
+    "rating": "32A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405050",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405050 4-POLE CHANGE-OVER (1-0-2) - 50A",
+   "price_pkr": 11000,
+   "specs": {
+    "series": "YPT",
+    "rating": "50A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405063",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405063 4-POLE CHANGE-OVER (1-0-2) - 63A",
+   "price_pkr": 12700,
+   "specs": {
+    "series": "YPT",
+    "rating": "63A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405080",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405080 4-POLE CHANGE-OVER (1-0-2) - 80A",
+   "price_pkr": 14500,
+   "specs": {
+    "series": "YPT",
+    "rating": "80A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405100",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405100 4-POLE CHANGE-OVER (1-0-2) - 100A",
+   "price_pkr": 29000,
+   "specs": {
+    "series": "YPT",
+    "rating": "100A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405125",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405125 4-POLE CHANGE-OVER (1-0-2) - 125A",
+   "price_pkr": 34000,
+   "specs": {
+    "series": "YPT",
+    "rating": "125A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405160",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405160 4-POLE CHANGE-OVER (1-0-2) - 160A",
+   "price_pkr": 42000,
+   "specs": {
+    "series": "YPT",
+    "rating": "160A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405200",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405200 4-POLE CHANGE-OVER (1-0-2) - 200A",
+   "price_pkr": 50000,
+   "specs": {
+    "series": "YPT",
+    "rating": "200A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405250",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405250 4-POLE CHANGE-OVER (1-0-2) - 250A",
+   "price_pkr": 58000,
+   "specs": {
+    "series": "YPT",
+    "rating": "250A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "AT Electricals",
+   "section": "4-POLE CHANGEOVER SWITCHES",
+   "model": "YPT405315",
+   "description": "4-POLE CHANGEOVER SWITCHES - YPT405315 4-POLE CHANGE-OVER (1-0-2) - 315A",
+   "price_pkr": 73000,
+   "specs": {
+    "series": "YPT",
+    "rating": "315A",
+    "poles": "4P"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "YPT114032",
+   "description": "PHASE SELECTOR SWITCHES - YPT114032 4-POSITION PHASE SELECTOR - 32A SWITCH(0-1-2-3-4)",
+   "price_pkr": 6200,
+   "specs": {
+    "series": "YPT",
+    "rating": "32A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "YPT114050",
+   "description": "PHASE SELECTOR SWITCHES - YPT114050 4-POSITION PHASE SELECTOR - 50A SWITCH(0-1-2-3-4)",
+   "price_pkr": 7400,
+   "specs": {
+    "series": "YPT",
+    "rating": "50A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "YPT114063",
+   "description": "PHASE SELECTOR SWITCHES - YPT114063 4-POSITION PHASE SELECTOR - 63A SWITCH(0-1-2-3-4)",
+   "price_pkr": 8500,
+   "specs": {
+    "series": "YPT",
+    "rating": "63A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "YPT114080",
+   "description": "PHASE SELECTOR SWITCHES - YPT114080 4-POSITION PHASE SELECTOR - 80A SWITCH(0-1-2-3-4)",
+   "price_pkr": 10500,
+   "specs": {
+    "series": "YPT",
+    "rating": "80A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "YPT114100",
+   "description": "PHASE SELECTOR SWITCHES - YPT114100 4-POSITION PHASE SELECTOR - 100A SWITCH(0-1-2-3-4)",
+   "price_pkr": 19500,
+   "specs": {
+    "series": "YPT",
+    "rating": "100A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "YPT114125",
+   "description": "PHASE SELECTOR SWITCHES - YPT114125 4-POSITION PHASE SELECTOR - 125A SWITCH(0-1-2-3-4)",
+   "price_pkr": 25000,
+   "specs": {
+    "series": "YPT",
+    "rating": "125A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "NEUTRAL CUT",
+   "model": "N.C",
+   "description": "NEUTRAL CUT - N.C 4-STEP SWITCH NEUTRAL CUT - 32A",
+   "price_pkr": 7500,
+   "specs": {
+    "series": "NEUTRAL CUT",
+    "rating": "32A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "NEUTRAL CUT",
+   "model": "N.C",
+   "description": "NEUTRAL CUT - N.C 4-STEP SWITCH NEUTRAL CUT - 50A",
+   "price_pkr": 9500,
+   "specs": {
+    "series": "NEUTRAL CUT",
+    "rating": "50A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PANEL FAN THERMOSTATES",
+   "model": "HOT",
+   "description": "PANEL FAN THERMOSTATES - HOT",
+   "price_pkr": 2000,
+   "specs": {
+    "series": "PANEL FAN THERMOSTATES"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "PANEL FAN THERMOSTATES",
+   "model": "COLD",
+   "description": "PANEL FAN THERMOSTATES - COLD",
+   "price_pkr": 2000,
+   "specs": {
+    "series": "PANEL FAN THERMOSTATES"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "VOLT/AMPERE & CAM SWITCHES",
+   "model": "YPT105010",
+   "description": "VOLT/AMPERE & CAM SWITCHES - YPT105010 1-POLE CHANGE-OVER (MAIN-OFF-AUTO) - 10A",
+   "price_pkr": 2200,
+   "specs": {
+    "series": "YPT",
+    "rating": "10A",
+    "poles": "1P"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "VOLT/AMPERE & CAM SWITCHES",
+   "model": "YPT3V6M20",
+   "description": "VOLT/AMPERE & CAM SWITCHES - YPT3V6M20 7-POSITION VOLT METER - 16A (RS,ST,TR,O,RN,SN,TN)",
+   "price_pkr": 2700,
+   "specs": {
+    "series": "YPT",
+    "rating": "16A"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "AT Electricals",
+   "section": "VOLT/AMPERE & CAM SWITCHES",
+   "model": "YPT3A2M20",
+   "description": "VOLT/AMPERE & CAM SWITCHES - YPT3A2M20 4-POSITION AMPERE METER (O,T,R,S) - 16A",
+   "price_pkr": 2700,
+   "specs": {
+    "series": "YPT",
+    "rating": "16A"
+   }
+  }
+ ],
+ "skipped": [],
+ "stats": {
+  "pages": 13,
+  "rows": 95,
+  "priced": 95,
+  "skipped": 0
+ }
+}

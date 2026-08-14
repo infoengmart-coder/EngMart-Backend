@@ -1,35 +1,103 @@
-from rest_framework import generics
+from rest_framework import generics, status
 from rest_framework.response import Response
+from django.db.models import Count, Q
+
+from apps.common.cache import CachedListMixin, CachedRetrieveMixin, InvalidatesCatalogMixin
+from apps.common.permissions import IsAdminOrReadOnly
 from .models import Category
-from .serializers import CategoryListSerializer, CategoryDetailSerializer
+from .serializers import (
+    CategoryListSerializer,
+    CategoryDetailSerializer,
+    CategoryWriteSerializer,
+)
 
 
-class CategoryListView(generics.ListAPIView):
+def _wants_all(request):
+    """Admin flag: ?all=true returns every category (incl. inactive & children)."""
+    v = request.query_params.get('all')
+    if not v or v.lower() not in ['1', 'true', 'yes']:
+        return False
+    # Staff-only: this branch exposes inactive rows that the storefront hides.
+    user = request.user
+    return bool(user and user.is_authenticated and user.is_staff)
+
+
+class CategoryListView(CachedListMixin, InvalidatesCatalogMixin, generics.ListCreateAPIView):
     """
-    GET /api/categories/
-    Returns all top-level categories with their children.
+    GET /api/categories/ — Top-level categories with children (public).
+    GET /api/categories/?all=true — Flat list of ALL categories (admin).
+    POST /api/categories/ — Create a category (admin only).
     """
-    serializer_class = CategoryListSerializer
+    permission_classes = [IsAdminOrReadOnly]
+    pagination_class = None  # Return all categories (small list)
+
+    def get_serializer_class(self):
+        if self.request.method == 'POST' or _wants_all(self.request):
+            return CategoryWriteSerializer
+        return CategoryListSerializer
 
     def get_queryset(self):
+        if _wants_all(self.request):
+            # Annotate the count in one query — the recursive product_count
+            # property would otherwise fire a COUNT per category (N+1).
+            return (
+                Category.objects.all()
+                .select_related('parent')
+                .annotate(num_products=Count('products', filter=Q(products__is_active=True)))
+                .order_by('order', 'name')
+            )
         return Category.objects.filter(
             is_active=True,
             parent__isnull=True,
+        ).annotate(
+            num_products=Count('products', filter=Q(products__is_active=True))
         ).prefetch_related('children')
 
 
-class CategoryDetailView(generics.RetrieveAPIView):
+class CategoryDetailView(CachedRetrieveMixin, InvalidatesCatalogMixin, generics.RetrieveUpdateDestroyAPIView):
     """
-    GET /api/categories/{slug}/
-    Returns a single category with full detail.
+    GET /api/categories/{slug}/ — Category detail (public).
+    PATCH/PUT /api/categories/{slug}/ — Update category (admin only).
+    DELETE /api/categories/{slug}/ — Delete category (admin only, blocked if it has products).
     """
-    serializer_class = CategoryDetailSerializer
+    permission_classes = [IsAdminOrReadOnly]
     lookup_field = 'slug'
 
+    def get_serializer_class(self):
+        if self.request.method in ['PUT', 'PATCH']:
+            return CategoryWriteSerializer
+        return CategoryDetailSerializer
+
     def get_queryset(self):
-        return Category.objects.filter(
-            is_active=True,
-        ).prefetch_related('children')
+        qs = Category.objects.all().prefetch_related('children')
+        # Public reads only see active categories; admin writes can target any.
+        if self.request.method == 'GET':
+            qs = qs.filter(is_active=True)
+        return qs
+
+    def destroy(self, request, *args, **kwargs):
+        category = self.get_object()
+        # Product.category is on_delete=CASCADE, so refuse to delete a category
+        # that still has products — deleting it would wipe those products.
+        product_count = category.products.count()
+        if product_count:
+            return Response(
+                {'detail': (
+                    f'Cannot delete "{category.name}" — it still has {product_count} '
+                    f'product(s). Reassign or remove those products first.'
+                )},
+                status=status.HTTP_409_CONFLICT,
+            )
+        child_count = category.children.count()
+        if child_count:
+            return Response(
+                {'detail': (
+                    f'Cannot delete "{category.name}" — it has {child_count} '
+                    f'subcategory(ies). Remove or reassign them first.'
+                )},
+                status=status.HTTP_409_CONFLICT,
+            )
+        return super().destroy(request, *args, **kwargs)
 
 
 class CategoryProductsView(generics.ListAPIView):

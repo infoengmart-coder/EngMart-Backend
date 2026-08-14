@@ -78,27 +78,32 @@ class Product(models.Model):
 
     @property
     def price_range(self):
-        """Return min/max price from variants for display."""
-        prices = self.variants.filter(
-            is_active=True,
-            price__isnull=False,
-            price_on_request=False,
-        ).values_list('price', flat=True)
+        """
+        Return min/max price from variants for display.
+
+        Iterates ``self.variants.all()`` rather than issuing a ``.filter()`` so
+        that a caller which already did ``prefetch_related('variants')`` reuses
+        that cache. Using .filter() here cost one extra query per product — on a
+        24-item listing page that was 24 round-trips to a remote database.
+        """
+        prices = [
+            v.price for v in self.variants.all()
+            if v.is_active and v.price is not None and not v.price_on_request
+        ]
         if not prices:
             return None
-        price_list = list(prices)
         return {
-            'min': min(price_list),
-            'max': max(price_list),
+            'min': min(prices),
+            'max': max(prices),
         }
 
     @property
     def has_price_on_request(self):
-        """Check if any variant is price-on-request."""
-        return self.variants.filter(
-            is_active=True,
-            price_on_request=True,
-        ).exists()
+        """Check if any variant is price-on-request (uses the prefetch cache)."""
+        return any(
+            v.is_active and v.price_on_request
+            for v in self.variants.all()
+        )
 
 
 class ProductVariant(models.Model):

@@ -1,0 +1,6626 @@
+{
+ "source_pdf": "FICO LIST.pdf",
+ "rows": [
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-20S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-20S | Window Size 20mm | 30/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 600,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Window Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-20S",
+    "model_as_printed": "ELC - 20S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-20S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-20S | Window Size 20mm | 60/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 600,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Window Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-20S",
+    "model_as_printed": "ELC - 20S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30S | Max Bar Size 30x10 / Max Cable Size 20mm | 30/5A | class 1, va 2.5, p-turn 4",
+   "price_pkr": 530,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "4",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-30S",
+    "model_as_printed": "ELC - 30S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30S | Max Bar Size 30x10 / Max Cable Size 20mm | 50/5A | class 1, va 2.5, p-turn 2",
+   "price_pkr": 530,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "2",
+    "ratio": "50/5A",
+    "rating": "50A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-30S",
+    "model_as_printed": "ELC - 30S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30S | Max Bar Size 30x10 / Max Cable Size 20mm | 60/5A | class 1, va 2.5, p-turn 2",
+   "price_pkr": 530,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "2",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-30S",
+    "model_as_printed": "ELC - 30S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30S | Max Bar Size 30x10 / Max Cable Size 20mm | 100/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 530,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-30S",
+    "model_as_printed": "ELC - 30S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30S | Max Bar Size 30x10 / Max Cable Size 20mm | 150/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 530,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-30S",
+    "model_as_printed": "ELC - 30S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30S | Max Bar Size 30x10 / Max Cable Size 20mm | 200/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 530,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-30S",
+    "model_as_printed": "ELC - 30S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30S | Max Bar Size 30x10 / Max Cable Size 20mm | 300/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 630,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 20mm",
+    "secondary_current": "5A",
+    "series": "ELC-30S",
+    "model_as_printed": "ELC - 30S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 30/5A | class 1, va 2.5, p-turn 4",
+   "price_pkr": 550,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "4",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 60/5A | class 1, va 2.5, p-turn 2",
+   "price_pkr": 550,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "2",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 75/5A | class 1, va 2.5, p-turn 2",
+   "price_pkr": 550,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "2",
+    "ratio": "75/5A",
+    "rating": "75A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 100/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 550,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 150/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 550,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 200/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 590,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 250/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 590,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "250/5A",
+    "rating": "250A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 300/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 630,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40S",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40S | Max Bar Size 40x10mm / Max Cable Size 30mm | 400/5A | class 1, va 2.5, p-turn 1",
+   "price_pkr": 670,
+   "specs": {
+    "class": "1",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Max Bar Size 40x10mm / Max Cable Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-40S",
+    "model_as_printed": "ELC - 40S"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30 | Window Size 30mm | 30/5A | class 1, va 5, p-turn 4",
+   "price_pkr": 830,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "4",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-30",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30 | Window Size 30mm | 50/5A | class 1, va 5, p-turn 2",
+   "price_pkr": 830,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "2",
+    "ratio": "50/5A",
+    "rating": "50A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-30",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30 | Window Size 30mm | 60/5A | class 1, va 5, p-turn 2",
+   "price_pkr": 830,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "2",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-30",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30 | Window Size 30mm | 100/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 830,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-30",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30 | Window Size 30mm | 150/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 830,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-30",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30 | Window Size 30mm | 200/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 900,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-30",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-30",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-30 | Window Size 30mm | 300/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 930,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "ELC-30",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 30/5A | class 1, va 5, p-turn 4",
+   "price_pkr": 850,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "4",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 50/5A | class 1, va 5, p-turn 2",
+   "price_pkr": 850,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "2",
+    "ratio": "50/5A",
+    "rating": "50A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 60/5A | class 1, va 5, p-turn 2",
+   "price_pkr": 850,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "2",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 100/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 850,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 150/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 910,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 200/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 910,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 250/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 910,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "250/5A",
+    "rating": "250A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 300/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 980,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-40",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-40 | Max Bar Size 30x10 | 400/5A | class 1, va 5, p-turn 1",
+   "price_pkr": 980,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Max Bar Size 30x10",
+    "secondary_current": "5A",
+    "series": "ELC-40",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-60",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-60 | Max Bar Size 60x10mm | 600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1260,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Max Bar Size 60x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-60",
+    "model_as_printed": "ELC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-60",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-60 | Max Bar Size 60x10mm | 800/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1360,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Max Bar Size 60x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-60",
+    "model_as_printed": "ELC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-60",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-60 | Max Bar Size 60x10mm | 1000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1400,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Max Bar Size 60x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-60",
+    "model_as_printed": "ELC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-60",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-60 | Max Bar Size 60x10mm | 1200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1500,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Max Bar Size 60x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-60",
+    "model_as_printed": "ELC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-80",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-80 | Max Bar Size 80x10mm | 800/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1450,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Max Bar Size 80x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-80",
+    "model_as_printed": "ELC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-80",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-80 | Max Bar Size 80x10mm | 1000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1500,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Max Bar Size 80x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-80",
+    "model_as_printed": "ELC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-80",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-80 | Max Bar Size 80x10mm | 1200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1700,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Max Bar Size 80x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-80",
+    "model_as_printed": "ELC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-80",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-80 | Max Bar Size 80x10mm | 1600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 2000,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "Max Bar Size 80x10mm",
+    "secondary_current": "5A",
+    "series": "ELC-80",
+    "model_as_printed": "ELC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-100",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-100 | Max Bar Size 100x20 | 1000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1870,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Max Bar Size 100x20",
+    "secondary_current": "5A",
+    "series": "ELC-100",
+    "model_as_printed": "ELC - 100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-100",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-100 | Max Bar Size 100x20 | 1200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1990,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Max Bar Size 100x20",
+    "secondary_current": "5A",
+    "series": "ELC-100",
+    "model_as_printed": "ELC - 100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-100",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-100 | Max Bar Size 100x20 | 1600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 2300,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "Max Bar Size 100x20",
+    "secondary_current": "5A",
+    "series": "ELC-100",
+    "model_as_printed": "ELC - 100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-100",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-100 | Max Bar Size 100x20 | 2000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 2550,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "Max Bar Size 100x20",
+    "secondary_current": "5A",
+    "series": "ELC-100",
+    "model_as_printed": "ELC - 100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-100",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-100 | Max Bar Size 100x20 | 2500/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 2850,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "2500/5A",
+    "rating": "2500A",
+    "size": "Max Bar Size 100x20",
+    "secondary_current": "5A",
+    "series": "ELC-100",
+    "model_as_printed": "ELC - 100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-100",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-100 | Max Bar Size 100x20 | 3000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 3700,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "Max Bar Size 100x20",
+    "secondary_current": "5A",
+    "series": "ELC-100",
+    "model_as_printed": "ELC - 100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ELC (ECONOMICAL CLASS)",
+   "model": "ELC-100",
+   "description": "ELC (ECONOMICAL CLASS) | Type: ELC-100 | Max Bar Size 100x20 | 3200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 3700,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "3200/5A",
+    "rating": "3200A",
+    "size": "Max Bar Size 100x20",
+    "secondary_current": "5A",
+    "series": "ELC-100",
+    "model_as_printed": "ELC - 100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-30",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-30 | Window Size 30mmX26.3mm | 30/5A | class 0.5, p-turn 1",
+   "price_pkr": 1100,
+   "specs": {
+    "class": "0.5",
+    "p_turn": "1",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Window Size 30mmX26.3mm",
+    "secondary_current": "5A",
+    "series": "ILC-30",
+    "model_as_printed": "ILC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-30",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-30 | Window Size 30mmX26.3mm | 60/5A | class 0.5, va 1.0, p-turn 1",
+   "price_pkr": 1100,
+   "specs": {
+    "class": "0.5",
+    "va": "1.0",
+    "p_turn": "1",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Window Size 30mmX26.3mm",
+    "secondary_current": "5A",
+    "series": "ILC-30",
+    "model_as_printed": "ILC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-30",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-30 | Window Size 30mmX26.3mm | 100/5A | class 0.5, va 1.5, p-turn 1",
+   "price_pkr": 1100,
+   "specs": {
+    "class": "0.5",
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Window Size 30mmX26.3mm",
+    "secondary_current": "5A",
+    "series": "ILC-30",
+    "model_as_printed": "ILC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-40",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-40 | Window Size 40.3mmx31mm | 30/5A | class 0.5, p-turn 1",
+   "price_pkr": 1150,
+   "specs": {
+    "class": "0.5",
+    "p_turn": "1",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Window Size 40.3mmx31mm",
+    "secondary_current": "5A",
+    "series": "ILC-40",
+    "model_as_printed": "ILC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-40",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-40 | Window Size 40.3mmx31mm | 60/5A | class 0.5, va 0.5, p-turn 1",
+   "price_pkr": 1150,
+   "specs": {
+    "class": "0.5",
+    "va": "0.5",
+    "p_turn": "1",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Window Size 40.3mmx31mm",
+    "secondary_current": "5A",
+    "series": "ILC-40",
+    "model_as_printed": "ILC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-40",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-40 | Window Size 40.3mmx31mm | 100/5A | class 0.5, va 1, p-turn 1",
+   "price_pkr": 1200,
+   "specs": {
+    "class": "0.5",
+    "va": "1",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Window Size 40.3mmx31mm",
+    "secondary_current": "5A",
+    "series": "ILC-40",
+    "model_as_printed": "ILC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-40",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-40 | Window Size 40.3mmx31mm | 150/5A - 200/5A | class 0.5, va 2.5, p-turn 1",
+   "price_pkr": 1250,
+   "specs": {
+    "class": "0.5",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "150/5A - 200/5A",
+    "rating": "150-200A",
+    "size": "Window Size 40.3mmx31mm",
+    "secondary_current": "5A",
+    "series": "ILC-40",
+    "model_as_printed": "ILC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-40",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-40 | Window Size 40.3mmx31mm | 300/5A | class 0.5, va 2.5, p-turn 1",
+   "price_pkr": 1300,
+   "specs": {
+    "class": "0.5",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Window Size 40.3mmx31mm",
+    "secondary_current": "5A",
+    "series": "ILC-40",
+    "model_as_printed": "ILC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-40",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-40 | Window Size 40.3mmx31mm | 400/5A | class 0.5, va 2.5, p-turn 1",
+   "price_pkr": 1300,
+   "specs": {
+    "class": "0.5",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Window Size 40.3mmx31mm",
+    "secondary_current": "5A",
+    "series": "ILC-40",
+    "model_as_printed": "ILC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-60",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-60 | Window Size 60.5mmX50.5mm | 100/5A | class 0.5, va 1, p-turn 1",
+   "price_pkr": 1250,
+   "specs": {
+    "class": "0.5",
+    "va": "1",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Window Size 60.5mmX50.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-60",
+    "model_as_printed": "ILC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-60",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-60 | Window Size 60.5mmX50.5mm | 200/5A | class 0.5, va 1.5, p-turn 1",
+   "price_pkr": 1350,
+   "specs": {
+    "class": "0.5",
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Window Size 60.5mmX50.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-60",
+    "model_as_printed": "ILC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-60",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-60 | Window Size 60.5mmX50.5mm | 300/5A | class 0.5, va 2.75, p-turn 1",
+   "price_pkr": 1400,
+   "specs": {
+    "class": "0.5",
+    "va": "2.75",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Window Size 60.5mmX50.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-60",
+    "model_as_printed": "ILC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-60",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-60 | Window Size 60.5mmX50.5mm | 400/5A | class 0.5, va 5, p-turn 1",
+   "price_pkr": 1470,
+   "specs": {
+    "class": "0.5",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Window Size 60.5mmX50.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-60",
+    "model_as_printed": "ILC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-60",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-60 | Window Size 60.5mmX50.5mm | 600/5A | class 0.5, va 7.5, p-turn 1",
+   "price_pkr": 1570,
+   "specs": {
+    "class": "0.5",
+    "va": "7.5",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 60.5mmX50.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-60",
+    "model_as_printed": "ILC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-60",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-60 | Window Size 60.5mmX50.5mm | 800/5A | class 0.5, va 10, p-turn 1",
+   "price_pkr": 1600,
+   "specs": {
+    "class": "0.5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Window Size 60.5mmX50.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-60",
+    "model_as_printed": "ILC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-80",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-80 | Window Size 81mmX65mm | 200/5A | class 0.5, va 1.5, p-turn 1",
+   "price_pkr": 1750,
+   "specs": {
+    "class": "0.5",
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Window Size 81mmX65mm",
+    "secondary_current": "5A",
+    "series": "ILC-80",
+    "model_as_printed": "ILC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-80",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-80 | Window Size 81mmX65mm | 300/5A | class 0.5, va 2.75, p-turn 1",
+   "price_pkr": 1900,
+   "specs": {
+    "class": "0.5",
+    "va": "2.75",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Window Size 81mmX65mm",
+    "secondary_current": "5A",
+    "series": "ILC-80",
+    "model_as_printed": "ILC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-80",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-80 | Window Size 81mmX65mm | 400/5A | class 0.5, va 5, p-turn 1",
+   "price_pkr": 2050,
+   "specs": {
+    "class": "0.5",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Window Size 81mmX65mm",
+    "secondary_current": "5A",
+    "series": "ILC-80",
+    "model_as_printed": "ILC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-80",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-80 | Window Size 81mmX65mm | 600/5A | class 0.5, va 7.5, p-turn 1",
+   "price_pkr": 2100,
+   "specs": {
+    "class": "0.5",
+    "va": "7.5",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 81mmX65mm",
+    "secondary_current": "5A",
+    "series": "ILC-80",
+    "model_as_printed": "ILC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-80",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-80 | Window Size 81mmX65mm | 800/5A | class 0.5, va 10, p-turn 1",
+   "price_pkr": 2300,
+   "specs": {
+    "class": "0.5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Window Size 81mmX65mm",
+    "secondary_current": "5A",
+    "series": "ILC-80",
+    "model_as_printed": "ILC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-80",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-80 | Window Size 81mmX65mm | 1000/5A | class 0.5, va 9.0, p-turn 1",
+   "price_pkr": 2350,
+   "specs": {
+    "class": "0.5",
+    "va": "9.0",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Window Size 81mmX65mm",
+    "secondary_current": "5A",
+    "series": "ILC-80",
+    "model_as_printed": "ILC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-80",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-80 | Window Size 81mmX65mm | 1200/5A | class 0.5, va 12.5, p-turn 1",
+   "price_pkr": 2450,
+   "specs": {
+    "class": "0.5",
+    "va": "12.5",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Window Size 81mmX65mm",
+    "secondary_current": "5A",
+    "series": "ILC-80",
+    "model_as_printed": "ILC - 80"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-100",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-100 | Window Size 100mmX85.5mm | 1000/5A | class 0.5, va 10, p-turn 1",
+   "price_pkr": 2500,
+   "specs": {
+    "class": "0.5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Window Size 100mmX85.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-100",
+    "model_as_printed": "ILC -100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-100",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-100 | Window Size 100mmX85.5mm | 1200/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 2900,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Window Size 100mmX85.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-100",
+    "model_as_printed": "ILC -100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-100",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-100 | Window Size 100mmX85.5mm | 1600/5A | class 0.5, va 20, p-turn 1",
+   "price_pkr": 3250,
+   "specs": {
+    "class": "0.5",
+    "va": "20",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "Window Size 100mmX85.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-100",
+    "model_as_printed": "ILC -100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-100",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-100 | Window Size 100mmX85.5mm | 2000/5A | class 0.5, va 20, p-turn 1",
+   "price_pkr": 3600,
+   "specs": {
+    "class": "0.5",
+    "va": "20",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "Window Size 100mmX85.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-100",
+    "model_as_printed": "ILC -100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "ILC (INNOVATIVE CLASS)",
+   "model": "ILC-100",
+   "description": "ILC (INNOVATIVE CLASS) | Type: ILC-100 | Window Size 100mmX85.5mm | 2500/5A | class 0.5, va 20, p-turn 1",
+   "price_pkr": 4600,
+   "specs": {
+    "class": "0.5",
+    "va": "20",
+    "p_turn": "1",
+    "ratio": "2500/5A",
+    "rating": "2500A",
+    "size": "Window Size 100mmX85.5mm",
+    "secondary_current": "5A",
+    "series": "ILC-100",
+    "model_as_printed": "ILC -100"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-30",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-30 | Max Bar Size 30x10 / Max Cable Size 30mm | 30/1A | class 1, va 5, p-turn 1",
+   "price_pkr": 1300,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "30/1A",
+    "rating": "30A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 30mm",
+    "secondary_current": "1A",
+    "series": "ELC-30 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-30",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-30 | Max Bar Size 30x10 / Max Cable Size 30mm | 60/1A | class 1, va 5, p-turn 1",
+   "price_pkr": 1300,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "60/1A",
+    "rating": "60A",
+    "size": "Max Bar Size 30x10 / Max Cable Size 30mm",
+    "secondary_current": "1A",
+    "series": "ELC-30 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 30"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-40",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-40 | Max Bar Size 40x10mm/Max Cable Size 30mm | 300/1A | class 1, va 5, p-turn 1",
+   "price_pkr": 1350,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "300/1A",
+    "rating": "300A",
+    "size": "Max Bar Size 40x10mm/Max Cable Size 30mm",
+    "secondary_current": "1A",
+    "series": "ELC-40 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-40",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-40 | Max Bar Size 40x10mm/Max Cable Size 30mm | 400/1A | class 1, va 5, p-turn 1",
+   "price_pkr": 1500,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "400/1A",
+    "rating": "400A",
+    "size": "Max Bar Size 40x10mm/Max Cable Size 30mm",
+    "secondary_current": "1A",
+    "series": "ELC-40 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-40",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-40 | Max Bar Size 40x10mm/Max Cable Size 30mm | 600/1A | class 1, va 5, p-turn 1",
+   "price_pkr": 1750,
+   "specs": {
+    "class": "1",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "600/1A",
+    "rating": "600A",
+    "size": "Max Bar Size 40x10mm/Max Cable Size 30mm",
+    "secondary_current": "1A",
+    "series": "ELC-40 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 40"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-60",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-60 | Max Bar Size 60x10mm | 800/1A | class 0.5/1, va 10, p-turn 1",
+   "price_pkr": 1850,
+   "specs": {
+    "class": "0.5/1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "800/1A",
+    "rating": "800A",
+    "size": "Max Bar Size 60x10mm",
+    "secondary_current": "1A",
+    "series": "ELC-60 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-60",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-60 | Max Bar Size 60x10mm | 1000/1A | class 0.5/1, va 10, p-turn 1",
+   "price_pkr": 2000,
+   "specs": {
+    "class": "0.5/1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/1A",
+    "rating": "1000A",
+    "size": "Max Bar Size 60x10mm",
+    "secondary_current": "1A",
+    "series": "ELC-60 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 60"
+   }
+  },
+  {
+   "page": 3,
+   "brand": "FICO",
+   "section": "CT WITH SECONDARY CURRENT - 1 AMP",
+   "model": "ELC-60",
+   "description": "CT WITH SECONDARY CURRENT - 1 AMP | Type: ELC-60 | Max Bar Size 60x10mm | 1200/1A | class 0.5/1, va 10, p-turn 1",
+   "price_pkr": 2200,
+   "specs": {
+    "class": "0.5/1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/1A",
+    "rating": "1200A",
+    "size": "Max Bar Size 60x10mm",
+    "secondary_current": "1A",
+    "series": "ELC-60 (SECONDARY 1A)",
+    "model_as_printed": "ELC - 60"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 30/5A | class 1, va 15, p-turn 4",
+   "price_pkr": 1050,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "4",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 50/5A | class 1, va 15, p-turn 2",
+   "price_pkr": 1050,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "2",
+    "ratio": "50/5A",
+    "rating": "50A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 60/5A | class 1, va 15, p-turn 2",
+   "price_pkr": 1050,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "2",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 100/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1050,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 150/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1100,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 200/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1150,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 250/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1200,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "250/5A",
+    "rating": "250A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-30",
+   "description": "RLC SERIES | Type: RLC-30 | Window Size 30mm | 300/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1250,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "RLC-30",
+    "model_as_printed": "RLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-50",
+   "description": "RLC SERIES | Type: RLC-50 | Window Size 50 | 400/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1250,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Window Size 50",
+    "secondary_current": "5A",
+    "series": "RLC-50",
+    "model_as_printed": "RLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-50",
+   "description": "RLC SERIES | Type: RLC-50 | Window Size 50 | 500/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1400,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "500/5A",
+    "rating": "500A",
+    "size": "Window Size 50",
+    "secondary_current": "5A",
+    "series": "RLC-50",
+    "model_as_printed": "RLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-50",
+   "description": "RLC SERIES | Type: RLC-50 | Window Size 50 | 600/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1700,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 50",
+    "secondary_current": "5A",
+    "series": "RLC-50",
+    "model_as_printed": "RLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-65",
+   "description": "RLC SERIES | Type: RLC-65 | Window Size 65mm | 400/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1600,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "RLC-65",
+    "model_as_printed": "RLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-65",
+   "description": "RLC SERIES | Type: RLC-65 | Window Size 65mm | 500/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1700,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "500/5A",
+    "rating": "500A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "RLC-65",
+    "model_as_printed": "RLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-65",
+   "description": "RLC SERIES | Type: RLC-65 | Window Size 65mm | 600/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1750,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "RLC-65",
+    "model_as_printed": "RLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-65",
+   "description": "RLC SERIES | Type: RLC-65 | Window Size 65mm | 800/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 2100,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "RLC-65",
+    "model_as_printed": "RLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-65",
+   "description": "RLC SERIES | Type: RLC-65 | Window Size 65mm | 1000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 2250,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "RLC-65",
+    "model_as_printed": "RLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-65",
+   "description": "RLC SERIES | Type: RLC-65 | Window Size 65mm | 1200/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 2350,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "RLC-65",
+    "model_as_printed": "RLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-80",
+   "description": "RLC SERIES | Type: RLC-80 | Window Size 80x50mm | 600/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 1850,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 80x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-80",
+    "model_as_printed": "RLC - 80"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-80",
+   "description": "RLC SERIES | Type: RLC-80 | Window Size 80x50mm | 800/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 2250,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Window Size 80x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-80",
+    "model_as_printed": "RLC - 80"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-80",
+   "description": "RLC SERIES | Type: RLC-80 | Window Size 80x50mm | 1000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 2400,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Window Size 80x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-80",
+    "model_as_printed": "RLC - 80"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-80",
+   "description": "RLC SERIES | Type: RLC-80 | Window Size 80x50mm | 1200/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 2600,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Window Size 80x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-80",
+    "model_as_printed": "RLC - 80"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-80",
+   "description": "RLC SERIES | Type: RLC-80 | Window Size 80x50mm | 1600/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 2950,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "Window Size 80x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-80",
+    "model_as_printed": "RLC - 80"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-80",
+   "description": "RLC SERIES | Type: RLC-80 | Window Size 80x50mm | 2000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 3350,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "Window Size 80x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-80",
+    "model_as_printed": "RLC - 80"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Windo Size 125x50mm | 1200/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 3350,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Windo Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Windo Size 125x50mm | 1600/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 3550,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "Windo Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Windo Size 125x50mm | 2000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 3750,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "Windo Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Max Bar Size 125x50 | 2500/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 4500,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "2500/5A",
+    "rating": "2500A",
+    "size": "Max Bar Size 125x50",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Max Bar Size 125x50 | 3000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 4800,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "Max Bar Size 125x50",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Max Bar Size 125x50 | 3200/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 5250,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3200/5A",
+    "rating": "3200A",
+    "size": "Max Bar Size 125x50",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Max Bar Size 125x50 | 3500/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 5800,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3500/5A",
+    "rating": "3500A",
+    "size": "Max Bar Size 125x50",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "RLC SERIES",
+   "model": "RLC-125",
+   "description": "RLC SERIES | Type: RLC-125 | Max Bar Size 125x50 | 4000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 6350,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "Max Bar Size 125x50",
+    "secondary_current": "5A",
+    "series": "RLC-125",
+    "model_as_printed": "RLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 30/5A | class 1, va 10, p-turn 4",
+   "price_pkr": 900,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "4",
+    "ratio": "30/5A",
+    "rating": "30A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 50/5A | class 1, va 10, p-turn 2",
+   "price_pkr": 900,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "2",
+    "ratio": "50/5A",
+    "rating": "50A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 60/5A | class 1, va 10, p-turn 2",
+   "price_pkr": 900,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "2",
+    "ratio": "60/5A",
+    "rating": "60A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 100/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 900,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 150/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 900,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 950,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 250/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1050,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "250/5A",
+    "rating": "250A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-30",
+   "description": "SLC SERIES | Type: SLC-30 | Window Size 30mm | 300/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1100,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "Window Size 30mm",
+    "secondary_current": "5A",
+    "series": "SLC-30",
+    "model_as_printed": "SLC - 30"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-40",
+   "description": "SLC SERIES | Type: SLC-40 | Window Size 40mm | 400/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1200,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Window Size 40mm",
+    "secondary_current": "5A",
+    "series": "SLC-40",
+    "model_as_printed": "SLC - 40"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-40",
+   "description": "SLC SERIES | Type: SLC-40 | Window Size 40mm | 500/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1250,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "500/5A",
+    "rating": "500A",
+    "size": "Window Size 40mm",
+    "secondary_current": "5A",
+    "series": "SLC-40",
+    "model_as_printed": "SLC - 40"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-40",
+   "description": "SLC SERIES | Type: SLC-40 | Window Size 40mm | 600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1350,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 40mm",
+    "secondary_current": "5A",
+    "series": "SLC-40",
+    "model_as_printed": "SLC - 40"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-50",
+   "description": "SLC SERIES | Type: SLC-50 | Window Size 50mm | 400/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1200,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "Window Size 50mm",
+    "secondary_current": "5A",
+    "series": "SLC-50",
+    "model_as_printed": "SLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-50",
+   "description": "SLC SERIES | Type: SLC-50 | Window Size 50mm | 500/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1350,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "500/5A",
+    "rating": "500A",
+    "size": "Window Size 50mm",
+    "secondary_current": "5A",
+    "series": "SLC-50",
+    "model_as_printed": "SLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-50",
+   "description": "SLC SERIES | Type: SLC-50 | Window Size 50mm | 600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1500,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 50mm",
+    "secondary_current": "5A",
+    "series": "SLC-50",
+    "model_as_printed": "SLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-50",
+   "description": "SLC SERIES | Type: SLC-50 | Window Size 50mm | 800/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1600,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Window Size 50mm",
+    "secondary_current": "5A",
+    "series": "SLC-50",
+    "model_as_printed": "SLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-50",
+   "description": "SLC SERIES | Type: SLC-50 | Window Size 50mm | 1000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1900,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Window Size 50mm",
+    "secondary_current": "5A",
+    "series": "SLC-50",
+    "model_as_printed": "SLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-50",
+   "description": "SLC SERIES | Type: SLC-50 | Window Size 50mm | 1200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 2250,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Window Size 50mm",
+    "secondary_current": "5A",
+    "series": "SLC-50",
+    "model_as_printed": "SLC - 50"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-65",
+   "description": "SLC SERIES | Type: SLC-65 | Window Size 65mm | 600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1550,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "SLC-65",
+    "model_as_printed": "SLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-65",
+   "description": "SLC SERIES | Type: SLC-65 | Window Size 65mm | 800/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1700,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "SLC-65",
+    "model_as_printed": "SLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-65",
+   "description": "SLC SERIES | Type: SLC-65 | Window Size 65mm | 1000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 1850,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "SLC-65",
+    "model_as_printed": "SLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-65",
+   "description": "SLC SERIES | Type: SLC-65 | Window Size 65mm | 1200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 2250,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "SLC-65",
+    "model_as_printed": "SLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-65",
+   "description": "SLC SERIES | Type: SLC-65 | Window Size 65mm | 1600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 2450,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "SLC-65",
+    "model_as_printed": "SLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-65",
+   "description": "SLC SERIES | Type: SLC-65 | Window Size 65mm | 2000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 3100,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "Window Size 65mm",
+    "secondary_current": "5A",
+    "series": "SLC-65",
+    "model_as_printed": "SLC - 65"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-100",
+   "description": "SLC SERIES | Type: SLC-100 | Window Size 100x50mm | 1200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 3100,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "Window Size 100x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-100",
+    "model_as_printed": "SLC - 100"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-100",
+   "description": "SLC SERIES | Type: SLC-100 | Window Size 100x50mm | 1600/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 3300,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "Window Size 100x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-100",
+    "model_as_printed": "SLC - 100"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-100",
+   "description": "SLC SERIES | Type: SLC-100 | Window Size 100x50mm | 2000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 3550,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "Window Size 100x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-100",
+    "model_as_printed": "SLC - 100"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-125",
+   "description": "SLC SERIES | Type: SLC-125 | Window Size 125x50mm | 2500/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 4100,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "2500/5A",
+    "rating": "2500A",
+    "size": "Window Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-125",
+    "model_as_printed": "SLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-125",
+   "description": "SLC SERIES | Type: SLC-125 | Window Size 125x50mm | 3000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 4200,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "Window Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-125",
+    "model_as_printed": "SLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-125",
+   "description": "SLC SERIES | Type: SLC-125 | Window Size 125x50mm | 3200/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 4850,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "3200/5A",
+    "rating": "3200A",
+    "size": "Window Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-125",
+    "model_as_printed": "SLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-125",
+   "description": "SLC SERIES | Type: SLC-125 | Window Size 125x50mm | 3500/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 5400,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "3500/5A",
+    "rating": "3500A",
+    "size": "Window Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-125",
+    "model_as_printed": "SLC - 125"
+   }
+  },
+  {
+   "page": 4,
+   "brand": "FICO",
+   "section": "SLC SERIES",
+   "model": "SLC-125",
+   "description": "SLC SERIES | Type: SLC-125 | Window Size 125x50mm | 4000/5A | class 1, va 10, p-turn 1",
+   "price_pkr": 5900,
+   "specs": {
+    "class": "1",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "Window Size 125x50mm",
+    "secondary_current": "5A",
+    "series": "SLC-125",
+    "model_as_printed": "SLC - 125"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-130",
+   "description": "SDH | Type: SDH-130 | INNER WINDOW SIZE - 130X80 | 3000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 6050,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 130X80",
+    "secondary_current": "5A",
+    "series": "SDH-130",
+    "model_as_printed": "SDH - 130"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-130",
+   "description": "SDH | Type: SDH-130 | INNER WINDOW SIZE - 130X80 | 4000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 7150,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 130X80",
+    "secondary_current": "5A",
+    "series": "SDH-130",
+    "model_as_printed": "SDH - 130"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-130",
+   "description": "SDH | Type: SDH-130 | INNER WINDOW SIZE - 130X80 | 5000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 8500,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000/5A",
+    "rating": "5000A",
+    "size": "INNER WINDOW SIZE - 130X80",
+    "secondary_current": "5A",
+    "series": "SDH-130",
+    "model_as_printed": "SDH - 130"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-130",
+   "description": "SDH | Type: SDH-130 | INNER WINDOW SIZE - 130X80 | 6000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 9800,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "6000/5A",
+    "rating": "6000A",
+    "size": "INNER WINDOW SIZE - 130X80",
+    "secondary_current": "5A",
+    "series": "SDH-130",
+    "model_as_printed": "SDH - 130"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-150",
+   "description": "SDH | Type: SDH-150 | INNER WINDOW SIZE - 150X110 | 3000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 7550,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 150X110",
+    "secondary_current": "5A",
+    "series": "SDH-150",
+    "model_as_printed": "SDH - 150"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-150",
+   "description": "SDH | Type: SDH-150 | INNER WINDOW SIZE - 150X110 | 4000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 9050,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 150X110",
+    "secondary_current": "5A",
+    "series": "SDH-150",
+    "model_as_printed": "SDH - 150"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-150",
+   "description": "SDH | Type: SDH-150 | INNER WINDOW SIZE - 150X110 | 5000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 10000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000/5A",
+    "rating": "5000A",
+    "size": "INNER WINDOW SIZE - 150X110",
+    "secondary_current": "5A",
+    "series": "SDH-150",
+    "model_as_printed": "SDH - 150"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-150",
+   "description": "SDH | Type: SDH-150 | INNER WINDOW SIZE - 150X110 | 6000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 10500,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "6000/5A",
+    "rating": "6000A",
+    "size": "INNER WINDOW SIZE - 150X110",
+    "secondary_current": "5A",
+    "series": "SDH-150",
+    "model_as_printed": "SDH - 150"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-150",
+   "description": "SDH | Type: SDH-150 | INNER WINDOW SIZE - 150X110 | 8000/5 | class 1, va 15, p-turn 1",
+   "price_pkr": 12000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "8000/5",
+    "rating": "8000A",
+    "size": "INNER WINDOW SIZE - 150X110",
+    "secondary_current": "5A",
+    "series": "SDH-150",
+    "model_as_printed": "SDH - 150"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-180",
+   "description": "SDH | Type: SDH-180 | INNER WINDOW SIZE - 185X55 | 3000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 9100,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 185X55",
+    "secondary_current": "5A",
+    "series": "SDH-180",
+    "model_as_printed": "SDH - 180"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-180",
+   "description": "SDH | Type: SDH-180 | INNER WINDOW SIZE - 185X55 | 4000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 10000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 185X55",
+    "secondary_current": "5A",
+    "series": "SDH-180",
+    "model_as_printed": "SDH - 180"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-180",
+   "description": "SDH | Type: SDH-180 | INNER WINDOW SIZE - 185X55 | 5000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 10500,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000/5A",
+    "rating": "5000A",
+    "size": "INNER WINDOW SIZE - 185X55",
+    "secondary_current": "5A",
+    "series": "SDH-180",
+    "model_as_printed": "SDH - 180"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-180",
+   "description": "SDH | Type: SDH-180 | INNER WINDOW SIZE - 185X55 | 6000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 12000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "6000/5A",
+    "rating": "6000A",
+    "size": "INNER WINDOW SIZE - 185X55",
+    "secondary_current": "5A",
+    "series": "SDH-180",
+    "model_as_printed": "SDH - 180"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-180",
+   "description": "SDH | Type: SDH-180 | INNER WINDOW SIZE - 185X55 | 8000/5 | class 1, va 15, p-turn 1",
+   "price_pkr": 12900,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "8000/5",
+    "rating": "8000A",
+    "size": "INNER WINDOW SIZE - 185X55",
+    "secondary_current": "5A",
+    "series": "SDH-180",
+    "model_as_printed": "SDH - 180"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-220",
+   "description": "SDH | Type: SDH-220 | INNER WINDOW SIZE - 225X65 | 3000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 10000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 225X65",
+    "secondary_current": "5A",
+    "series": "SDH-220",
+    "model_as_printed": "SDH - 220"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-220",
+   "description": "SDH | Type: SDH-220 | INNER WINDOW SIZE - 225X65 | 4000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 10500,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 225X65",
+    "secondary_current": "5A",
+    "series": "SDH-220",
+    "model_as_printed": "SDH - 220"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-220",
+   "description": "SDH | Type: SDH-220 | INNER WINDOW SIZE - 225X65 | 5000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 12000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000/5A",
+    "rating": "5000A",
+    "size": "INNER WINDOW SIZE - 225X65",
+    "secondary_current": "5A",
+    "series": "SDH-220",
+    "model_as_printed": "SDH - 220"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-220",
+   "description": "SDH | Type: SDH-220 | INNER WINDOW SIZE - 225X65 | 6000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 12900,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "6000/5A",
+    "rating": "6000A",
+    "size": "INNER WINDOW SIZE - 225X65",
+    "secondary_current": "5A",
+    "series": "SDH-220",
+    "model_as_printed": "SDH - 220"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-220",
+   "description": "SDH | Type: SDH-220 | INNER WINDOW SIZE - 225X65 | 8000/5 | class 1, va 15, p-turn 1",
+   "price_pkr": 13600,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "8000/5",
+    "rating": "8000A",
+    "size": "INNER WINDOW SIZE - 225X65",
+    "secondary_current": "5A",
+    "series": "SDH-220",
+    "model_as_printed": "SDH - 220"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-265",
+   "description": "SDH | Type: SDH-265 | INNER WINDOW SIZE - 265X110 | 3000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 10500,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 265X110",
+    "secondary_current": "5A",
+    "series": "SDH-265",
+    "model_as_printed": "SDH - 265"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-265",
+   "description": "SDH | Type: SDH-265 | INNER WINDOW SIZE - 265X110 | 4000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 12000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 265X110",
+    "secondary_current": "5A",
+    "series": "SDH-265",
+    "model_as_printed": "SDH - 265"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-265",
+   "description": "SDH | Type: SDH-265 | INNER WINDOW SIZE - 265X110 | 5000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 12900,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000/5A",
+    "rating": "5000A",
+    "size": "INNER WINDOW SIZE - 265X110",
+    "secondary_current": "5A",
+    "series": "SDH-265",
+    "model_as_printed": "SDH - 265"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-265",
+   "description": "SDH | Type: SDH-265 | INNER WINDOW SIZE - 265X110 | 6000/5A | class 1, va 15, p-turn 1",
+   "price_pkr": 13600,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "6000/5A",
+    "rating": "6000A",
+    "size": "INNER WINDOW SIZE - 265X110",
+    "secondary_current": "5A",
+    "series": "SDH-265",
+    "model_as_printed": "SDH - 265"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SDH",
+   "model": "SDH-265",
+   "description": "SDH | Type: SDH-265 | INNER WINDOW SIZE - 265X110 | 8000/5 | class 1, va 15, p-turn 1",
+   "price_pkr": 15000,
+   "specs": {
+    "class": "1",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "8000/5",
+    "rating": "8000A",
+    "size": "INNER WINDOW SIZE - 265X110",
+    "secondary_current": "5A",
+    "series": "SDH-265",
+    "model_as_printed": "SDH - 265"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 400/5",
+   "price_pkr": 1510,
+   "specs": {
+    "cl_0.5_va": "5",
+    "cl_1_va": "12",
+    "cl_5P10_va": "5",
+    "ratio": "400/5",
+    "rating": "400A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 500/5",
+   "price_pkr": 1580,
+   "specs": {
+    "cl_0.5_va": "10",
+    "cl_1_va": "20",
+    "cl_5P10_va": "5",
+    "ratio": "500/5",
+    "rating": "500A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 600/5",
+   "price_pkr": 1720,
+   "specs": {
+    "cl_0.5_va": "10",
+    "cl_1_va": "20",
+    "cl_5P10_va": "8",
+    "ratio": "600/5",
+    "rating": "600A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 800/5",
+   "price_pkr": 1790,
+   "specs": {
+    "cl_0.5_va": "10",
+    "cl_1_va": "20",
+    "cl_5P10_va": "8",
+    "ratio": "800/5",
+    "rating": "800A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 1000/5",
+   "price_pkr": 2060,
+   "specs": {
+    "cl_0.5_va": "15",
+    "cl_1_va": "30",
+    "cl_5P10_va": "8",
+    "ratio": "1000/5",
+    "rating": "1000A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 1200/5",
+   "price_pkr": 2200,
+   "specs": {
+    "cl_0.5_va": "18",
+    "cl_1_va": "36",
+    "cl_5P10_va": "8",
+    "ratio": "1200/5",
+    "rating": "1200A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 1600/5",
+   "price_pkr": 2480,
+   "specs": {
+    "cl_0.5_va": "20",
+    "cl_1_va": "40",
+    "cl_5P10_va": "9",
+    "ratio": "1600/5",
+    "rating": "1600A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-3",
+   "description": "TAB | Type: TLC-3 | Max Bar Size: 60x20mm | 2000/5",
+   "price_pkr": 2960,
+   "specs": {
+    "cl_0.5_va": "25",
+    "cl_1_va": "50",
+    "cl_5P10_va": "9",
+    "ratio": "2000/5",
+    "rating": "2000A",
+    "size": "Max Bar Size: 60x20mm",
+    "secondary_current": "5A",
+    "series": "TLC-3"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 400/5",
+   "price_pkr": 1860,
+   "specs": {
+    "cl_0.5_va": "8",
+    "cl_1_va": "16",
+    "cl_5P10_va": "4",
+    "ratio": "400/5",
+    "rating": "400A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 500/5",
+   "price_pkr": 1990,
+   "specs": {
+    "cl_0.5_va": "10",
+    "cl_1_va": "20",
+    "cl_5P10_va": "5",
+    "ratio": "500/5",
+    "rating": "500A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 600/5",
+   "price_pkr": 2060,
+   "specs": {
+    "cl_0.5_va": "15",
+    "cl_1_va": "30",
+    "cl_5P10_va": "7",
+    "ratio": "600/5",
+    "rating": "600A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 800/5",
+   "price_pkr": 2270,
+   "specs": {
+    "cl_0.5_va": "15",
+    "cl_1_va": "30",
+    "cl_5P10_va": "7",
+    "ratio": "800/5",
+    "rating": "800A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 1000/5",
+   "price_pkr": 2470,
+   "specs": {
+    "cl_0.5_va": "20",
+    "cl_1_va": "40",
+    "cl_5P10_va": "10",
+    "ratio": "1000/5",
+    "rating": "1000A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 1200/5",
+   "price_pkr": 2680,
+   "specs": {
+    "cl_0.5_va": "30",
+    "cl_1_va": "60",
+    "cl_5P10_va": "10",
+    "ratio": "1200/5",
+    "rating": "1200A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 1600/5",
+   "price_pkr": 2960,
+   "specs": {
+    "cl_0.5_va": "40",
+    "cl_1_va": "80",
+    "cl_5P10_va": "10",
+    "ratio": "1600/5",
+    "rating": "1600A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 2000/5",
+   "price_pkr": 3500,
+   "specs": {
+    "cl_0.5_va": "50",
+    "cl_1_va": "100",
+    "cl_5P10_va": "10",
+    "ratio": "2000/5",
+    "rating": "2000A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-4",
+   "description": "TAB | Type: TLC-4 | Max Bar Size: | 2500/5",
+   "price_pkr": 3990,
+   "specs": {
+    "cl_0.5_va": "60",
+    "cl_1_va": "120",
+    "cl_5P10_va": "8",
+    "ratio": "2500/5",
+    "rating": "2500A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-4"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 600/5",
+   "price_pkr": 2750,
+   "specs": {
+    "cl_0.5_va": "15",
+    "cl_1_va": "30",
+    "cl_5P10_va": "3",
+    "ratio": "600/5",
+    "rating": "600A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 800/5",
+   "price_pkr": 2890,
+   "specs": {
+    "cl_0.5_va": "15",
+    "cl_1_va": "30",
+    "cl_5P10_va": "3",
+    "ratio": "800/5",
+    "rating": "800A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 1000/5",
+   "price_pkr": 3090,
+   "specs": {
+    "cl_0.5_va": "20",
+    "cl_1_va": "40",
+    "cl_5P10_va": "5",
+    "ratio": "1000/5",
+    "rating": "1000A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 1200/5",
+   "price_pkr": 3370,
+   "specs": {
+    "cl_0.5_va": "20",
+    "cl_1_va": "40",
+    "cl_5P10_va": "5",
+    "ratio": "1200/5",
+    "rating": "1200A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 1500/5",
+   "price_pkr": 3640,
+   "specs": {
+    "cl_0.5_va": "40",
+    "cl_1_va": "80",
+    "cl_5P10_va": "6",
+    "ratio": "1500/5",
+    "rating": "1500A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 2000/5",
+   "price_pkr": 4190,
+   "specs": {
+    "cl_0.5_va": "50",
+    "cl_1_va": "80",
+    "cl_5P10_va": "4",
+    "ratio": "2000/5",
+    "rating": "2000A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 2500/5",
+   "price_pkr": 4810,
+   "specs": {
+    "cl_0.5_va": "60",
+    "cl_1_va": "120",
+    "cl_5P10_va": "4",
+    "ratio": "2500/5",
+    "rating": "2500A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 3000/5",
+   "price_pkr": 5360,
+   "specs": {
+    "cl_0.5_va": "60",
+    "cl_1_va": "120",
+    "cl_5P10_va": "4",
+    "ratio": "3000/5",
+    "rating": "3000A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 4500/5",
+   "price_pkr": 6530,
+   "specs": {
+    "cl_0.5_va": "80",
+    "cl_1_va": "160",
+    "cl_5P10_va": "2",
+    "ratio": "4500/5",
+    "rating": "4500A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "TAB",
+   "model": "TLC-5",
+   "description": "TAB | Type: TLC-5 | Max Bar Size: | 5000/5",
+   "price_pkr": 7630,
+   "specs": {
+    "cl_0.5_va": "100",
+    "cl_1_va": "200",
+    "cl_5P10_va": "2",
+    "ratio": "5000/5",
+    "rating": "5000A",
+    "size": "Max Bar Size:",
+    "secondary_current": "5A",
+    "series": "TLC-5"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-23",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-23 | INNER WINDOW SIZE - 20X30 | 100/5A | va 1.5, p-turn 1",
+   "price_pkr": 4600,
+   "specs": {
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "INNER WINDOW SIZE - 20X30",
+    "secondary_current": "5A",
+    "series": "SCLC-23",
+    "model_as_printed": "SCLC - 23"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-23",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-23 | INNER WINDOW SIZE - 20X30 | 150/5A | va 1.5, p-turn 1",
+   "price_pkr": 4650,
+   "specs": {
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "size": "INNER WINDOW SIZE - 20X30",
+    "secondary_current": "5A",
+    "series": "SCLC-23",
+    "model_as_printed": "SCLC - 23"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-23",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-23 | INNER WINDOW SIZE - 20X30 | 200/5A | va 1.5, p-turn 1",
+   "price_pkr": 4750,
+   "specs": {
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "INNER WINDOW SIZE - 20X30",
+    "secondary_current": "5A",
+    "series": "SCLC-23",
+    "model_as_printed": "SCLC - 23"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-23",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-23 | INNER WINDOW SIZE - 20X30 | 250/5A | va 1.5, p-turn 1",
+   "price_pkr": 4800,
+   "specs": {
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "250/5A",
+    "rating": "250A",
+    "size": "INNER WINDOW SIZE - 20X30",
+    "secondary_current": "5A",
+    "series": "SCLC-23",
+    "model_as_printed": "SCLC - 23"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-23",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-23 | INNER WINDOW SIZE - 20X30 | 300/5A | va 2.5, p-turn 1",
+   "price_pkr": 4850,
+   "specs": {
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "INNER WINDOW SIZE - 20X30",
+    "secondary_current": "5A",
+    "series": "SCLC-23",
+    "model_as_printed": "SCLC - 23"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-23",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-23 | INNER WINDOW SIZE - 20X30 | 400/5A | class 2.5, va 3.75, p-turn 1",
+   "price_pkr": 4950,
+   "specs": {
+    "class": "2.5",
+    "va": "3.75",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "INNER WINDOW SIZE - 20X30",
+    "secondary_current": "5A",
+    "series": "SCLC-23",
+    "model_as_printed": "SCLC - 23"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-58",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-58 | INNER WINDOW SIZE - 50X80 | 250/5A | va 1.5, p-turn 1",
+   "price_pkr": 6300,
+   "specs": {
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "250/5A",
+    "rating": "250A",
+    "size": "INNER WINDOW SIZE - 50X80",
+    "secondary_current": "5A",
+    "series": "SCLC-58",
+    "model_as_printed": "SCLC - 58"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-58",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-58 | INNER WINDOW SIZE - 50X80 | 300/5A | va 2.5, p-turn 1",
+   "price_pkr": 6400,
+   "specs": {
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "INNER WINDOW SIZE - 50X80",
+    "secondary_current": "5A",
+    "series": "SCLC-58",
+    "model_as_printed": "SCLC - 58"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-58",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-58 | INNER WINDOW SIZE - 50X80 | 400/5A | class 1.5, va 2.5, p-turn 1",
+   "price_pkr": 6450,
+   "specs": {
+    "class": "1.5",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "INNER WINDOW SIZE - 50X80",
+    "secondary_current": "5A",
+    "series": "SCLC-58",
+    "model_as_printed": "SCLC - 58"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-58",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-58 | INNER WINDOW SIZE - 50X80 | 600/5A | class 2.5, va 5, p-turn 1",
+   "price_pkr": 6600,
+   "specs": {
+    "class": "2.5",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "INNER WINDOW SIZE - 50X80",
+    "secondary_current": "5A",
+    "series": "SCLC-58",
+    "model_as_printed": "SCLC - 58"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-58",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-58 | INNER WINDOW SIZE - 50X80 | 800/5AA | class 3.75, va 5, p-turn 1",
+   "price_pkr": 6700,
+   "specs": {
+    "class": "3.75",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "800/5AA",
+    "rating": "800A",
+    "size": "INNER WINDOW SIZE - 50X80",
+    "series": "SCLC-58",
+    "model_as_printed": "SCLC - 58",
+    "note": "ratio printed with a stray extra 'A' ('800/5AA')"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-58",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-58 | INNER WINDOW SIZE - 50X80 | 1000/5A | class 5, va 10, p-turn 1",
+   "price_pkr": 6850,
+   "specs": {
+    "class": "5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE - 50X80",
+    "secondary_current": "5A",
+    "series": "SCLC-58",
+    "model_as_printed": "SCLC - 58"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-88",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-88 | INNER WINDOW SIZE - 80X80 | 250/5A | va 1.5, p-turn 1",
+   "price_pkr": 7150,
+   "specs": {
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "250/5A",
+    "rating": "250A",
+    "size": "INNER WINDOW SIZE - 80X80",
+    "secondary_current": "5A",
+    "series": "SCLC-88",
+    "model_as_printed": "SCLC - 88"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-88",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-88 | INNER WINDOW SIZE - 80X80 | 300/5A | va 1.5, p-turn 1",
+   "price_pkr": 7250,
+   "specs": {
+    "va": "1.5",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "INNER WINDOW SIZE - 80X80",
+    "secondary_current": "5A",
+    "series": "SCLC-88",
+    "model_as_printed": "SCLC - 88"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-88",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-88 | INNER WINDOW SIZE - 80X80 | 400/5A | va 2.5, p-turn 1",
+   "price_pkr": 7400,
+   "specs": {
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "INNER WINDOW SIZE - 80X80",
+    "secondary_current": "5A",
+    "series": "SCLC-88",
+    "model_as_printed": "SCLC - 88"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-88",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-88 | INNER WINDOW SIZE - 80X80 | 600/5A | class 1.5, va 2.5, p-turn 1",
+   "price_pkr": 7550,
+   "specs": {
+    "class": "1.5",
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "INNER WINDOW SIZE - 80X80",
+    "secondary_current": "5A",
+    "series": "SCLC-88",
+    "model_as_printed": "SCLC - 88"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-88",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-88 | INNER WINDOW SIZE - 80X80 | 800/5A | class 3.75, va 5, p-turn 1",
+   "price_pkr": 7700,
+   "specs": {
+    "class": "3.75",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "INNER WINDOW SIZE - 80X80",
+    "secondary_current": "5A",
+    "series": "SCLC-88",
+    "model_as_printed": "SCLC - 88"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-88",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-88 | INNER WINDOW SIZE - 80X80 | 1000/5A | class 7.5, va 7.5, p-turn 1",
+   "price_pkr": 7800,
+   "specs": {
+    "class": "7.5",
+    "va": "7.5",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE - 80X80",
+    "secondary_current": "5A",
+    "series": "SCLC-88",
+    "model_as_printed": "SCLC - 88"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-812",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-812 | INNER WINDOW SIZE - 120X80 | 600/5A | va 2.5, p-turn 1",
+   "price_pkr": 9050,
+   "specs": {
+    "va": "2.5",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "INNER WINDOW SIZE - 120X80",
+    "secondary_current": "5A",
+    "series": "SCLC-812",
+    "model_as_printed": "SCLC - 812"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-812",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-812 | INNER WINDOW SIZE - 120X80 | 800/5A | class 2.5, va 5, p-turn 1",
+   "price_pkr": 9350,
+   "specs": {
+    "class": "2.5",
+    "va": "5",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "INNER WINDOW SIZE - 120X80",
+    "secondary_current": "5A",
+    "series": "SCLC-812",
+    "model_as_printed": "SCLC - 812"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-812",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-812 | INNER WINDOW SIZE - 120X80 | 1000/5A | class 5, va 7.5, p-turn 1",
+   "price_pkr": 9550,
+   "specs": {
+    "class": "5",
+    "va": "7.5",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE - 120X80",
+    "secondary_current": "5A",
+    "series": "SCLC-812",
+    "model_as_printed": "SCLC - 812"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-812",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-812 | INNER WINDOW SIZE - 120X80 | 1200/5A | class 5, va 10, p-turn 1",
+   "price_pkr": 9800,
+   "specs": {
+    "class": "5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1200/5A",
+    "rating": "1200A",
+    "size": "INNER WINDOW SIZE - 120X80",
+    "secondary_current": "5A",
+    "series": "SCLC-812",
+    "model_as_printed": "SCLC - 812"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-812",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-812 | INNER WINDOW SIZE - 120X80 | 1600/5A | class 5, va 10, p-turn 1",
+   "price_pkr": 10150,
+   "specs": {
+    "class": "5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1600/5A",
+    "rating": "1600A",
+    "size": "INNER WINDOW SIZE - 120X80",
+    "secondary_current": "5A",
+    "series": "SCLC-812",
+    "model_as_printed": "SCLC - 812"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-816",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-816 | INNER WINDOW SIZE - 80X160 | 1000/5A | class 5, va 10, p-turn 1",
+   "price_pkr": 15400,
+   "specs": {
+    "class": "5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE - 80X160",
+    "secondary_current": "5A",
+    "series": "SCLC-816",
+    "model_as_printed": "SCLC - 816"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-816",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-816 | INNER WINDOW SIZE - 80X160 | 2000/5A | class 7.5, va 10, p-turn 1",
+   "price_pkr": 16350,
+   "specs": {
+    "class": "7.5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "INNER WINDOW SIZE - 80X160",
+    "secondary_current": "5A",
+    "series": "SCLC-816",
+    "model_as_printed": "SCLC - 816"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-816",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-816 | INNER WINDOW SIZE - 80X160 | 2500/5A | class 15, va 20, p-turn 1",
+   "price_pkr": 17050,
+   "specs": {
+    "class": "15",
+    "va": "20",
+    "p_turn": "1",
+    "ratio": "2500/5A",
+    "rating": "2500A",
+    "size": "INNER WINDOW SIZE - 80X160",
+    "secondary_current": "5A",
+    "series": "SCLC-816",
+    "model_as_printed": "SCLC - 816"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-816",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-816 | INNER WINDOW SIZE - 80X160 | 3000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 17600,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 80X160",
+    "secondary_current": "5A",
+    "series": "SCLC-816",
+    "model_as_printed": "SCLC - 816"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-816",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-816 | INNER WINDOW SIZE - 80X160 | 4000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 18700,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 80X160",
+    "secondary_current": "5A",
+    "series": "SCLC-816",
+    "model_as_printed": "SCLC - 816"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-816",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-816 | INNER WINDOW SIZE - 80X160 | 5000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 19900,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "5000/5A",
+    "rating": "5000A",
+    "size": "INNER WINDOW SIZE - 80X160",
+    "secondary_current": "5A",
+    "series": "SCLC-816",
+    "model_as_printed": "SCLC - 816"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-816",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-816 | INNER WINDOW SIZE - 80X160 | 6000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 21000,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "6000/5A",
+    "rating": "6000A",
+    "size": "INNER WINDOW SIZE - 80X160",
+    "secondary_current": "5A",
+    "series": "SCLC-816",
+    "model_as_printed": "SCLC - 816"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-820",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-820 | INNER WINDOW SIZE - 80X200 | 1000/5A | class 5, va 10, p-turn 1",
+   "price_pkr": 17050,
+   "specs": {
+    "class": "5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE - 80X200",
+    "secondary_current": "5A",
+    "series": "SCLC-820",
+    "model_as_printed": "SCLC - 820"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-820",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-820 | INNER WINDOW SIZE - 80X200 | 2000/5A | class 7.5, va 10, p-turn 1",
+   "price_pkr": 18150,
+   "specs": {
+    "class": "7.5",
+    "va": "10",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "INNER WINDOW SIZE - 80X200",
+    "secondary_current": "5A",
+    "series": "SCLC-820",
+    "model_as_printed": "SCLC - 820"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-820",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-820 | INNER WINDOW SIZE - 80X200 | 2500/5A | class 15, va 20, p-turn 1",
+   "price_pkr": 19050,
+   "specs": {
+    "class": "15",
+    "va": "20",
+    "p_turn": "1",
+    "ratio": "2500/5A",
+    "rating": "2500A",
+    "size": "INNER WINDOW SIZE - 80X200",
+    "secondary_current": "5A",
+    "series": "SCLC-820",
+    "model_as_printed": "SCLC - 820"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-820",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-820 | INNER WINDOW SIZE - 80X200 | 3000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 19500,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 80X200",
+    "secondary_current": "5A",
+    "series": "SCLC-820",
+    "model_as_printed": "SCLC - 820"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-820",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-820 | INNER WINDOW SIZE - 80X200 | 4000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 20700,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 80X200",
+    "secondary_current": "5A",
+    "series": "SCLC-820",
+    "model_as_printed": "SCLC - 820"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-820",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-820 | INNER WINDOW SIZE - 80X200 | 5000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 22200,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "5000/5A",
+    "rating": "5000A",
+    "size": "INNER WINDOW SIZE - 80X200",
+    "secondary_current": "5A",
+    "series": "SCLC-820",
+    "model_as_printed": "SCLC - 820"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "SPLIT CORE CURRENT TRANSFORMER",
+   "model": "SCLC-820",
+   "description": "SPLIT CORE CURRENT TRANSFORMER | Type: SCLC-820 | INNER WINDOW SIZE - 80X200 | 6000/5A | class 20, va 25, p-turn 1",
+   "price_pkr": 23250,
+   "specs": {
+    "class": "20",
+    "va": "25",
+    "p_turn": "1",
+    "ratio": "6000/5A",
+    "rating": "6000A",
+    "size": "INNER WINDOW SIZE - 80X200",
+    "secondary_current": "5A",
+    "series": "SCLC-820",
+    "model_as_printed": "SCLC - 820"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "WOUND TYPE CT",
+   "model": "5/5A",
+   "description": "WOUND TYPE CT | 5/5A to | class 0. to 0.5, va 10, p-turn na",
+   "price_pkr": 3200,
+   "specs": {
+    "class": "0. to 0.5",
+    "va": "10",
+    "p_turn": "na",
+    "ratio": "5/5A to",
+    "rating": "5A",
+    "secondary_current": "5A",
+    "series": "WOUND TYPE CT",
+    "note": "no model code printed; row identified by its printed ratio under the WOUND TYPE CT heading; ratio cell printed unfinished in the PDF ('5/5A to')"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "WOUND TYPE CT",
+   "model": "100/5A",
+   "description": "WOUND TYPE CT | 100/5A | class 0. to 0.5, va 10, p-turn na",
+   "price_pkr": 3600,
+   "specs": {
+    "class": "0. to 0.5",
+    "va": "10",
+    "p_turn": "na",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "secondary_current": "5A",
+    "series": "WOUND TYPE CT",
+    "note": "no model code printed; row identified by its printed ratio under the WOUND TYPE CT heading"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "WOUND TYPE CT",
+   "model": "150/5A",
+   "description": "WOUND TYPE CT | 150/5A | class 0. to 0.5, va 10, p-turn na",
+   "price_pkr": 3750,
+   "specs": {
+    "class": "0. to 0.5",
+    "va": "10",
+    "p_turn": "na",
+    "ratio": "150/5A",
+    "rating": "150A",
+    "secondary_current": "5A",
+    "series": "WOUND TYPE CT",
+    "note": "no model code printed; row identified by its printed ratio under the WOUND TYPE CT heading"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "WOUND TYPE CT",
+   "model": "200/5A",
+   "description": "WOUND TYPE CT | 200/5A | class 0. to 0.5, va 10, p-turn na",
+   "price_pkr": 3900,
+   "specs": {
+    "class": "0. to 0.5",
+    "va": "10",
+    "p_turn": "na",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "secondary_current": "5A",
+    "series": "WOUND TYPE CT",
+    "note": "no model code printed; row identified by its printed ratio under the WOUND TYPE CT heading"
+   }
+  },
+  {
+   "page": 5,
+   "brand": "FICO",
+   "section": "WOUND TYPE CT",
+   "model": "300/5A",
+   "description": "WOUND TYPE CT | 300/5A | class 0. to 0.5, va 10, p-turn na",
+   "price_pkr": 4100,
+   "specs": {
+    "class": "0. to 0.5",
+    "va": "10",
+    "p_turn": "na",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "secondary_current": "5A",
+    "series": "WOUND TYPE CT",
+    "note": "no model code printed; row identified by its printed ratio under the WOUND TYPE CT heading"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-30",
+   "description": "WAPDA APPROVED MODEL | WSB-30 | 100/5A",
+   "price_pkr": 4950,
+   "specs": {
+    "ratio": "100/5A",
+    "series": "WSB-30",
+    "rating": "100A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-50",
+   "description": "WAPDA APPROVED MODEL | WSB-50 | 150/5A",
+   "price_pkr": 4600,
+   "specs": {
+    "ratio": "150/5A",
+    "series": "WSB-50",
+    "rating": "150A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-50",
+   "description": "WAPDA APPROVED MODEL | WSB-50 | 200/5A",
+   "price_pkr": 4500,
+   "specs": {
+    "ratio": "200/5A",
+    "series": "WSB-50",
+    "rating": "200A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-50",
+   "description": "WAPDA APPROVED MODEL | WSB-50 | 300/5A",
+   "price_pkr": 4150,
+   "specs": {
+    "ratio": "300/5A",
+    "series": "WSB-50",
+    "rating": "300A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-65",
+   "description": "WAPDA APPROVED MODEL | WSB-65 | 400/5A",
+   "price_pkr": 3740,
+   "specs": {
+    "ratio": "400/5A",
+    "series": "WSB-65",
+    "rating": "400A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-75",
+   "description": "WAPDA APPROVED MODEL | WSB-75 | 600/5A",
+   "price_pkr": 3300,
+   "specs": {
+    "ratio": "600/5A",
+    "series": "WSB-75",
+    "rating": "600A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-75",
+   "description": "WAPDA APPROVED MODEL | WSB-75 | 800/5A",
+   "price_pkr": 3300,
+   "specs": {
+    "ratio": "800/5A",
+    "series": "WSB-75",
+    "rating": "800A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "WAPDA APPROVED MODEL",
+   "model": "WSB-75",
+   "description": "WAPDA APPROVED MODEL | WSB-75 | 1000/5A",
+   "price_pkr": 3650,
+   "specs": {
+    "ratio": "1000/5A",
+    "series": "WSB-75",
+    "rating": "1000A",
+    "va": "5"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC-40",
+   "description": "KE APPROVED MODEL | SLC-40 | 100/5A",
+   "price_pkr": 2900,
+   "specs": {
+    "ratio": "100/5A",
+    "series": "SLC-40",
+    "rating": "100A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC-40",
+   "description": "KE APPROVED MODEL | SLC-40 | 200/5A",
+   "price_pkr": 2600,
+   "specs": {
+    "ratio": "200/5A",
+    "series": "SLC-40",
+    "rating": "200A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC 65",
+   "description": "KE APPROVED MODEL | SLC 65 | 300/5A",
+   "price_pkr": 2600,
+   "specs": {
+    "ratio": "300/5A",
+    "series": "SLC 65",
+    "rating": "300A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC 65",
+   "description": "KE APPROVED MODEL | SLC 65 | 400/5A",
+   "price_pkr": 2800,
+   "specs": {
+    "ratio": "400/5A",
+    "series": "SLC 65",
+    "rating": "400A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC 65",
+   "description": "KE APPROVED MODEL | SLC 65 | 600/5A",
+   "price_pkr": 3000,
+   "specs": {
+    "ratio": "600/5A",
+    "series": "SLC 65",
+    "rating": "600A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC 65",
+   "description": "KE APPROVED MODEL | SLC 65 | 800/5A",
+   "price_pkr": 3300,
+   "specs": {
+    "ratio": "800/5A",
+    "series": "SLC 65",
+    "rating": "800A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC 65",
+   "description": "KE APPROVED MODEL | SLC 65 | 1000/5A",
+   "price_pkr": 4100,
+   "specs": {
+    "ratio": "1000/5A",
+    "series": "SLC 65",
+    "rating": "1000A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC 125-k",
+   "description": "KE APPROVED MODEL | SLC 125-k | 1200/5A",
+   "price_pkr": 6000,
+   "specs": {
+    "ratio": "1200/5A",
+    "series": "SLC 125-k",
+    "rating": "1200A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "KE APPROVED MODEL",
+   "model": "SLC 125-k",
+   "description": "KE APPROVED MODEL | SLC 125-k | 2400/5A",
+   "price_pkr": 7050,
+   "specs": {
+    "ratio": "2400/5A",
+    "series": "SLC 125-k",
+    "rating": "2400A"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 30",
+   "description": "MLC (RESIN CAST) | Type: MLC 30 | INNER WINDOW SIZE - 30MM | 100/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 9800,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "100/5A",
+    "rating": "100A",
+    "size": "INNER WINDOW SIZE - 30MM",
+    "series": "MLC 30"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 30",
+   "description": "MLC (RESIN CAST) | Type: MLC 30 | INNER WINDOW SIZE - 30MM | 200/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 9800,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "200/5A",
+    "rating": "200A",
+    "size": "INNER WINDOW SIZE - 30MM",
+    "series": "MLC 30"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 30",
+   "description": "MLC (RESIN CAST) | Type: MLC 30 | INNER WINDOW SIZE - 30MM | 300/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 10700,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "300/5A",
+    "rating": "300A",
+    "size": "INNER WINDOW SIZE - 30MM",
+    "series": "MLC 30"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 30",
+   "description": "MLC (RESIN CAST) | Type: MLC 30 | INNER WINDOW SIZE - 30MM | 400/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 10700,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "INNER WINDOW SIZE - 30MM",
+    "series": "MLC 30"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 60",
+   "description": "MLC (RESIN CAST) | Type: MLC 60 | INNER WINDOW SIZE - 60MM | 100 TO 300/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 11600,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "100 TO 300/5A",
+    "rating": "100-300A",
+    "size": "INNER WINDOW SIZE - 60MM",
+    "series": "MLC 60"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 60",
+   "description": "MLC (RESIN CAST) | Type: MLC 60 | INNER WINDOW SIZE - 60MM | 400/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 12500,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "400/5A",
+    "rating": "400A",
+    "size": "INNER WINDOW SIZE - 60MM",
+    "series": "MLC 60"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 60",
+   "description": "MLC (RESIN CAST) | Type: MLC 60 | INNER WINDOW SIZE - 60MM | 600/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 13400,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "600/5A",
+    "rating": "600A",
+    "size": "INNER WINDOW SIZE - 60MM",
+    "series": "MLC 60"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 60",
+   "description": "MLC (RESIN CAST) | Type: MLC 60 | INNER WINDOW SIZE - 60MM | 800/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 13850,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "800/5A",
+    "rating": "800A",
+    "size": "INNER WINDOW SIZE - 60MM",
+    "series": "MLC 60"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 50X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 50X125 | INNER WINDOW SIZE -50X125 | 1000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 14300,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE -50X125",
+    "series": "MLC 50X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 50X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 50X125 | INNER WINDOW SIZE -50X125 | 2000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 15150,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "INNER WINDOW SIZE -50X125",
+    "series": "MLC 50X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 50X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 50X125 | INNER WINDOW SIZE -50X125 | 3000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 16050,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE -50X125",
+    "series": "MLC 50X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 50X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 50X125 | INNER WINDOW SIZE -50X125 | 4000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 17850,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE -50X125",
+    "series": "MLC 50X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 50X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 50X125 | INNER WINDOW SIZE -50X125 | 5000 TO 6000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 19650,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000 TO 6000/5A",
+    "rating": "5000-6000A",
+    "size": "INNER WINDOW SIZE -50X125",
+    "series": "MLC 50X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 75X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 75X125 | INNER WINDOW SIZE - 75X125 | 1000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 14300,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE - 75X125",
+    "series": "MLC 75X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 75X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 75X125 | INNER WINDOW SIZE - 75X125 | 2000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 15150,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "INNER WINDOW SIZE - 75X125",
+    "series": "MLC 75X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 75X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 75X125 | INNER WINDOW SIZE - 75X125 | 3000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 16050,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 75X125",
+    "series": "MLC 75X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 75X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 75X125 | INNER WINDOW SIZE - 75X125 | 4000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 17850,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 75X125",
+    "series": "MLC 75X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 75X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 75X125 | INNER WINDOW SIZE - 75X125 | 5000 TO 6000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 19650,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000 TO 6000/5A",
+    "rating": "5000-6000A",
+    "size": "INNER WINDOW SIZE - 75X125",
+    "series": "MLC 75X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 100X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 100X125 | INNER WINDOW SIZE - 100X125 | 1000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 14300,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "1000/5A",
+    "rating": "1000A",
+    "size": "INNER WINDOW SIZE - 100X125",
+    "series": "MLC 100X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 100X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 100X125 | INNER WINDOW SIZE - 100X125 | 2000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 15150,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "2000/5A",
+    "rating": "2000A",
+    "size": "INNER WINDOW SIZE - 100X125",
+    "series": "MLC 100X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 100X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 100X125 | INNER WINDOW SIZE - 100X125 | 3000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 16050,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "3000/5A",
+    "rating": "3000A",
+    "size": "INNER WINDOW SIZE - 100X125",
+    "series": "MLC 100X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 100X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 100X125 | INNER WINDOW SIZE - 100X125 | 4000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 17850,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "4000/5A",
+    "rating": "4000A",
+    "size": "INNER WINDOW SIZE - 100X125",
+    "series": "MLC 100X125"
+   }
+  },
+  {
+   "page": 6,
+   "brand": "FICO",
+   "section": "MLC (RESIN CAST)",
+   "model": "MLC 100X125",
+   "description": "MLC (RESIN CAST) | Type: MLC 100X125 | INNER WINDOW SIZE - 100X125 | 5000 TO 6000/5A | class 0.5, va 15, p-turn 1",
+   "price_pkr": 19650,
+   "specs": {
+    "class": "0.5",
+    "va": "15",
+    "p_turn": "1",
+    "ratio": "5000 TO 6000/5A",
+    "rating": "5000-6000A",
+    "size": "INNER WINDOW SIZE - 100X125",
+    "series": "MLC 100X125"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "INDICATION LAMPS",
+   "model": "FIL-22",
+   "description": "INDICATION LAMPS | FIL-22 | 22MM DIA - COLOURS AVAILABLE: RED, GREEN, YELLOW, BLUE",
+   "price_pkr": 60,
+   "specs": {
+    "series": "FIL",
+    "diameter": "22MM",
+    "colours": [
+     "RED",
+     "GREEN",
+     "YELLOW",
+     "BLUE"
+    ],
+    "note": "one price printed for the whole colour list (RED, GREEN, YELLOW, BLUE); no per-colour price in the PDF"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "INDICATION LAMPS",
+   "model": "FIL-30",
+   "description": "INDICATION LAMPS | FIL-30 | 30MM DIA - COLOURS AVAILABLE: RED, GREEN",
+   "price_pkr": 120,
+   "specs": {
+    "series": "FIL",
+    "diameter": "30MM",
+    "colours": [
+     "RED",
+     "GREEN"
+    ],
+    "note": "one price printed for the whole colour list (RED, GREEN); no per-colour price in the PDF"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPB-22",
+   "description": "PUSH BUTTON | FPB-22 - FLUSH TYPE PUSH BUTTON - RED 22MM | 1 NC",
+   "price_pkr": 95,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NC",
+    "colour": "RED"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPB-22",
+   "description": "PUSH BUTTON | FPB-22 - FLUSH TYPE PUSH BUTTON - GREEN 22MM | 1 No",
+   "price_pkr": 95,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 No",
+    "colour": "GREEN"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPB-22",
+   "description": "PUSH BUTTON | FPB-22 - FLUSH TYPE PUSH BUTTON - GREEN 22MM | 1 NO + 1NC",
+   "price_pkr": 110,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC",
+    "colour": "GREEN"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBG-B-NO",
+   "description": "PUSH BUTTON | FPBG-B-NO - FLUSH TYPE PUSH BUTTON WITH BASE- GREEN 22MM | 1 No",
+   "price_pkr": 95,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 No",
+    "colour": "GREEN"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBG-B-NOC",
+   "description": "PUSH BUTTON | FPBG-B-NOC - FLUSH TYPE PUSH BUTTON WITH BASE- GREEN 22MM | 1 NO + 1NC",
+   "price_pkr": 125,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC",
+    "colour": "GREEN"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBR-B-NC",
+   "description": "PUSH BUTTON | FPBR-B-NC - FLUSH TYPE PUSH BUTTON WITH BASE- RED 22MM | 1 NC",
+   "price_pkr": 95,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NC",
+    "colour": "RED"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBR-B-NOC",
+   "description": "PUSH BUTTON | FPBR-B-NOC - FLUSH TYPE PUSH BUTTON WITH BASE- RED 22MM | 1 NO + 1NC",
+   "price_pkr": 125,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC",
+    "colour": "RED"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBGS-NO/NC",
+   "description": "PUSH BUTTON | FPBGS-NO/NC - FLUSH TYPE PUSH BUTTON WITH BASE & METAL CASING - GREEN 22MM | 1 No OR I NC",
+   "price_pkr": 115,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 No OR I NC",
+    "colour": "GREEN"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBRS-NO/NC",
+   "description": "PUSH BUTTON | FPBRS-NO/NC - FLUSH TYPE PUSH BUTTON WITH BASE & METAL CASING - RED 22MM | 1 NC OR 1 NO",
+   "price_pkr": 115,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NC OR 1 NO",
+    "colour": "RED"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBRS-NOC",
+   "description": "PUSH BUTTON | FPBRS-NOC - FLUSH TYPE PUSH BUTTON WITH BASE & METAL CASING - GREEN 22MM | 1 NO + 1NC",
+   "price_pkr": 135,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC",
+    "colour": "GREEN",
+    "note": "the colour word printed on this line disagrees with the R/G letter in the model code; kept exactly as printed"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBGS-NOC",
+   "description": "PUSH BUTTON | FPBGS-NOC - FLUSH TYPE PUSH BUTTON WITH BASE & METAL CASING - RED 22MM | 1 NO + 1NC",
+   "price_pkr": 135,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC",
+    "colour": "RED",
+    "note": "the colour word printed on this line disagrees with the R/G letter in the model code; kept exactly as printed"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPBGR-NOC",
+   "description": "PUSH BUTTON | FPBGR-NOC - FLUSH TYPE PUSH BUTTON WITH BASE - | 1 NO + 1NC",
+   "price_pkr": 270,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPB-LH",
+   "description": "PUSH BUTTON | FPB-LH - LONG HANDLE REMOVABLE PUSH BUTTON | 1 NO + 1NC",
+   "price_pkr": 185,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FPB-KL",
+   "description": "PUSH BUTTON | FPB-KL - KEY LOCK REMOVABLE PUSH BUTTON | 1 NO + 1NC",
+   "price_pkr": 290,
+   "specs": {
+    "series": "FPB",
+    "contact_arrangement": "1 NO + 1NC"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FMHB-TR",
+   "description": "PUSH BUTTON | FMHB-TR - MUSHROOM HEAD BUTTON (40mm dia),TWIST RELEASE | 1 NO + 1NC",
+   "price_pkr": 180,
+   "specs": {
+    "series": "FMHB",
+    "contact_arrangement": "1 NO + 1NC"
+   }
+  },
+  {
+   "page": 7,
+   "brand": "FICO",
+   "section": "PUSH BUTTON",
+   "model": "FMHB-KL",
+   "description": "PUSH BUTTON | FMHB-KL - MUSHROOM HEAD BUTTON (40mm dia), KEY LOCK | 1 NO + 1NC",
+   "price_pkr": 290,
+   "specs": {
+    "series": "FMHB",
+    "contact_arrangement": "1 NO + 1NC"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "FAM-96A",
+   "description": "PANEL METERS (Analogue) | FAM-96A - ANALOGUE AMPERE METER SIZE: 96 X 96 MM | CT OPERATED: 30/5, 60/5, 100/5, 300/5, 1000/5, 2500/5, 4000/5",
+   "price_pkr": 750,
+   "specs": {
+    "series": "FAM",
+    "size": "96 X 96 MM",
+    "ct_operated": "30/5, 60/5, 100/5, 300/5, 1000/5, 2500/5, 4000/5"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "FAM-72A",
+   "description": "PANEL METERS (Analogue) | FAM-72A ANALOGUE AMPERE METER SIZE: 72 X 72 MM | CT OPERATED: 100/5, 300/5, 1000/5, 2500/5, 4000/5",
+   "price_pkr": 670,
+   "specs": {
+    "series": "FAM",
+    "size": "72 X 72 MM",
+    "ct_operated": "100/5, 300/5, 1000/5, 2500/5, 4000/5"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "FAM-48A",
+   "description": "PANEL METERS (Analogue) | FAM-48A - ANALOGUE AMPERE METER SIZE: 48 X 48 MM | CT OPERATED: 100/5, 300/5, 1000/5, 2500/5, 4000/5",
+   "price_pkr": 700,
+   "specs": {
+    "series": "FAM",
+    "size": "48 X 48 MM",
+    "ct_operated": "100/5, 300/5, 1000/5, 2500/5, 4000/5"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "ANALOGUE VOLTMETER",
+   "description": "PANEL METERS (Analogue) | ANALOGUE VOLTMETER SIZE | 96 X 96 MM: 500V",
+   "price_pkr": 750,
+   "specs": {
+    "series": "ANALOGUE VOLTMETER",
+    "note": "no catalogue code printed for this meter; the printed product name is used as the model",
+    "size": "96 X 96 MM",
+    "voltage": "500V"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "POWER FACTOR METER",
+   "description": "PANEL METERS (Analogue) | POWER FACTOR METER | 96 X 96, 72 X 72 MM: 220V",
+   "price_pkr": 2270,
+   "specs": {
+    "series": "POWER FACTOR METER",
+    "note": "no catalogue code printed for this meter; the printed product name is used as the model",
+    "size": "96 X 96, 72 X 72 MM",
+    "voltage": "220V"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "HERTZ METER",
+   "description": "PANEL METERS (Analogue) | HERTZ METER | 96 X 96, 72 X 72 MM: 220V",
+   "price_pkr": 1590,
+   "specs": {
+    "series": "HERTZ METER",
+    "note": "no catalogue code printed for this meter; the printed product name is used as the model",
+    "size": "96 X 96, 72 X 72 MM",
+    "voltage": "220V"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "RPM METER",
+   "description": "PANEL METERS (Analogue) | RPM METER | 96 X 96, 72 X 72 MM: 220V",
+   "price_pkr": 1510,
+   "specs": {
+    "series": "RPM METER",
+    "note": "no catalogue code printed for this meter; the printed product name is used as the model",
+    "size": "96 X 96, 72 X 72 MM",
+    "voltage": "220V"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "WATT METER",
+   "description": "PANEL METERS (Analogue) | WATT METER | 96 X 96, 72 X 72 MM: 220V",
+   "price_pkr": 4080,
+   "specs": {
+    "series": "WATT METER",
+    "note": "no catalogue code printed for this meter; the printed product name is used as the model",
+    "size": "96 X 96, 72 X 72 MM",
+    "voltage": "220V"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "PANEL METERS (Analogue)",
+   "model": "HZ + RPM METER",
+   "description": "PANEL METERS (Analogue) | HZ + RPM METER | 72 X 72 MM: 220V",
+   "price_pkr": 1590,
+   "specs": {
+    "series": "HZ + RPM METER",
+    "note": "no catalogue code printed for this meter; the printed product name is used as the model",
+    "size": "72 X 72 MM",
+    "voltage": "220V"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "SELECTOR SWITCHES",
+   "model": "FS26-20",
+   "description": "SELECTOR SWITCHES | FS26-20 - AMMETER SELECTOR | -POSITION O-R-S-T",
+   "price_pkr": 935,
+   "specs": {
+    "series": "FS26",
+    "positions": "POSITION O-R-S-T"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "SELECTOR SWITCHES",
+   "model": "FS26-20",
+   "description": "SELECTOR SWITCHES | FS26-20 VOLTMETER SELECTOR SWITCH | - 7 POSITION TR-ST-RS-0-RN-SN-TN",
+   "price_pkr": 935,
+   "specs": {
+    "series": "FS26",
+    "positions": "7 POSITION TR-ST-RS-0-RN-SN-TN"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "SELECTOR SWITCHES",
+   "model": "FS26-20",
+   "description": "SELECTOR SWITCHES | FS26-20 VOLTMETER SELECTOR SWITCH | - 4 POSITION 0-TR-RS-ST",
+   "price_pkr": 750,
+   "specs": {
+    "series": "FS26",
+    "positions": "4 POSITION 0-TR-RS-ST"
+   }
+  },
+  {
+   "page": 8,
+   "brand": "FICO",
+   "section": "SELECTOR SWITCHES",
+   "model": "F26-20",
+   "description": "SELECTOR SWITCHES | F26-20 Motor switch | (OFF - STAR - DELTA)",
+   "price_pkr": 1180,
+   "specs": {
+    "series": "F26"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "FS26-16",
+   "description": "CHANGE OVER SWITCHES | FS26-16 16A 1-POLE 1-0-2",
+   "price_pkr": 630,
+   "specs": {
+    "series": "FS26 CHANGE OVER SWITCHES",
+    "rating": "16A",
+    "poles": "1P",
+    "positions": "1-0-2"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "FS26-16",
+   "description": "CHANGE OVER SWITCHES | FS26-16 16A 3-POLE 1-0-2",
+   "price_pkr": 960,
+   "specs": {
+    "series": "FS26 CHANGE OVER SWITCHES",
+    "rating": "16A",
+    "poles": "3P",
+    "positions": "1-0-2"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "FS26-32",
+   "description": "CHANGE OVER SWITCHES | FS26-32 32A 3-POLE 1-0-2",
+   "price_pkr": 1510,
+   "specs": {
+    "series": "FS26 CHANGE OVER SWITCHES",
+    "rating": "32A",
+    "poles": "3P",
+    "positions": "1-0-2"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "FS26-32",
+   "description": "CHANGE OVER SWITCHES | FS26-32 32A 4-POLE 1-0-2",
+   "price_pkr": 1510,
+   "specs": {
+    "series": "FS26 CHANGE OVER SWITCHES",
+    "rating": "32A",
+    "poles": "4P",
+    "positions": "1-0-2"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "FS26-63",
+   "description": "CHANGE OVER SWITCHES | FS26-63 63A 3-POLE 1-0-2",
+   "price_pkr": 2570,
+   "specs": {
+    "series": "FS26 CHANGE OVER SWITCHES",
+    "rating": "63A",
+    "poles": "3P",
+    "positions": "1-0-2"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "FS26-63",
+   "description": "CHANGE OVER SWITCHES | FS26-63 63A 4-POLE 1-0-2",
+   "price_pkr": 3020,
+   "specs": {
+    "series": "FS26 CHANGE OVER SWITCHES",
+    "rating": "63A",
+    "poles": "4P",
+    "positions": "1-0-2"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "FS26-32",
+   "description": "PHASE SELECTOR SWITCHES | FS26-32 32A 3-POSITION 0-1-2-3",
+   "price_pkr": 2270,
+   "specs": {
+    "series": "FS26 PHASE SELECTOR SWITCHES",
+    "rating": "32A",
+    "positions": "3-POSITION 0-1-2-3"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "PHASE SELECTOR SWITCHES",
+   "model": "FS26-16",
+   "description": "PHASE SELECTOR SWITCHES | FS26-16 32A 4-POSITION 0-1-2-3-4",
+   "price_pkr": 2270,
+   "specs": {
+    "series": "FS26 PHASE SELECTOR SWITCHES",
+    "rating": "32A",
+    "note": "model code says -16 but the row prints 32A; kept exactly as printed",
+    "positions": "4-POSITION 0-1-2-3-4"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "SERIES ROTARY SWITCHES",
+   "model": "FS30-40",
+   "description": "SERIES ROTARY SWITCHES | FS30-40 OFF-ON 3 POLE",
+   "price_pkr": 3025,
+   "specs": {
+    "series": "FS30 SERIES ROTARY SWITCHES",
+    "poles": "3P",
+    "positions": "OFF-ON"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "SERIES ROTARY SWITCHES",
+   "model": "FS30-80",
+   "description": "SERIES ROTARY SWITCHES | FS30-80 OFF-ON 3 POLE",
+   "price_pkr": 4530,
+   "specs": {
+    "series": "FS30 SERIES ROTARY SWITCHES",
+    "poles": "3P",
+    "positions": "OFF-ON"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC AMMETER",
+   "model": "FDM 96A",
+   "description": "DIGITAL AC AMMETER | FDM 96A - 96 X 96 MM (10A TO 9995A PROGRAMMABLE) 4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ FOR USE WITH 5A CT",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FDM DIGITAL AC AMMETER",
+    "size": "96 X 96 MM",
+    "rating": "10-9995A",
+    "programmable_range": "10A TO 9995A PROGRAMMABLE"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC AMMETER",
+   "model": "FDM 96B-A",
+   "description": "DIGITAL AC AMMETER | FDM 96B-A - 96 X 48 MM (10A TO 9995A PROGRAMMABLE) 4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ FOR USE WITH 5A CT",
+   "price_pkr": 2110,
+   "specs": {
+    "series": "FDM DIGITAL AC AMMETER",
+    "size": "96 X 48 MM",
+    "rating": "10-9995A",
+    "programmable_range": "10A TO 9995A PROGRAMMABLE"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC AMMETER",
+   "model": "FDM 48A",
+   "description": "DIGITAL AC AMMETER | FDM 48A - 48 X 48 MM (10A TO 9995A PROGRAMMABLE) 4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ FOR USE WITH 5A CT",
+   "price_pkr": 2110,
+   "specs": {
+    "series": "FDM DIGITAL AC AMMETER",
+    "size": "48 X 48 MM",
+    "rating": "10-9995A",
+    "programmable_range": "10A TO 9995A PROGRAMMABLE"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC AMMETER",
+   "model": "FDM 72A",
+   "description": "DIGITAL AC AMMETER | FDM 72A - 72 X 72 MM 3 PHASE (10A TO 9995A PROGRAMMABLE) 4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ FOR USE WITH 5A CT",
+   "price_pkr": 1510,
+   "specs": {
+    "series": "FDM DIGITAL AC AMMETER",
+    "size": "72 X 72 MM",
+    "rating": "10-9995A",
+    "programmable_range": "10A TO 9995A PROGRAMMABLE",
+    "phases": "3 PHASE"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC AMMETER",
+   "model": "FDM 96 3A",
+   "description": "DIGITAL AC AMMETER | FDM 96 3A - 96 X 96 MM 3 PHASE (10A TO 9995A PROGRAMMABLE) 4 DIGIT PASSWORD CODE ACCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ FOR USE WITH 5A CT",
+   "price_pkr": 3780,
+   "specs": {
+    "series": "FDM DIGITAL AC AMMETER",
+    "size": "96 X 96 MM",
+    "rating": "10-9995A",
+    "programmable_range": "10A TO 9995A PROGRAMMABLE",
+    "phases": "3 PHASE"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC VOLTMETER",
+   "model": "FDM 96V",
+   "description": "DIGITAL AC VOLTMETER | FDM 96V - 96 X 96 MM 4 DI G IT P AS S WO RD C O DE A CCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FDM DIGITAL AC VOLTMETER",
+    "size": "96 X 96 MM"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC VOLTMETER",
+   "model": "FDM 96B-V",
+   "description": "DIGITAL AC VOLTMETER | FDM 96B-V - 96 X 48 MM 4 DI G IT P AS S WO RD C O DE A CC E SS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+   "price_pkr": 2110,
+   "specs": {
+    "series": "FDM DIGITAL AC VOLTMETER",
+    "size": "96 X 48 MM"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC VOLTMETER",
+   "model": "FDM 48V",
+   "description": "DIGITAL AC VOLTMETER | FDM 48V - 48 X 48 MM 4 DI G IT P AS S WO RD C O DE A CCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+   "price_pkr": 2110,
+   "specs": {
+    "series": "FDM DIGITAL AC VOLTMETER",
+    "size": "48 X 48 MM"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC VOLTMETER",
+   "model": "FDM 72V",
+   "description": "DIGITAL AC VOLTMETER | FDM 72V - 72 X 72 MM 4 DI G IT P AS S WO RD C O DE A CCESS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FDM DIGITAL AC VOLTMETER",
+    "size": "72 X 72 MM"
+   }
+  },
+  {
+   "page": 9,
+   "brand": "FICO",
+   "section": "DIGITAL AC VOLTMETER",
+   "model": "FDM 96 3V",
+   "description": "DIGITAL AC VOLTMETER | FDM 96 3V - 96 X 96 MM 4 DI G IT P AS S WO RD C O DE A CC E SS 0.5% - 1% ACCURACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+   "price_pkr": 3780,
+   "specs": {
+    "series": "FDM DIGITAL AC VOLTMETER",
+    "size": "96 X 96 MM"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL FREQUENCY METER",
+   "model": "FDM 96F",
+   "description": "DIGITAL FREQUENCY METER | FDM 96F - 96 X 96 MM 0 . 5 % - 1 % AC C U R ACY POWER CONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ 4 DIGIT PASSWORD CODE ACCESS 0.5% - 1%",
+   "price_pkr": 1690,
+   "specs": {
+    "series": "FDM DIGITAL FREQUENCY METER",
+    "size": "96 X 96 MM"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL FREQUENCY METER",
+   "model": "FDM 72F",
+   "description": "DIGITAL FREQUENCY METER | FDM 72F - 72 X 72 MM A C C UR A C Y P OW E R C ONSUMPTION < 4VA OPERATING FREQUENCY 45 - 65 HZ",
+   "price_pkr": 1690,
+   "specs": {
+    "series": "FDM DIGITAL FREQUENCY METER",
+    "size": "72 X 72 MM"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL FREQUENCY METER",
+   "model": "FDM-80A",
+   "description": "DIGITAL FREQUENCY METER | FDM-80A - 80 X 80 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+   "price_pkr": 890,
+   "specs": {
+    "series": "FDM DIGITAL FREQUENCY METER",
+    "size": "80 X 80 X 49 MM",
+    "current_range": "0-60A AC"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL FREQUENCY METER",
+   "model": "FDM-60A",
+   "description": "DIGITAL FREQUENCY METER | FDM-60A - 60 X 60 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+   "price_pkr": 890,
+   "specs": {
+    "series": "FDM DIGITAL FREQUENCY METER",
+    "size": "60 X 60 X 49 MM",
+    "current_range": "0-60A AC"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL FREQUENCY METER",
+   "model": "FDM-80V",
+   "description": "DIGITAL FREQUENCY METER | FDM-80V - 80 X 80 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+   "price_pkr": 540,
+   "specs": {
+    "series": "FDM DIGITAL FREQUENCY METER",
+    "size": "80 X 80 X 49 MM",
+    "current_range": "0-60A AC"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL FREQUENCY METER",
+   "model": "FDM-60A",
+   "description": "DIGITAL FREQUENCY METER | FDM-60A - 60 X 60 X 49 MM CURRENT MEASURING RANGE - 0-60A AC",
+   "price_pkr": 540,
+   "specs": {
+    "series": "FDM DIGITAL FREQUENCY METER",
+    "size": "60 X 60 X 49 MM",
+    "current_range": "0-60A AC",
+    "note": "FDM-60A is printed twice in this table (890 and 540); this second row follows FDM-80V in the voltmeter pair and is most likely a misprint for FDM-60V - kept exactly as printed"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL WATT METER",
+   "model": "FDM-W",
+   "description": "DIGITAL WATT METER | FDM-W - 96 X 96 X 82 MM : 5A/10A/20A AC (20% to 100% of Maximum Class:1.0/0.5(Optional) V al u e ) C ur r e nt Tr a n sf o rm e r i s us e d a s a Current Transducer for durability. Aux. Supply : 230V + 20% / 110V + 20%",
+   "price_pkr": 5150,
+   "specs": {
+    "series": "FDM DIGITAL WATT METER",
+    "size": "96 X 96 X 82 MM"
+   }
+  },
+  {
+   "page": 10,
+   "brand": "FICO",
+   "section": "DIGITAL DIN RAIL TYPE METER",
+   "model": "FDM-DRT",
+   "description": "DIGITAL DIN RAIL TYPE METER | FDM-DRT DIGITAL DIN RAIL TYPE CURRENT MEASURING RANGE - 0-100A AC 54 X 80 X 64 MM VOLTAGE MEASURING RANGE - 60-300V AC",
+   "price_pkr": 1900,
+   "specs": {
+    "series": "FDM DIGITAL DIN RAIL TYPE METER",
+    "size": "54 X 80 X 64 MM",
+    "current_range": "0-100A AC",
+    "voltage_range": "60-300V AC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "FICO",
+   "section": "DIGITAL VA METER",
+   "model": "FDM-VA",
+   "description": "DIGITAL VA METER | FDM-VA | CURRENT MEASURING RANGE - 0-100A AC | VOLTAGE MEASURING RANGE - 60-300V AC | 54 X 80 X 64 MM",
+   "price_pkr": 1600,
+   "specs": {
+    "series": "FDM DIGITAL VA METER",
+    "size": "54 X 80 X 64 MM",
+    "current_range": "0-100A AC",
+    "voltage_range": "60-300V AC"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "FICO",
+   "section": "DIGITAL VAF METER",
+   "model": "FDM-VAF",
+   "description": "DIGITAL VAF METER | FDM-VAF(96 x 96 x 82) | PHASE TO NEUTRAL VOLTAGES, PHASE TO PHASE VOLTAGES, PHASE CURRENT-IR,IY,IB, AVG.PHASE TO PHASE VOLTAGE, AVG.PHASE PHASE CURRENT, FREQUENCY",
+   "price_pkr": 3780,
+   "specs": {
+    "series": "FDM DIGITAL VAF METER",
+    "size": "96 x 96 x 82"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "FICO",
+   "section": "DIGITAL POWER ANALYSER",
+   "model": "FDM-PA",
+   "description": "DIGITAL POWER ANALYSER | FDM-PA (96 x 96 x 82) | without communication interface",
+   "price_pkr": 8300,
+   "specs": {
+    "series": "FDM DIGITAL POWER ANALYSER",
+    "size": "96 x 96 x 82",
+    "variant": "without communication interface"
+   }
+  },
+  {
+   "page": 11,
+   "brand": "FICO",
+   "section": "DIGITAL POWER ANALYSER",
+   "model": "FDM-PA",
+   "description": "DIGITAL POWER ANALYSER | FDM-PA (96 x 96 x 82) | with communication interface",
+   "price_pkr": 9800,
+   "specs": {
+    "series": "FDM DIGITAL POWER ANALYSER",
+    "size": "96 x 96 x 82",
+    "variant": "with communication interface"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "D FUSE Fitting",
+   "model": "FUSE CUTOUT (SINGLE INSULATOR) WAPDA APPROVED",
+   "description": "D FUSE Fitting | FUSE CUTOUT (SINGLE INSULATOR) WAPDA APPROVED",
+   "price_pkr": 5500,
+   "specs": {
+    "series": "D FUSE Fitting",
+    "note": "no catalogue code printed; the printed item name is used as the model"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "D FUSE Fitting",
+   "model": "FUSE CUTOUT (DOUBLE INSULATOR) OLD DESIGN",
+   "description": "D FUSE Fitting | FUSE CUTOUT (DOUBLE INSULATOR) OLD DESIGN",
+   "price_pkr": 6500,
+   "specs": {
+    "series": "D FUSE Fitting",
+    "note": "no catalogue code printed; the printed item name is used as the model"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "D FUSE Fitting",
+   "model": "DISCONNECTOR SWITCH",
+   "description": "D FUSE Fitting | DISCONNECTOR SWITCH",
+   "price_pkr": 15000,
+   "specs": {
+    "series": "D FUSE Fitting",
+    "note": "no catalogue code printed; the printed item name is used as the model"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "D FUSE Fitting",
+   "model": "DROPOUT CUT OUT (SINGLE ROD)",
+   "description": "D FUSE Fitting | DROPOUT CUT OUT (SINGLE ROD)",
+   "price_pkr": 1350,
+   "specs": {
+    "series": "D FUSE Fitting",
+    "note": "no catalogue code printed; the printed item name is used as the model"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "D FUSE Fitting",
+   "model": "DROOPOUT CUTOUT (DOUBLE ROD)",
+   "description": "D FUSE Fitting | DROOPOUT CUTOUT (DOUBLE ROD)",
+   "price_pkr": 1650,
+   "specs": {
+    "series": "D FUSE Fitting",
+    "note": "no catalogue code printed; the printed item name is used as the model"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "1K",
+   "description": "FUSE LINK (11 KV) | 1K",
+   "price_pkr": 250,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "1K",
+    "note": "rating is the printed K-type fuse-link size (1K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "3K",
+   "description": "FUSE LINK (11 KV) | 3K",
+   "price_pkr": 250,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "3K",
+    "note": "rating is the printed K-type fuse-link size (3K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "6K",
+   "description": "FUSE LINK (11 KV) | 6K",
+   "price_pkr": 250,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "6K",
+    "note": "rating is the printed K-type fuse-link size (6K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "10K",
+   "description": "FUSE LINK (11 KV) | 10K",
+   "price_pkr": 250,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "10K",
+    "note": "rating is the printed K-type fuse-link size (10K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "15K",
+   "description": "FUSE LINK (11 KV) | 15K",
+   "price_pkr": 250,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "15K",
+    "note": "rating is the printed K-type fuse-link size (15K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "30K",
+   "description": "FUSE LINK (11 KV) | 30K",
+   "price_pkr": 270,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "30K",
+    "note": "rating is the printed K-type fuse-link size (30K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "40K",
+   "description": "FUSE LINK (11 KV) | 40K",
+   "price_pkr": 270,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "40K",
+    "note": "rating is the printed K-type fuse-link size (40K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "50K",
+   "description": "FUSE LINK (11 KV) | 50K",
+   "price_pkr": 350,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "50K",
+    "note": "rating is the printed K-type fuse-link size (50K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "60K",
+   "description": "FUSE LINK (11 KV) | 60K",
+   "price_pkr": 400,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "60K",
+    "note": "rating is the printed K-type fuse-link size (60K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "80K",
+   "description": "FUSE LINK (11 KV) | 80K",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "80K",
+    "note": "rating is the printed K-type fuse-link size (80K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "100K",
+   "description": "FUSE LINK (11 KV) | 100K",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "100K",
+    "note": "rating is the printed K-type fuse-link size (100K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "150K",
+   "description": "FUSE LINK (11 KV) | 150K",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "150K",
+    "note": "rating is the printed K-type fuse-link size (150K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "160K",
+   "description": "FUSE LINK (11 KV) | 160K",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "160K",
+    "note": "rating is the printed K-type fuse-link size (160K), exactly as printed"
+   }
+  },
+  {
+   "page": 12,
+   "brand": "FICO",
+   "section": "FUSE LINK (11 KV)",
+   "model": "200K",
+   "description": "FUSE LINK (11 KV) | 200K",
+   "price_pkr": 1500,
+   "specs": {
+    "series": "FUSE LINK (11 KV)",
+    "voltage": "11 KV",
+    "rating": "200K",
+    "note": "rating is the printed K-type fuse-link size (200K), exactly as printed"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "30 Amp Main Switch",
+   "description": "MAIN SWITCHES | 30 Amp Main Switch | 3 Pole",
+   "price_pkr": 2930,
+   "specs": {
+    "rating": "30A",
+    "poles": "3P",
+    "series": "Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "60 Amp Main Switch",
+   "description": "MAIN SWITCHES | 60 Amp Main Switch | 3 Pole",
+   "price_pkr": 3860,
+   "specs": {
+    "rating": "60A",
+    "poles": "3P",
+    "series": "Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "100 Amp (TPN) Main Switch",
+   "description": "MAIN SWITCHES | 100 Amp (TPN) Main Switch | 3 Pole",
+   "price_pkr": 9360,
+   "specs": {
+    "rating": "100A",
+    "poles": "3P",
+    "series": "Main Switch",
+    "configuration": "TPN",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "100 Amp Turn HRC Main Switch",
+   "description": "MAIN SWITCHES | 100 Amp Turn HRC Main Switch | 4 Pole",
+   "price_pkr": 14040,
+   "specs": {
+    "rating": "100A",
+    "poles": "4P",
+    "series": "Turn HRC Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "200 Amp Turn HRC Main Switch",
+   "description": "MAIN SWITCHES | 200 Amp Turn HRC Main Switch | 4 Pole",
+   "price_pkr": 19890,
+   "specs": {
+    "rating": "200A",
+    "poles": "4P",
+    "series": "Turn HRC Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "300 Amp Turn HRC Main Switch",
+   "description": "MAIN SWITCHES | 300 Amp Turn HRC Main Switch | 4 Pole",
+   "price_pkr": 22230,
+   "specs": {
+    "rating": "300A",
+    "poles": "4P",
+    "series": "Turn HRC Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "400 Amp Turn HRC Main Switch",
+   "description": "MAIN SWITCHES | 400 Amp Turn HRC Main Switch | 4 Pole",
+   "price_pkr": 37440,
+   "specs": {
+    "rating": "400A",
+    "poles": "4P",
+    "series": "Turn HRC Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "500 Amp Turn HRC Main Switch",
+   "description": "MAIN SWITCHES | 500 Amp Turn HRC Main Switch | 4 Pole",
+   "price_pkr": 41886,
+   "specs": {
+    "rating": "500A",
+    "poles": "4P",
+    "series": "Turn HRC Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "MAIN SWITCHES",
+   "model": "600 Amp Turn HRC Main Switch",
+   "description": "MAIN SWITCHES | 600 Amp Turn HRC Main Switch | 4 Pole",
+   "price_pkr": 50900,
+   "specs": {
+    "rating": "600A",
+    "poles": "4P",
+    "series": "Turn HRC Main Switch",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "43 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 43 Amp Change Over (Wall Mounted) | 2 Pole",
+   "price_pkr": 1700,
+   "specs": {
+    "rating": "43A",
+    "poles": "2P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "63 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 63 Amp Change Over (Wall Mounted) | 2 Pole",
+   "price_pkr": 2870,
+   "specs": {
+    "rating": "63A",
+    "poles": "2P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "30 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 30 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 4680,
+   "specs": {
+    "rating": "30A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "60 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 60 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 6560,
+   "specs": {
+    "rating": "60A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "100 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 100 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 10300,
+   "specs": {
+    "rating": "100A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "200 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 200 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 20240,
+   "specs": {
+    "rating": "200A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "300 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 300 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 23400,
+   "specs": {
+    "rating": "300A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "400 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 400 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 39550,
+   "specs": {
+    "rating": "400A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "500 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 500 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 45400,
+   "specs": {
+    "rating": "500A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "600 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 600 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 70200,
+   "specs": {
+    "rating": "600A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "800 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 800 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 118400,
+   "specs": {
+    "rating": "800A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "1000 Amp Change Over (Wall Mounted)",
+   "description": "CHANGE OVER SWITCHES | 1000 Amp Change Over (Wall Mounted) | 4 Pole",
+   "price_pkr": 141800,
+   "specs": {
+    "rating": "1000A",
+    "poles": "4P",
+    "series": "Change Over (Wall Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "500 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 500 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 118400,
+   "specs": {
+    "rating": "500A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "600 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 600 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 155410,
+   "specs": {
+    "rating": "600A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "800 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 800 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 207210,
+   "specs": {
+    "rating": "800A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "1000 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 1000 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 224700,
+   "specs": {
+    "rating": "1000A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "1200 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 1200 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 281620,
+   "specs": {
+    "rating": "1200A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "1600 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 1600 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 322920,
+   "specs": {
+    "rating": "1600A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "2000 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 2000 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 387770,
+   "specs": {
+    "rating": "2000A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  },
+  {
+   "page": 13,
+   "brand": "FICO",
+   "section": "CHANGE OVER SWITCHES",
+   "model": "2500 Amp Change Over (Floor Mounted)",
+   "description": "CHANGE OVER SWITCHES | 2500 Amp Change Over (Floor Mounted) | 4 Pole",
+   "price_pkr": 414410,
+   "specs": {
+    "rating": "2500A",
+    "poles": "4P",
+    "series": "Change Over (Floor Mounted)",
+    "note": "no catalogue code printed on this page; the printed Rating/Type/Poles triple is used as the model. Page header prints 'FICO ENTERPRISES'"
+   }
+  }
+ ],
+ "skipped": [],
+ "stats": {
+  "pages": 13,
+  "rows": 390,
+  "priced": 390,
+  "skipped": 0
+ }
+}

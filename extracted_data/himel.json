@@ -1,0 +1,227 @@
+{
+  "brand": "Himel",
+  "products": [
+    {
+      "name": "WIRING DEVICES &",
+      "category": "general",
+      "series": "",
+      "description": "WIRING DEVICES &",
+      "variants": [
+        {
+          "cat_no": "MAY,",
+          "description": "MAY,",
+          "price": 2022.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "www.himel.com",
+      "category": "general",
+      "series": "",
+      "description": "www.himel.com",
+      "variants": [
+        {
+          "cat_no": "Founded",
+          "description": "Founded in Spain",
+          "price": 1958.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "www.powerhouse.com.pk",
+      "category": "general",
+      "series": "",
+      "description": "www.powerhouse.com.pk",
+      "variants": [
+        {
+          "cat_no": "HDM3250S250B3XX",
+          "description": "HDM3250S250B3XX 4 Pole 250 Amps 250 35",
+          "price": 21.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "HDM3400F400B3XX",
+          "description": "HDM3400F400B3XX 4 Pole 400 Amps 400 50 30",
+          "price": 42550.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "HDM3630F630B3XX",
+          "description": "HDM3630F630B3XX 4 Pole 630 Amps 630 50 30",
+          "price": 69000.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "HDM3800F800B3XX",
+          "description": "HDM3800F800B3XX 4 Pole 800 Amps 800 70 40",
+          "price": 10650075300.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "5,060",
+          "description": "5,060 5,060 5,630",
+          "price": 8160.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "50,140",
+          "description": "50,140 56,350 69,0008,160 16,9605,630 6,900 8,510 9,030 17,5902,760 2,990 3,330 3,790",
+          "price": 4020.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "(L,S,I)",
+      "category": "general",
+      "series": "",
+      "description": "(L,S,I)",
+      "variants": [
+        {
+          "cat_no": "5,060",
+          "description": "5,060 5,060 5,630",
+          "price": 8160.0,
+          "price_on_request": false,
+          "specs": {}
+        },
+        {
+          "cat_no": "50,140",
+          "description": "50,140 56,350 69,0008,160 16,9605,630 6,900 8,510 9,030 17,5902,760 2,990 3,330 3,790",
+          "price": 4020.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Low-voltage Capacitor",
+      "category": "general",
+      "series": "",
+      "description": "Low-voltage Capacitor",
+      "variants": [
+        {
+          "cat_no": "HBSM/HDCAP",
+          "description": "HBSM/HDCAP",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Self discharge characteriﬆic",
+      "category": "general",
+      "series": "",
+      "description": "Self discharge characteriﬆic",
+      "variants": [
+        {
+          "cat_no": "Standard",
+          "description": "Standard IEC",
+          "price": 60831.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "HBSM00415002503D",
+      "category": "general",
+      "series": "",
+      "description": "HBSM00415002503D",
+      "variants": [
+        {
+          "cat_no": "HBSM00415005003Q",
+          "description": "HBSM00415005003Q",
+          "price": 6900.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Price (Rs.)",
+      "category": "general",
+      "series": "",
+      "description": "Price (Rs.)",
+      "variants": [
+        {
+          "cat_no": "HJKL5CQ12S",
+          "description": "HJKL5CQ12S Rs.",
+          "price": 35650.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Prime Series",
+      "category": "general",
+      "series": "",
+      "description": "Prime Series",
+      "variants": [
+        {
+          "cat_no": "2,385",
+          "description": "2,385",
+          "price": 1360.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "HWDP2G1W22P",
+      "category": "general",
+      "series": "",
+      "description": "HWDP2G1W22P",
+      "variants": [
+        {
+          "cat_no": "HWDP2G1W2PSocket",
+          "description": "HWDP2G1W2PSocket Outlets",
+          "price": 1350.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "Telecommunication Accessories",
+      "category": "general",
+      "series": "",
+      "description": "Telecommunication Accessories",
+      "variants": [
+        {
+          "cat_no": "HWDP2COM",
+          "description": "HWDP2COM 2Gang Data     HWDPFS",
+          "price": 3.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    },
+    {
+      "name": "HWDP2MFSN2USB",
+      "category": "general",
+      "series": "",
+      "description": "HWDP2MFSN2USB",
+      "variants": [
+        {
+          "cat_no": "Oct,",
+          "description": "Oct,",
+          "price": 2021.0,
+          "price_on_request": false,
+          "specs": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2101 @@
+{
+  "source_pdf": "CHINT PRICE LIST 2020.pdf",
+  "rows": [
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C6 6kA",
+      "price_pkr": 604,
+      "specs": {
+        "poles": "1P",
+        "rating": "6A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "1"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C10 6kA",
+      "price_pkr": 420,
+      "specs": {
+        "poles": "1P",
+        "rating": "10A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "2"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C16 6kA",
+      "price_pkr": 420,
+      "specs": {
+        "poles": "1P",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "3"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C20 6kA",
+      "price_pkr": 420,
+      "specs": {
+        "poles": "1P",
+        "rating": "20A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "4"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C25 6kA",
+      "price_pkr": 420,
+      "specs": {
+        "poles": "1P",
+        "rating": "25A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "5"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C32 6kA",
+      "price_pkr": 440,
+      "specs": {
+        "poles": "1P",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "6"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C40 6kA",
+      "price_pkr": 460,
+      "specs": {
+        "poles": "1P",
+        "rating": "40A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "7"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C50 6kA",
+      "price_pkr": 480,
+      "specs": {
+        "poles": "1P",
+        "rating": "50A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "8"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C63 6kA",
+      "price_pkr": 500,
+      "specs": {
+        "poles": "1P",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C80 6kA",
+      "price_pkr": 1106,
+      "specs": {
+        "poles": "1P",
+        "rating": "80A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "1P\"Single Pole\"",
+      "model": "NXB-63",
+      "description": "1P\"Single Pole\" - NXB-63 1P C100 6kA",
+      "price_pkr": 1106,
+      "specs": {
+        "poles": "1P",
+        "rating": "100A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "9"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C6 6kA",
+      "price_pkr": 1200,
+      "specs": {
+        "poles": "2P",
+        "rating": "6A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "10"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C10 6kA",
+      "price_pkr": 1000,
+      "specs": {
+        "poles": "2P",
+        "rating": "10A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "11"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C16 6kA",
+      "price_pkr": 830,
+      "specs": {
+        "poles": "2P",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "12"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C20 6kA",
+      "price_pkr": 860,
+      "specs": {
+        "poles": "2P",
+        "rating": "20A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "13"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C25 6kA",
+      "price_pkr": 720,
+      "specs": {
+        "poles": "2P",
+        "rating": "25A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "14"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C32 6kA",
+      "price_pkr": 936,
+      "specs": {
+        "poles": "2P",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "15"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C40 6kA",
+      "price_pkr": 780,
+      "specs": {
+        "poles": "2P",
+        "rating": "40A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "16"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C50 6kA",
+      "price_pkr": 915,
+      "specs": {
+        "poles": "2P",
+        "rating": "50A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "17"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C63 6kA",
+      "price_pkr": 1035,
+      "specs": {
+        "poles": "2P",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 1P C80 6kA",
+      "price_pkr": 2197,
+      "specs": {
+        "poles": "1P",
+        "rating": "80A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "note": "printed \"1P C80\" inside the 2P\"Double Pole\" block (between 2P C63 and 2P C100); price 2197 matches the 2P price level - likely a misprint for 2P C80, kept as printed"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "2P\"Double Pole\"",
+      "model": "NXB-63",
+      "description": "2P\"Double Pole\" - NXB-63 2P C100 6kA",
+      "price_pkr": 2197,
+      "specs": {
+        "poles": "2P",
+        "rating": "100A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "18"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C6 6kA",
+      "price_pkr": 1645,
+      "specs": {
+        "poles": "3P",
+        "rating": "6A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "19"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C10 6kA",
+      "price_pkr": 1185,
+      "specs": {
+        "poles": "3P",
+        "rating": "10A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "20"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C16 6kA",
+      "price_pkr": 1195,
+      "specs": {
+        "poles": "3P",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "21"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C20 6kA",
+      "price_pkr": 1155,
+      "specs": {
+        "poles": "3P",
+        "rating": "20A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "22"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C25 6kA",
+      "price_pkr": 1072,
+      "specs": {
+        "poles": "3P",
+        "rating": "25A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "23"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C32 6kA",
+      "price_pkr": 1232,
+      "specs": {
+        "poles": "3P",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "24"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C40 6kA",
+      "price_pkr": 1160,
+      "specs": {
+        "poles": "3P",
+        "rating": "40A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "25"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C50 6kA",
+      "price_pkr": 1400,
+      "specs": {
+        "poles": "3P",
+        "rating": "50A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "26"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C63 6kA",
+      "price_pkr": 1500,
+      "specs": {
+        "poles": "3P",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C80 6kA",
+      "price_pkr": 3239,
+      "specs": {
+        "poles": "3P",
+        "rating": "80A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "3P\"Three Pole\"",
+      "model": "NXB-63",
+      "description": "3P\"Three Pole\" - NXB-63 3P C100 6kA",
+      "price_pkr": 3239,
+      "specs": {
+        "poles": "3P",
+        "rating": "100A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "series": "NXB-63",
+        "serial_no": "27"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "4P\"Four Pole\"",
+      "model": "NXB-125",
+      "description": "4P\"Four Pole\" - NXB-125 4P C80",
+      "price_pkr": 4220,
+      "specs": {
+        "poles": "4P",
+        "rating": "80A",
+        "trip_curve": "C",
+        "series": "NXB-125",
+        "serial_no": "28"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "4P\"Four Pole\"",
+      "model": "NXB-125",
+      "description": "4P\"Four Pole\" - NXB-125 4P C100",
+      "price_pkr": 4220,
+      "specs": {
+        "poles": "4P",
+        "rating": "100A",
+        "trip_curve": "C",
+        "series": "NXB-125",
+        "serial_no": "29"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "4P\"Four Pole\"",
+      "model": "NXB-125",
+      "description": "4P\"Four Pole\" - NXB-125 4P C125",
+      "price_pkr": 5388,
+      "specs": {
+        "poles": "4P",
+        "rating": "125A",
+        "trip_curve": "C",
+        "series": "NXB-125",
+        "serial_no": "30"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NM1-63S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NM1-63S/3300 32A (3P)",
+      "price_pkr": 5828,
+      "specs": {
+        "poles": "3P",
+        "rating": "32A",
+        "series": "NM1/3300"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NM1-63S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NM1-63S/3300 63A (3P)",
+      "price_pkr": 5828,
+      "specs": {
+        "poles": "3P",
+        "rating": "63A",
+        "series": "NM1/3300"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-125S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-125S/3300 100A (3P)",
+      "price_pkr": 6700,
+      "specs": {
+        "poles": "3P",
+        "rating": "100A",
+        "series": "NXM/3300",
+        "serial_no": "31"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-125S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-125S/3300 125A (3P)",
+      "price_pkr": 6718,
+      "specs": {
+        "poles": "3P",
+        "rating": "125A",
+        "series": "NXM/3300",
+        "serial_no": "32"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-160S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-160S/3300 160A (3P)",
+      "price_pkr": 8918,
+      "specs": {
+        "poles": "3P",
+        "rating": "160A",
+        "series": "NXM/3300",
+        "serial_no": "33"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-250S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-250S/3300 250A (3P)",
+      "price_pkr": 11600,
+      "specs": {
+        "poles": "3P",
+        "rating": "250A",
+        "series": "NXM/3300",
+        "serial_no": "34"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-400S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-400S/3300 400A (3P)",
+      "price_pkr": 27100,
+      "specs": {
+        "poles": "3P",
+        "rating": "400A",
+        "series": "NXM/3300",
+        "serial_no": "35"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-630S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-630S/3300 630A (3P)",
+      "price_pkr": 27215,
+      "specs": {
+        "poles": "3P",
+        "rating": "630A",
+        "series": "NXM/3300",
+        "serial_no": "36"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-800S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-800S/3300 800A (3P)",
+      "price_pkr": 39884,
+      "specs": {
+        "poles": "3P",
+        "rating": "800A",
+        "series": "NXM/3300",
+        "serial_no": "37"
+      }
+    },
+    {
+      "page": 1,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB)(3P)",
+      "model": "NXM-1000S/3300",
+      "description": "Moulded Case Circuit Breakers (MCCB)(3P) - NXM-1000S/3300 1000A",
+      "price_pkr": 57073,
+      "specs": {
+        "poles": "3P",
+        "rating": "1000A",
+        "series": "NXM/3300"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-125S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-125S/4300B 32A (4P)",
+      "price_pkr": 10432,
+      "specs": {
+        "poles": "4P",
+        "rating": "32A",
+        "series": "NXM/4300B",
+        "serial_no": "38"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-125S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-125S/4300B 63A (4P)",
+      "price_pkr": 10432,
+      "specs": {
+        "poles": "4P",
+        "rating": "63A",
+        "series": "NXM/4300B",
+        "serial_no": "39"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-125S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-125S/4300B 100A (4P)",
+      "price_pkr": 5868,
+      "specs": {
+        "poles": "4P",
+        "rating": "100A",
+        "series": "NXM/4300B",
+        "serial_no": "40"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-125S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-125S/4300B 125A (4P)",
+      "price_pkr": 8378,
+      "specs": {
+        "poles": "4P",
+        "rating": "125A",
+        "series": "NXM/4300B",
+        "serial_no": "41"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-160S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-160S/4300B 160A (4P)",
+      "price_pkr": 9394,
+      "specs": {
+        "poles": "4P",
+        "rating": "160A",
+        "series": "NXM/4300B",
+        "serial_no": "42"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-250S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-250S/4300B 250A (4P)",
+      "price_pkr": 14686,
+      "specs": {
+        "poles": "4P",
+        "rating": "250A",
+        "series": "NXM/4300B",
+        "serial_no": "43"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-400S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-400S/4300B 400A (4P)",
+      "price_pkr": 28122,
+      "specs": {
+        "poles": "4P",
+        "rating": "400A",
+        "series": "NXM/4300B",
+        "serial_no": "44"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Moulded Case Circuit Breakers (MCCB) (4P)",
+      "model": "NXM-800S/4300B",
+      "description": "Moulded Case Circuit Breakers (MCCB) (4P) - NXM-800S/4300B 630A (4P)",
+      "price_pkr": 65930,
+      "specs": {
+        "poles": "4P",
+        "rating": "630A",
+        "series": "NXM/4300B",
+        "serial_no": "45"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-125S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-125S/4300A 32A A",
+      "price_pkr": 16058,
+      "specs": {
+        "rating": "32A",
+        "variant_code": "A",
+        "series": "NXMLE/4300A",
+        "serial_no": "48"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-125S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-125S/4300A 63A A",
+      "price_pkr": 16058,
+      "specs": {
+        "rating": "63A",
+        "variant_code": "A",
+        "series": "NXMLE/4300A",
+        "serial_no": "49"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-125S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-125S/4300A 100A A",
+      "price_pkr": 20458,
+      "specs": {
+        "rating": "100A",
+        "variant_code": "A",
+        "series": "NXMLE/4300A",
+        "serial_no": "50"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-125S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-125S/4300A 125A A",
+      "price_pkr": 20568,
+      "specs": {
+        "rating": "125A",
+        "variant_code": "A",
+        "series": "NXMLE/4300A",
+        "serial_no": "51"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-160S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-160S/4300A 160A A",
+      "price_pkr": 22892,
+      "specs": {
+        "rating": "160A",
+        "variant_code": "A",
+        "series": "NXMLE/4300A",
+        "serial_no": "52"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-250S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-250S/4300A 250A A",
+      "price_pkr": 23600,
+      "specs": {
+        "rating": "250A",
+        "variant_code": "A",
+        "series": "NXMLE/4300A",
+        "serial_no": "53"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-400S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-400S/4300A 400A B",
+      "price_pkr": 45654,
+      "specs": {
+        "rating": "400A",
+        "variant_code": "B",
+        "series": "NXMLE/4300A",
+        "serial_no": "54"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-630S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-630S/4300A 630A B",
+      "price_pkr": 98128,
+      "specs": {
+        "rating": "630A",
+        "variant_code": "B",
+        "series": "NXMLE/4300A",
+        "serial_no": "55"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A",
+      "model": "NXMLE-800S/4300A",
+      "description": "Earth Leakage 32A, 63A, 100A 125A, 160A, 250A 400A, 630A - NXMLE-800S/4300A 800A A",
+      "price_pkr": 116188,
+      "specs": {
+        "rating": "800A",
+        "variant_code": "A",
+        "series": "NXMLE/4300A"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C16 30mA 6kA",
+      "price_pkr": 1428,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "56"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C20 30mA 6kA",
+      "price_pkr": 1548,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "20A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "57"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C25 30mA 6kA",
+      "price_pkr": 1438,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "25A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "58"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C32 30mA 6kA",
+      "price_pkr": 1548,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "59"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C40 30mA 6kA",
+      "price_pkr": 1428,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "40A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "60"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C63 30mA 6kA",
+      "price_pkr": 1428,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "61"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C16 300mA 6kA",
+      "price_pkr": 1426,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "300mA",
+        "series": "NXBLE-63",
+        "serial_no": "62"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C32 300mA 6kA",
+      "price_pkr": 1426,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "300mA",
+        "series": "NXBLE-63",
+        "serial_no": "63"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 1P+N C63 300mA 6kA",
+      "price_pkr": 1426,
+      "specs": {
+        "poles": "1P+N",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "300mA",
+        "series": "NXBLE-63",
+        "serial_no": "64"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 2P C16 30mA 6kA",
+      "price_pkr": 2216,
+      "specs": {
+        "poles": "2P",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "65"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 2P C20 30mA 6kA",
+      "price_pkr": 2278,
+      "specs": {
+        "poles": "2P",
+        "rating": "20A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "66"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 2P C32 30mA 6kA",
+      "price_pkr": 2222,
+      "specs": {
+        "poles": "2P",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "67"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 2P C40 30mA 6kA",
+      "price_pkr": 2000,
+      "specs": {
+        "poles": "2P",
+        "rating": "40A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "68"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 2P C63 30mA 6kA",
+      "price_pkr": 2378,
+      "specs": {
+        "poles": "2P",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "69"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C16 30mA 6kA",
+      "price_pkr": 3748,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "70"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C20 30mA 6kA",
+      "price_pkr": 3914,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "20A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "71"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C25 30mA 6kA",
+      "price_pkr": 3608,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "25A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "72"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C32 30mA 6kA",
+      "price_pkr": 4050,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "73"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C40 30mA 6kA",
+      "price_pkr": 3608,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "40A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "74"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C63 30mA 6kA",
+      "price_pkr": 3724,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "30mA",
+        "series": "NXBLE-63",
+        "serial_no": "75"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C16 300mA 6kA",
+      "price_pkr": 3592,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "16A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "300mA",
+        "series": "NXBLE-63",
+        "serial_no": "76"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C32 300mA 6kA",
+      "price_pkr": 3592,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "32A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "300mA",
+        "series": "NXBLE-63",
+        "serial_no": "77"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Earth Leakage 1P,2P,3P",
+      "model": "NXBLE-63",
+      "description": "Earth Leakage 1P,2P,3P - NXBLE-63 3P+N C63 300mA 6kA",
+      "price_pkr": 4380,
+      "specs": {
+        "poles": "3P+N",
+        "rating": "63A",
+        "trip_curve": "C",
+        "breaking_capacity": "6kA",
+        "sensitivity": "300mA",
+        "series": "NXBLE-63",
+        "serial_no": "78"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-09",
+      "description": "Magnetic Contactors - NXC-09 230V 50/60Hz",
+      "price_pkr": 1686,
+      "specs": {
+        "rating": "9A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "79"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-12",
+      "description": "Magnetic Contactors - NXC-12 230V 50/60Hz",
+      "price_pkr": 1686,
+      "specs": {
+        "rating": "12A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "80"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-18",
+      "description": "Magnetic Contactors - NXC-18 230V 50/60Hz",
+      "price_pkr": 2000,
+      "specs": {
+        "rating": "18A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "81"
+      }
+    },
+    {
+      "page": 2,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-25",
+      "description": "Magnetic Contactors - NXC-25 230V 50/60Hz",
+      "price_pkr": 2696,
+      "specs": {
+        "rating": "25A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "82"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-32",
+      "description": "Magnetic Contactors - NXC-32 230V 50/60Hz",
+      "price_pkr": 3636,
+      "specs": {
+        "rating": "32A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "83"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-40",
+      "description": "Magnetic Contactors - NXC-40 230V 50/60Hz",
+      "price_pkr": 6770,
+      "specs": {
+        "rating": "40A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "84"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-65",
+      "description": "Magnetic Contactors - NXC-65 230V 50/60Hz",
+      "price_pkr": 8352,
+      "specs": {
+        "rating": "65A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "85"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-100",
+      "description": "Magnetic Contactors - NXC-100 230V 50/60Hz",
+      "price_pkr": 13612,
+      "specs": {
+        "rating": "100A",
+        "voltage": "230V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "86"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-09",
+      "description": "Magnetic Contactors - NXC-09 380V 50/60Hz",
+      "price_pkr": 1686,
+      "specs": {
+        "rating": "9A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "87"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-12",
+      "description": "Magnetic Contactors - NXC-12 380V 50/60Hz",
+      "price_pkr": 1685,
+      "specs": {
+        "rating": "12A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "88"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-18",
+      "description": "Magnetic Contactors - NXC-18 380V 50/60Hz",
+      "price_pkr": 2000,
+      "specs": {
+        "rating": "18A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "89"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-25",
+      "description": "Magnetic Contactors - NXC-25 380V 50/60Hz",
+      "price_pkr": 2696,
+      "specs": {
+        "rating": "25A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "90"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-32",
+      "description": "Magnetic Contactors - NXC-32 380V 50/60Hz",
+      "price_pkr": 3636,
+      "specs": {
+        "rating": "32A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "91"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-40",
+      "description": "Magnetic Contactors - NXC-40 380V 50/60Hz",
+      "price_pkr": 6198,
+      "specs": {
+        "rating": "40A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "92"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-85",
+      "description": "Magnetic Contactors - NXC-85 380V 50/60HZ",
+      "price_pkr": 10294,
+      "specs": {
+        "rating": "85A",
+        "voltage": "380V",
+        "frequency": "50/60HZ",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "93"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-100",
+      "description": "Magnetic Contactors - NXC-100 380V 50/60Hz",
+      "price_pkr": 14190,
+      "specs": {
+        "rating": "100A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "94"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-120",
+      "description": "Magnetic Contactors - NXC-120 380V 50/60Hz",
+      "price_pkr": null,
+      "specs": {
+        "rating": "120A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "95",
+        "note": "no price printed in the PDF for this line"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-160",
+      "description": "Magnetic Contactors - NXC-160 380V 50/60Hz",
+      "price_pkr": 27452,
+      "specs": {
+        "rating": "160A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "96"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Magnetic Contactors (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXC-185",
+      "description": "Magnetic Contactors - NXC-185 380V 50/60Hz",
+      "price_pkr": 27856,
+      "specs": {
+        "rating": "185A",
+        "voltage": "380V",
+        "frequency": "50/60Hz",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXC",
+        "serial_no": "97"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 0.63-1.0A",
+      "price_pkr": 1673,
+      "specs": {
+        "rating": "0.63-1.0A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 1.0-1.6A",
+      "price_pkr": 1600,
+      "specs": {
+        "rating": "1.0-1.6A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 1.6-2.5A",
+      "price_pkr": 1672,
+      "specs": {
+        "rating": "1.6-2.5A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "98"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 2.5-4A",
+      "price_pkr": 1500,
+      "specs": {
+        "rating": "2.5-4A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "99"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 4-6A",
+      "price_pkr": 1500,
+      "specs": {
+        "rating": "4-6A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "100"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 7-10A",
+      "price_pkr": 1648,
+      "specs": {
+        "rating": "7-10A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "101"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 9-13A",
+      "price_pkr": 1300,
+      "specs": {
+        "rating": "9-13A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "102"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 12-18A",
+      "price_pkr": 1378,
+      "specs": {
+        "rating": "12-18A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "103"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-25",
+      "description": "Thermal Overload Relays - NXR-25 17-25A",
+      "price_pkr": 1378,
+      "specs": {
+        "rating": "17-25A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "104"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-38",
+      "description": "Thermal Overload Relays - NXR-38 23A-32A",
+      "price_pkr": 1762,
+      "specs": {
+        "rating": "23A-32A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "105"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-100",
+      "description": "Thermal Overload Relays - NXR-100 63A-80A",
+      "price_pkr": 3900,
+      "specs": {
+        "rating": "63A-80A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "106"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Thermal Overload Relays (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NXR-100",
+      "description": "Thermal Overload Relays - NXR-100 80A-100A",
+      "price_pkr": 3900,
+      "specs": {
+        "rating": "80A-100A",
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NXR",
+        "serial_no": "107"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Push Buttons (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NP2-BA3311",
+      "description": "Push Buttons - NP2-BA3311",
+      "price_pkr": 470,
+      "specs": {
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NP2",
+        "serial_no": "108"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Push Buttons (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NP2-BA4322",
+      "description": "Push Buttons - NP2-BA4322",
+      "price_pkr": 470,
+      "specs": {
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NP2",
+        "serial_no": "109"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Push Buttons (Cetrificate From KEMA, CE, UL,VDE, PCT)",
+      "model": "NP2-BR41",
+      "description": "Push Buttons - NP2-BR41",
+      "price_pkr": 715,
+      "specs": {
+        "certificates": "KEMA, CE, UL,VDE, PCT",
+        "series": "NP2",
+        "serial_no": "110"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Indicators Lights",
+      "model": "ND16-22A/4",
+      "description": "Indicators Lights - ND16-22A/4 220V RED",
+      "price_pkr": 256,
+      "specs": {
+        "voltage": "220V",
+        "color": "RED",
+        "series": "ND16",
+        "serial_no": "111"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Indicators Lights",
+      "model": "ND16-22A/4",
+      "description": "Indicators Lights - ND16-22A/4 220V GRN",
+      "price_pkr": 256,
+      "specs": {
+        "voltage": "220V",
+        "color": "GRN",
+        "series": "ND16",
+        "serial_no": "112"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Voltmeter and Ammeters",
+      "model": "6L2-A",
+      "description": "Voltmeter and Ammeters - 6L2-A 500/5A(NO-OL)",
+      "price_pkr": 2546,
+      "specs": {
+        "measure_range": "500/5A(NO-OL)",
+        "series": "6L2",
+        "serial_no": "113"
+      }
+    },
+    {
+      "page": 3,
+      "brand": "CHINT",
+      "section": "Voltmeter and Ammeters",
+      "model": "6L2-V",
+      "description": "Voltmeter and Ammeters - 6L2-V 500V",
+      "price_pkr": 2546,
+      "specs": {
+        "voltage": "500V",
+        "series": "6L2",
+        "serial_no": "114"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "CHiNT Change Over Switches",
+      "model": "HY2-12",
+      "description": "CHiNT Change Over Switches - HY2-12",
+      "price_pkr": 1400,
+      "specs": {
+        "series": "HY2",
+        "serial_no": "115"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "CHiNT Change Over Switches",
+      "model": "HY2-20",
+      "description": "CHiNT Change Over Switches - HY2-20",
+      "price_pkr": 1400,
+      "specs": {
+        "series": "HY2",
+        "serial_no": "116"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "ATS (250A,400A,500A and 630A)",
+      "model": "NZ7-400S/4",
+      "description": "ATS (250A,400A,500A and 630A) - NZ7-400S/4 250A",
+      "price_pkr": 205142,
+      "specs": {
+        "rating": "250A",
+        "series": "NZ7",
+        "serial_no": "117"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "ATS (250A,400A,500A and 630A)",
+      "model": "NZ7-400S/4",
+      "description": "ATS (250A,400A,500A and 630A) - NZ7-400S/4 400A",
+      "price_pkr": 205142,
+      "specs": {
+        "rating": "400A",
+        "series": "NZ7",
+        "serial_no": "118"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "ATS (250A,400A,500A and 630A)",
+      "model": "NZ7-630S/4",
+      "description": "ATS (250A,400A,500A and 630A) - NZ7-630S/4 500A",
+      "price_pkr": 224112,
+      "specs": {
+        "rating": "500A",
+        "series": "NZ7",
+        "serial_no": "119"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "ATS (250A,400A,500A and 630A)",
+      "model": "NZ7-630S/4",
+      "description": "ATS (250A,400A,500A and 630A) - NZ7-630S/4 630A",
+      "price_pkr": 224112,
+      "specs": {
+        "rating": "630A",
+        "series": "NZ7",
+        "serial_no": "120"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "Frequency Convertor",
+      "model": "NVF2G-90/TS4",
+      "description": "Frequency Convertor - NVF2G-90/TS4",
+      "price_pkr": 877144,
+      "specs": {
+        "series": "NVF2G",
+        "serial_no": "121"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "Frequency Convertor",
+      "model": "NVF2G-132/TS4",
+      "description": "Frequency Convertor - NVF2G-132/TS4",
+      "price_pkr": 1228642,
+      "specs": {
+        "series": "NVF2G",
+        "serial_no": "122"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "Frequency Convertor",
+      "model": "NVF2G-3.7/TS4",
+      "description": "Frequency Convertor - NVF2G-3.7/TS4",
+      "price_pkr": 71490,
+      "specs": {
+        "series": "NVF2G",
+        "serial_no": "123"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "Manual Motor Starter",
+      "model": "NS2-25",
+      "description": "Manual Motor Starter - NS2-25 9-14A",
+      "price_pkr": 4854,
+      "specs": {
+        "rating": "9-14A",
+        "series": "NS2-25",
+        "serial_no": "124"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "Manual Motor Starter",
+      "model": "NS2-25",
+      "description": "Manual Motor Starter - NS2-25 13-18A",
+      "price_pkr": 4854,
+      "specs": {
+        "rating": "13-18A",
+        "series": "NS2-25",
+        "serial_no": "125"
+      }
+    },
+    {
+      "page": 4,
+      "brand": "CHINT",
+      "section": "Manual Motor Starter",
+      "model": "NS2-25",
+      "description": "Manual Motor Starter - NS2-25 1.6-2.5",
+      "price_pkr": 5012,
+      "specs": {
+        "rating": "1.6-2.5",
+        "series": "NS2-25",
+        "serial_no": "126"
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "page": 2,
+      "raw": " | Earth Leakage 32A,63A,100A,125A, 160A,250A,400A, 630A | NXMLE-125S/3300A 32A A | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    },
+    {
+      "page": 2,
+      "raw": " |  | NXMLE-125S/3300A 63A A | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    },
+    {
+      "page": 2,
+      "raw": " |  | NXMLE-125S/3300A 100A A | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    },
+    {
+      "page": 2,
+      "raw": " |  | NXMLE-125S/3300A 125A A | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    },
+    {
+      "page": 2,
+      "raw": " |  | NXMLE-160S/3300A 160A A | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    },
+    {
+      "page": 2,
+      "raw": " |  | NXMLE-250S/3300A 250A A | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    },
+    {
+      "page": 2,
+      "raw": " |  | NXMLE-400S/3300A 400A B | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    },
+    {
+      "page": 2,
+      "raw": " |  | NXMLE-630S/4300A 630A B | pcs | 0",
+      "reason": "sanity: price printed as 0 (placeholder, not a sellable price)"
+    }
+  ],
+  "stats": {
+    "pages": 4,
+    "rows": 136,
+    "priced": 135,
+    "skipped": 8
+  }
+}
